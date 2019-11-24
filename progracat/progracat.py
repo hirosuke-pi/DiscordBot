@@ -220,13 +220,14 @@ async def on_message(message):
         data += '<progracat bot - v'+ info.version +'>\r\n'
         data += '* こんにちは！たくさんのプログラミング言語を知ってるプログラキャットだよ！\r\n'
         data += '* それぞれ書いたプログラムをコマンドと一緒に投げてくれたら、実行結果を答えるぞ！\r\n'
-        data += '* コマンド一覧をみたいなら、/commandって打ってね！\r\n'
+        data += '* 俺はオープンソースだぞ！コマンド一覧とかソースコード見たいなら、↓からアクセスしてくれ！\r\n'
+        data += '+ https://github.com/betacode-projects/DiscordBot/tree/master/progracat'
         data += '+ 今知ってる言語は、(Python), (Ruby), (PHP), (JavaScript), (Perl)だよ！'
         data += '```'
 
         log('[*] '+ str(message.author) +': Shown help.', info.session_id)
         await message.channel.send(message.author.mention + data)   
-    
+
     elif cmd == '/timeout':
         tmp = message.content.split(':')
         if len(tmp) == 2:
@@ -244,6 +245,31 @@ async def on_message(message):
     elif message.content == '/version':
         log('[*] '+ str(message.author) +': Shown version.', info.session_id)
         await message.channel.send(message.author.mention + 'バージョンは'+ info.version +'だぞ！')
+
+    elif message.content.find('完全に理解した') != -1:
+        await message.add_reaction('🤔')
+
+    elif message.content.find('炎上') != -1:
+        await message.add_reaction('🔥')
+    
+    elif message.content.find('ハゲ') != -1:
+        await message.channel.send(message.author.mention + 'また髪の話してる...(´･ω･`)')
+
+    elif message.content.find('ネコ') != -1:
+        await message.add_reaction('😼')
+
+    elif message.content.find('スパゲッティコード') != -1 or message.content.find('スパゲティーコード') != -1 or message.content.find('スパゲッティーコード') != -1:
+        await message.add_reaction('😨')
+
+    elif message.content.find('プログラキャット') != -1 or message.content.find('progracat') != -1:
+        await message.channel.send(message.author.mention + '(=^. .^=)ﾐｬｰ')
+    
+    elif message.content.find('尊い') != -1:
+        await message.add_reaction('☺️')
+    
+    elif message.content.find('おめ！') != -1 or message.content.find('おめ!') != -1 or message.content.find('おめでとう') != -1:
+        await message.add_reaction('🥳')
+    
 
 if __name__ == "__main__":
     client.run(TOKEN)
