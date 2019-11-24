@@ -18,7 +18,7 @@ class ProgramInfo:
         self.fileext = ''  # プログラムファイル拡張子
         self.mention_flag = True # リプライするかどうか
         self.session_id = random.randint(0, 9999) # セッションID
-        self.version = '1.0'
+        self.version = '1.1'
         self.lang = ''
     
     def get_filepath(self):
@@ -221,9 +221,9 @@ async def on_message(message):
         data += '* こんにちは！たくさんのプログラミング言語を知ってるプログラキャットだよ！\r\n'
         data += '* それぞれ書いたプログラムをコマンドと一緒に投げてくれたら、実行結果を答えるぞ！\r\n'
         data += '* 俺はオープンソースだぞ！コマンド一覧とかソースコード見たいなら、↓からアクセスしてくれ！\r\n'
-        data += '+ https://github.com/betacode-projects/DiscordBot/tree/master/progracat'
-        data += '+ 今知ってる言語は、(Python), (Ruby), (PHP), (JavaScript), (Perl)だよ！'
-        data += '```'
+        data += '+ 今知ってる言語は、(Python), (Ruby), (PHP), (JavaScript), (Perl)だよ！\r\n'
+        data += '```\r\n'
+        data += 'https://github.com/betacode-projects/DiscordBot/tree/master/progracat \r\n'
 
         log('[*] '+ str(message.author) +': Shown help.', info.session_id)
         await message.channel.send(message.author.mention + data)   
@@ -254,6 +254,7 @@ async def on_message(message):
     
     elif message.content.find('ハゲ') != -1:
         await message.channel.send(message.author.mention + 'また髪の話してる...(´･ω･`)')
+        log('[*] '+ str(message.author) +': "Hage" detected.', info.session_id)
 
     elif message.content.find('ネコ') != -1:
         await message.add_reaction('😼')
