@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 import discord
+from discord.ext import tasks
+
 import importlib
 import threading
 import time
@@ -7,6 +9,8 @@ import datetime
 import random
 import os, sys
 import subprocess
+import base64
+import learn
 
 TOKEN = ''
 
@@ -18,7 +22,7 @@ class ProgramInfo:
         self.fileext = ''  # プログラムファイル拡張子
         self.mention_flag = True # リプライするかどうか
         self.session_id = random.randint(0, 9999) # セッションID
-        self.version = '1.1'
+        self.version = '1.3'
         self.lang = ''
     
     def get_filepath(self):
@@ -64,7 +68,7 @@ client = discord.Client()
 
 @client.event
 async def on_ready():
-    log("[*] pycatbot started.", 'started')
+    log("[*] progracat bot started. - v" + ProgramInfo().version, 'started')
 
 @client.event
 async def on_message(message):
@@ -193,6 +197,15 @@ async def on_message(message):
             if timed_out:
                 log('[+] Program timed out. ', info.session_id)
                 return
+            
+            # トークン情報が入っていたら
+            if output.find(TOKEN) != -1:
+                if info.mention_flag:
+                    await message.channel.send(message.author.mention + ' ボクのトークンは渡さないよ！😠')
+                else:
+                    await message.add_reaction('😠')
+                log('[!] '+ str(message.author) +': Stole token detected!', info.session_id)
+                return
 
             # 実行データ送信
             if info.mention_flag:
@@ -221,7 +234,8 @@ async def on_message(message):
         data += '* こんにちは！たくさんのプログラミング言語を知ってるプログラキャットだよ！\r\n'
         data += '* それぞれ書いたプログラムをコマンドと一緒に投げてくれたら、実行結果を答えるぞ！\r\n'
         data += '* 俺はオープンソースだぞ！コマンド一覧とかソースコード見たいなら、↓からアクセスしてくれ！\r\n'
-        data += '+ 今知ってる言語は、(Python), (Ruby), (PHP), (JavaScript), (Perl)だよ！\r\n'
+        data += '+ 今知ってる言語は、Python, Ruby, PHP, JavaScript, Perlだよ！\r\n'
+        data += '* /talk コマンドで何かしゃべるぞ！'
         data += '```\r\n'
         data += 'https://github.com/betacode-projects/DiscordBot/tree/master/progracat \r\n'
 
@@ -242,6 +256,47 @@ async def on_message(message):
                     await message.channel.send(message.author.mention + ' 制限時間を、'+ str(old_time) +'秒から'+ str(timeout)+'秒に変更したぞ！')
                     log('[*] Timeout changed - '+ str(message.author) +': '+ str(old_time) +'s => ' + str(timeout) +'s', info.session_id)
     
+    elif message.content == '/comp':
+        try:
+            learn.compile_text()
+            await message.channel.send(message.author.mention + ' 言語データを再コンパイルしたぞ！')
+            log("[*] Languages data recompiled.", info.session_id)
+        except Exception as e:
+            await message.channel.send(message.author.mention + ' コンパイル失敗したぞ...: '+ str(e.args))
+            log('[-] Error: '+ str(e.args), info.session_id)
+
+    elif cmd == '/comp':
+        tmp = message.content.split(':')
+        if len(tmp) == 2:
+            if tmp[1].isalnum() and tmp[1].isdecimal():
+                if 0 < int(tmp[1]) < 10:
+                    try:
+                        learn.compile_text(int(tmp[1]))
+                        await message.channel.send(message.author.mention + ' 言語データを再コンパイルしたぞ！')
+                        log("[*] Languages data recompiled. (state="+ tmp[1] +")", info.session_id)
+                    except Exception as e:
+                        await message.channel.send(message.author.mention + ' コンパイル失敗したぞ...: '+ str(e.args))
+                        log('[-] Error: '+ str(e.args), info.session_id)
+
+
+    elif message.content == '/talk':
+        await message.channel.send(learn.get_massage())
+        log('[*] '+ str(message.author) +': Talk to me. (140 words)', info.session_id)
+
+    elif cmd == '/talk':
+        tmp = message.content.split(':')
+        if len(tmp) == 2:
+            if tmp[1].isalnum() and tmp[1].isdecimal():
+                if int(tmp[1]) > 600:
+                    await message.channel.send(message.author.mention + ' 600文字以上はしゃべれないぞ...')
+                elif int(tmp[1]) < 30:
+                    await message.channel.send(message.author.mention + ' 30文字以下はしゃべれないぞ...')
+                else:
+                    words = int(tmp[1])
+                    await message.channel.send(learn.get_massage(words))
+                    log('[*] '+ str(message.author) +': Talk to me. ('+ str(words) +' words)', info.session_id)
+
+
     elif message.content == '/version':
         log('[*] '+ str(message.author) +': Shown version.', info.session_id)
         await message.channel.send(message.author.mention + 'バージョンは'+ info.version +'だぞ！')
@@ -259,6 +314,12 @@ async def on_message(message):
     elif message.content.find('ネコ') != -1:
         await message.add_reaction('😼')
 
+    elif message.content.find('眠い') != -1:
+        await message.add_reaction('😪')
+
+    elif message.content.find('社畜') != -1:
+        await message.add_reaction('😇')
+
     elif message.content.find('スパゲッティコード') != -1 or message.content.find('スパゲティーコード') != -1 or message.content.find('スパゲッティーコード') != -1:
         await message.add_reaction('😨')
 
@@ -271,6 +332,23 @@ async def on_message(message):
     elif message.content.find('おめ！') != -1 or message.content.find('おめ!') != -1 or message.content.find('おめでとう') != -1:
         await message.add_reaction('🥳')
     
+    else:
+        txt_dir = os.path.dirname(os.path.abspath(__file__)) + '/text'
+        with open(txt_dir + '/discord.txt', 'a', encoding='utf-8') as f:
+            f.write('\n' + message.content)
+
+
+# Discordのメッセージデータを言語データに反映
+@tasks.loop(seconds=60*60*24)
+async def recompile_text_loop():
+    try:
+        learn.compile_text()
+        log("[*] Languages data recompiled.", 'compiled')
+    except Exception as e:
+        log("[-] Compile Error.", str(e.args))
+
+
 
 if __name__ == "__main__":
+    recompile_text_loop.start()
     client.run(TOKEN)
