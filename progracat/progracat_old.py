@@ -12,7 +12,7 @@ import subprocess
 import base64
 import learn
 
-TOKEN = 'NjQ3MDM5NTI3Mjg5ODgwNTc3.XdoE0w.ayxz2rLb5-k03PEXnAVuVKKaxDk'
+TOKEN = ''
 
 
 class ProgramInfo:
