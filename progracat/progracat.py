@@ -8,8 +8,8 @@ import traceback
 import os, sys
 
 TOKEN = ''
-FUNC_EXTENSIONS = ['mods.programs.main', 'mods.other.main', 'mods.learn.main', 'mods.game.main']
-__builtins__.__version__ = 'v2.0.0'
+FUNC_EXTENSIONS = ['mods.programs.main', 'mods.other.main', 'mods.learn.main', 'mods.game.main', 'mods.func.main']
+__builtins__.__version__ = 'v2.1.0'
 
 
 def log(data):
@@ -35,8 +35,8 @@ class Progracat(commands.Bot):
     """
     存在しないコマンドが呼び出された時のイベント
     """
-    #async def on_command_error(self, error, ctx):
-    #    pass
+    async def on_command_error(self, error, ctx):
+        pass
 
     """
     Bot起動時のイベント
