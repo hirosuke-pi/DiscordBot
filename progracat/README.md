@@ -1,85 +1,71 @@
 # progracat
 + Python, Ruby, PHP, node.js, Perlの実行結果を返してくれるプログラムのネコです
++ その他にも色々機能があったり...
 
 ## コマンド一覧
 
 ### Python
 
-/py:
+/py
 ```py
 print('hello')
 ```
-> Pythonの実行結果をユーザー宛に返す。
+> Pythonの実行結果を返す。
 
-/pyw:
-```py
-print('hello')
-```
-> Pythonの実行結果をそのまま返す。
 
 ### Ruby
 
-/rb:
+/rb
 ```rb
 puts 'hello'
 ```
-> Rubyの実行結果をユーザー宛に返す。
+> Rubyの実行結果を返す。
 
-/rbw:
-```rb
-puts 'hello'
-```
-> Rubyの実行結果をそのまま返す。
 
 ### PHP
 
-/php:
+/php
 ```php
 echo 'hello';
 ```
-> PHPの実行結果をユーザー宛に返す。
+> PHPの実行結果を返す。
 
-/phpw:
-```php
-echo 'hello';
-```
-> PHPの実行結果をそのまま返す。
 
 ### JavaScript
 
-/js:
+/js
 ```js
 console.log('hello');
 ```
-> Node.jsの実行結果をユーザー宛に返す。
+> Node.jsの実行結果を返す。
 
-/jsw:
-```js
-console.log('hello');
-```
-> Node.jsの実行結果をそのまま返す。
 
 ### Perl
 
-/pl:
+/pl
 ```pl
 print 'hello';
 ```
-> Perlの実行結果をユーザー宛に返す。
+> Perlの実行結果を返す。
 
-/plw:
-```pl
-console.log('hello');
-```
-> Perlの実行結果をそのまま返す。
 
 ### トークコマンド(仮)
 
-* /talk[:(文字数)]
+* /talk <(文字数)>
 > なにかしゃべる。30～600文字まで設定可能。
 
-* /comp[:(ステートサイズ)]
+* /comp <(ステートサイズ)>
 > 言語データを再コンパイルする。1～9まで設定可能。
+
+
+### ポケモン図鑑機能
+
+* /poke <ポケモン名(英語)か、番号>
+> ポケモン図鑑を参照。
+
+* /pokekuji
+> 今日のラッキーポケモンを返す。
+
 
 ### その他コマンド
 
@@ -89,11 +75,8 @@ console.log('hello');
 * /help
 > ヘルプを表示。
 
-* /timeout:<TIMEOUT_SECOND>
+* /timeout <TIMEOUT_SECOND>
 > 制限時間(秒)の設定。 10 ~ 600秒まで設定可能。
-
-### コマンド注意事項
-> :との間にスペースを入れると反応できない。
 
 
 ## 注意

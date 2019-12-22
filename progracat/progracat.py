@@ -9,7 +9,7 @@ import os, sys
 
 TOKEN = ''
 FUNC_EXTENSIONS = ['mods.programs.main', 'mods.other.main', 'mods.learn.main', 'mods.game.main', 'mods.func.pokemon']
-__builtins__.__version__ = 'v2.2.0'
+__builtins__.__version__ = 'v2.2.1'
 
 
 def log(data):
@@ -53,7 +53,8 @@ class HelpCommand(commands.DefaultHelpCommand):
         self.command_attrs["help"] = "コマンド一覧と簡単な説明を表示"
     
     def get_ending_note(self):
-        return ("コマンド打つときは最初に'/'を付けるんだぞ！\r\n```"
+        return ("コマンド打つときは最初に'/'を付けるんだぞ！\r\n"
+                "今のバージョンは、"+ __version__ +"だぞ！\r\n```"
                 "https://github.com/betacode-projects/DiscordBot/tree/master/progracat ```")
 
 

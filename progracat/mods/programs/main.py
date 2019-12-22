@@ -151,7 +151,7 @@ class ProgrammingEmulator(commands.Cog, name='プログラミング・エミュ�
     async def py(self, ctx, *, msg):
         """ Pythonのプログラムを実行するぞ！ """
         emu = ProgramEmu(self.bot, ctx)
-        emu.launcher = 'python'
+        emu.launcher = 'python3'
         emu.lang = 'Python'
         emu.fileext = 'py'
         emu.programs = msg[4:len(msg)].rstrip('```').lstrip('```python').lstrip('```py')
