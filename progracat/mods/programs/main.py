@@ -22,6 +22,7 @@ class ProgramEmu:
         self.programs = ''  # プログラム内容
         self.launcher = '' # プログラム実行ファイル
         self.fileext = ''  # プログラムファイル拡張子
+        self.lang = ''
         self.programs = ''
         self.bot = bot
         self.ctx = ctx
@@ -66,12 +67,11 @@ class ProgramEmu:
             # プログラム書き込み
             with open(self.get_filepath(), 'w', encoding='utf-8') as f:
                 f.write(self.programs)
-            await self.ctx.message.add_reaction('👌')
             return True
         except:
+            await self.ctx.message.add_reaction('😖')
             log('[-] IO Error:')
             traceback.print_exc()
-            await self.ctx.message.add_reaction('😖')
             return False
     
 
@@ -138,17 +138,21 @@ class ProgrammingEmulator(commands.Cog, name='プログラミング・エミュ�
         self.timeout = 30
     
     async def run_emulator(self, ctx, emu):
+        """ エミュレーター実行 """
         emu.timeout = self.timeout
-        await emu.compile()
-        recv_data = await emu.run()
-        if recv_data != '':
-            await ctx.send(recv_data)
+        if await emu.compile():
+            await ctx.message.add_reaction('👌')
+            recv_data = await emu.run()
+            if recv_data != '':
+                await ctx.send(recv_data)
+
 
     @commands.command()
     async def py(self, ctx, *, msg):
         """ Pythonのプログラムを実行するぞ！ """
         emu = ProgramEmu(self.bot, ctx)
-        emu.launcher = 'python3'
+        emu.launcher = 'python'
+        emu.lang = 'Python'
         emu.fileext = 'py'
         emu.programs = msg[4:len(msg)].rstrip('```').lstrip('```python').lstrip('```py')
         await self.run_emulator(ctx, emu)
@@ -159,6 +163,7 @@ class ProgrammingEmulator(commands.Cog, name='プログラミング・エミュ�
         """ Rubyのプログラムを実行するぞ！ """
         emu = ProgramEmu(self.bot, ctx)
         emu.launcher = 'ruby'
+        emu.lang = 'Ruby'
         emu.fileext = 'rb'
         emu.programs = msg[4:len(msg)].rstrip('```').lstrip('```ruby').lstrip('```rb')
         await self.run_emulator(ctx, emu)
@@ -169,6 +174,7 @@ class ProgrammingEmulator(commands.Cog, name='プログラミング・エミュ�
         """ JavaScriptのプログラムを実行するぞ！ """
         emu = ProgramEmu(self.bot, ctx)
         emu.launcher = 'node'
+        emu.lang = 'JavaScript'
         emu.fileext = 'js'
         emu.programs = msg[4:len(msg)].rstrip('```').lstrip('```js')
         await self.run_emulator(ctx, emu)
@@ -179,6 +185,7 @@ class ProgrammingEmulator(commands.Cog, name='プログラミング・エミュ�
         """ PHPのプログラムを実行するぞ！ """
         emu = ProgramEmu(self.bot, ctx)
         emu.launcher = 'php'
+        emu.lang = 'PHP'
         emu.fileext = 'php'
         emu.programs = msg[5:len(msg)].rstrip('```').lstrip('```php')
         await self.run_emulator(ctx, emu)
@@ -189,6 +196,7 @@ class ProgrammingEmulator(commands.Cog, name='プログラミング・エミュ�
         """ Perlのプログラムを実行するぞ！ """
         emu = ProgramEmu(self.bot, ctx)
         emu.launcher = 'perl'
+        emu.lang = 'Perl'
         emu.fileext = 'pl'
         emu.programs = msg[4:len(msg)].rstrip('```').lstrip('```perl').lstrip('```pl')
         await self.run_emulator(ctx, emu)

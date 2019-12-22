@@ -8,8 +8,8 @@ import traceback
 import os, sys
 
 TOKEN = ''
-FUNC_EXTENSIONS = ['mods.programs.main', 'mods.other.main', 'mods.learn.main', 'mods.game.main', 'mods.func.main']
-__builtins__.__version__ = 'v2.1.0'
+FUNC_EXTENSIONS = ['mods.programs.main', 'mods.other.main', 'mods.learn.main', 'mods.game.main', 'mods.func.pokemon']
+__builtins__.__version__ = 'v2.2.0'
 
 
 def log(data):

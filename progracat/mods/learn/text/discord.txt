@@ -72,3 +72,53 @@ help
 /pokekuji
 /pokekuji
 /pokekuji
+/pokekuji
+/py ```py
+print('hello')
+```
+/py ```py
+print('hello')
+```
+/py ```py
+print('hello')
+```
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/help
+/poke eevee
+/pokekuji
+/poke eevee
+/poke eevee
+/poke aaaa
+/poke 999
+/poke 999
+/poke 999
+/poke 801
+/poke eevee
+/pokemon pichu
+/help
+トラップタワー機能してません…
+/pk
+/p 807
+/p 809
+/808
+/p 808
+/p 807
+/help
