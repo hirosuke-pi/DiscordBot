@@ -4,8 +4,6 @@ from discord.ext import commands
 import datetime
 import traceback
 import os, sys
-import urllib.request
-import json
 import random
 import pokebase as pb
 
