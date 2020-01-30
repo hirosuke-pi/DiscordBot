@@ -7,9 +7,9 @@ import datetime
 import traceback
 import os, sys
 
-TOKEN = ''
+TOKEN = 'NjQ3MDM5NTI3Mjg5ODgwNTc3.Xf7G9A.OhaZwC49L_iYn8ZDJWAX9pQHxjc'
 FUNC_EXTENSIONS = ['mods.programs.main', 'mods.other.main', 'mods.learn.main', 'mods.game.main', 'mods.func.pokemon', 'mods.func.watch']
-__builtins__.__version__ = 'v2.3.0'
+__builtins__.__version__ = 'v2.3.1'
 
 
 def log(data):

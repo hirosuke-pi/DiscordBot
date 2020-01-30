@@ -90,7 +90,7 @@ def load_discord_csv(files_pattern):
             f.write('\n'.join(csv_data))
 
 
-def compile_text(state=1):
+def compile_text(state=2):
     # load discord csv
     now_directory = os.path.dirname(os.path.abspath(__file__))
     load_discord_csv(now_directory +'/text/*.csv')

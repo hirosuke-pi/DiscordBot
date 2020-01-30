@@ -4,6 +4,8 @@ from discord.ext import commands
 import datetime
 import traceback
 import os, sys
+import urllib.request
+import json
 import random
 import pokebase as pb
 
@@ -97,6 +99,8 @@ class Pokemon(commands.Cog, name='ポケモンコマンド'):
                     break
             await self.send_progress(tmp, load_msg, pr)
 
+            seed_sum = stats_dict['hp'] + stats_dict['attack'] + stats_dict['special-attack'] + stats_dict['special-defense'] + stats_dict['defense'] + stats_dict['speed']
+
             if embed == '':
                 embed = discord.Embed(title='ポケモンくじ', description='今日の'+ ctx.author.mention + 'のラッキーポケモンは... '+ name +'！', color=random.randint(0, 0xffffff))
             embed.add_field(name='図鑑番号', value=str(poke_num), inline=True)
@@ -106,8 +110,11 @@ class Pokemon(commands.Cog, name='ポケモンコマンド'):
             embed.set_image(url='https://raw.githubusercontent.com/fanzeyi/pokemon.json/master/images/'+ str(poke_num).zfill(3) +'.png')
             embed.add_field(name='体力', value=str(stats_dict['hp']), inline=True)
             embed.add_field(name='攻撃力', value=str(stats_dict['attack']), inline=True)
-            embed.add_field(name='防御力', value=str(stats_dict['defense']), inline=True)
+            embed.add_field(name='特攻', value=str(stats_dict['special-attack']), inline=True)
+            embed.add_field(name='防御力', value=str(stats_dict['special-defense']), inline=True)
+            embed.add_field(name='特防', value=str(stats_dict['defense']), inline=True)
             embed.add_field(name='速度', value=str(stats_dict['speed']), inline=True)
+            embed.add_field(name='種族値合計', value=str(seed_sum), inline=True)
             embed.add_field(name='重さ', value=str(weight) +'kg', inline=True)
             embed.add_field(name='説明', value=flavor, inline=False)
         
