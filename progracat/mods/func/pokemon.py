@@ -50,7 +50,28 @@ class Pokemon(commands.Cog, name='ポケモンコマンド'):
 
     async def pokemon_search(self, ctx, poke_ser, load_msg, embed=''):
         pr = ProgressBar(7)
+        pic_list = ['https://thumbs.gfycat.com/FairSinfulCottontail-small.gif',
+                    'https://media.giphy.com/media/3M8bGcZOexuvneoJZl/giphy.gif',
+                    'https://cdn.dribbble.com/users/621155/screenshots/2835329/coorzzz.gif',
+                    'https://a.top4top.io/p_1990j031.gif',
+                    'https://i.pinimg.com/originals/72/00/28/720028e1fce6412e77667993ead54ede.gif',
+                    'https://i.pinimg.com/originals/51/72/56/517256bf41fd027b5eec4a38c5110420.gif',
+                    'https://media2.giphy.com/media/uXnif9JVu6VnW/source.gif']
+        
+        type_dict = { 'normal' : 'ノーマル', 'fire' : 'ほのお', 'water' : 'みず', 'grass' : 'くさ', 'electic' : 'でんき',
+                      'ice' : 'こおり', 'fighting' : 'かくとう', 'poison' : 'どく', 'ground' : 'じめん', 'flying' : 'ひこう',
+                      'psychic' : 'エスパー', 'bug' : 'むし', 'rock' : 'いわ', 'ghost' : 'ゴースト', 'dragon' : 'ドラゴン',
+                      'dark' : 'あく', 'steel' : 'はがね', 'fairy' : 'フェアリー' }
+        
+        type_list = ['ノーマル', 'ほのお', 'みず', 'くさ', 'でんき',
+                     'こおり', 'かくとう', 'どく', 'じめん', 'ひこう',
+                     'エスパー', 'むし', 'いわ', 'ゴースト', 'ドラゴン',
+                     'あく', 'はがね', 'フェアリー']
+
         tmp = await ctx.send(load_msg)
+        load_pic = discord.Embed(title='', description='', color=random.randint(0, 0xffffff))
+        load_pic.set_image(url=random.choice(pic_list))
+        load_pic_msg = await ctx.send(embed=load_pic)
 
         try:
             await self.send_progress(tmp, load_msg, pr)
@@ -66,10 +87,7 @@ class Pokemon(commands.Cog, name='ポケモンコマンド'):
 
             type_names = []
             for t in p_data.types:
-                tp = pb.type_(t.type.name)
-                for t_name in tp.names:
-                    if t_name.language.name.find('ja') != -1:
-                        type_names.append(t_name.name)
+                type_names.append(type_list[t.slot])
             type_name = ', '.join(type_names)
             await self.send_progress(tmp, load_msg, pr)
 
@@ -111,14 +129,15 @@ class Pokemon(commands.Cog, name='ポケモンコマンド'):
             embed.add_field(name='体力', value=str(stats_dict['hp']), inline=True)
             embed.add_field(name='攻撃力', value=str(stats_dict['attack']), inline=True)
             embed.add_field(name='特攻', value=str(stats_dict['special-attack']), inline=True)
-            embed.add_field(name='防御力', value=str(stats_dict['special-defense']), inline=True)
-            embed.add_field(name='特防', value=str(stats_dict['defense']), inline=True)
+            embed.add_field(name='防御力', value=str(stats_dict['defense']), inline=True)
+            embed.add_field(name='特防', value=str(stats_dict['special-defense']), inline=True)
             embed.add_field(name='速度', value=str(stats_dict['speed']), inline=True)
             embed.add_field(name='種族値合計', value=str(seed_sum), inline=True)
             embed.add_field(name='重さ', value=str(weight) +'kg', inline=True)
             embed.add_field(name='説明', value=flavor, inline=False)
         
             await tmp.delete()
+            await load_pic_msg.delete()
             await ctx.send(embed=embed)
 
         except ValueError as e:
