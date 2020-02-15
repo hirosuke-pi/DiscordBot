@@ -26,7 +26,7 @@ class Game(commands.Cog, name='一息ゲームコマンド'):
 
         # ボム生成
         for y in range(Y):
-            bomb_list.append([9 if random.randint(0, 15) == 1 else 0 for i in range(X)])
+            bomb_list.append([9 if random.randint(0, 6) == 1 else 0 for i in range(X)])
         
         # ボム位置の把握
         for y in range(Y):
@@ -51,7 +51,41 @@ class Game(commands.Cog, name='一息ゲームコマンド'):
                 else:
                     mine_data += '||'+ num_dict[bomb] + '||'
             mine_data += '\r\n'
-        await ctx.send(mine_data)
+        mine_txt = await ctx.send(mine_data)
+
+        await mine_txt.add_reaction('😰')
+
+        # 答え合わせ
+        def check(reaction, user):
+            emoji = str(reaction.emoji)
+            if user.bot == True:    # botは無視
+                pass
+            else:
+                return emoji == '😰'
+        
+        
+        while not self.bot.is_closed():
+            try:
+                reaction, user = await self.bot.wait_for('reaction_add', timeout=600, check=check)
+            except asyncio.TimeoutError:
+                await mine_txt.add_reaction('😪')
+                break
+            else:
+                if ctx.author.id != user.id:
+                    continue
+                mine_data = ''
+                for bomb_ptr in bomb_list:
+                    #print(bomb_ptr)
+                    for bomb in bomb_ptr:
+                        if bomb == 9:
+                            mine_data += '||#⃣||'
+                        else:
+                            mine_data += num_dict[bomb]
+                    mine_data += '\r\n'
+                await mine_txt.edit(content=mine_data)
+                await mine_txt.add_reaction('😪')
+                break
+
             
 
     @commands.command()
@@ -92,14 +126,14 @@ class Game(commands.Cog, name='一息ゲームコマンド'):
         index_list = []
         while not self.bot.is_closed():
             try:
-                reaction, user = await self.bot.wait_for('reaction_add', timeout=30, check=check)
+                reaction, user = await self.bot.wait_for('reaction_add', timeout=60, check=check)
             except asyncio.TimeoutError:
                 await slot_txt.add_reaction('😪')
                 break
             else:
                 if ctx.author.id != user.id:
                     continue
-                if str(reaction.emoji) == '🔄' and cnt >= 3:
+                if str(reaction.emoji) == '🔄':
                     index_list = list()
                     cnt = 0
                     s = [['㊙️', '㊙️', '㊙️'], ['㊙️', '㊙️', '㊙️'], ['㊙️', '㊙️', '㊙️']]

@@ -1,238 +1,10590 @@
+@ぐっちゃん PHPのプログラム受け取ったぞ！ちょっと待ってて...
+@ぐっちゃんPHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /discordbot/progracat/index.php on line 5
+/php:```
+
+@ぐっちゃん PHPのプログラム受け取ったぞ！ちょっと待ってて...
+@ぐっちゃんてすとーーー
+
+お天気BOTくんほぼほぼ完成しましたあああああ
+おお〜
+すげえ
+こっちに入れよ
+どうすればいい？
+なんかリンク見たいやつくれたら入れれる
+おｋ
+ESlintの設定がわかんなすぎてゲロ吐きそう
+
+😠
+最後まで表示されてないから微妙やけどjsonファイルのなんか？
+なんか読み込もうとして無理だってエラー吐いてる？
+Unable to load schema from 'https://schemastore.azurewebsites.net/schemas/json/package.json': write EPROTO 376366808:error:100000f0:SSL routines:OPENSSL_internal:UNSUPPORTED_PROTOCOL:../../third_party/boringssl/src/ssl/handshake_client.cc:568:\n.
+調べたらproxy関係らしいけど自宅だしproxyの設定も消してるから意味不
+ノートpc？
+うん
+自決しました
+```
+
+
+これ設定に入れたら治ったわ
+なぞ
+おお笑
+jsのデバッグツール？
+
+さっき軽くググった
+構文のチェックしてくれるやつ
+みたいやねー
+型チェックするみたいなこと書いてるー
+もし余裕があればtypescriptのチュートリアルとかやってみてー
+あればね😉
+とりあえずminecraftのサーバ建てました
+
+(ﾟ∀ﾟ)ｷﾀｺﾚ!!
+IPは
+ゲームのカテゴリとマイクラのチャンネル作ったー
+これ終わらんかも
+mix？
+うん
+
+今こんな感じ
+~~なんかwidthおかしいわ~~
+おわったああああああああああああああああああ
+お疲れ様(汗
+お天気BOTくんコマンドフレームワークを使ってコード書き直しました…疲れた（´・ω・｀）
+--help
+```
+
+ｰｰurl
+--url http://www.google.com
+短縮したよ！ https://is.gd/WzFWtC
+
+
+
+
+カテゴリがなぞなんだが
+いちおうここのカテゴリ「投資」なんやけどｗｗｗｗ
+
+
+
+http://gazoreply.jp/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://railstutorial.jp/
+おベースのサイト作るのボチボチやっていこ
+Twitter垢も作るべ
+
+この中でどれが一番おススメ？
+oracleいくぞ
+有料じゃねw
+無料がいいんですよぐっちゃんさん
+
+草
+なんやこのぼったくり！？！？
+http://www.hitachi.co.jp/Prod/comp/soft1/oracle/info/price/license.html
+一番安いのでも焼肉40回分やん
+値段頭いかれてる
+無料のRDSがあるのにオラクル使うのってなんか理由あるんかな
+わりとまじめにアフィカス頑張る節
+説
+あると思います
+僕は本気でYouTubeで稼ぐぞ！
+山根のおススメRDS教えろください
+そういう方向で行くならもうちょいちゃんとやっていかなあかんｗ
+RDSってなに
+MySQL一択じゃないの
+データベースソフトのことだぞ
+mysqlでええやろ
+今見てる動画でもMySQL進めてるわ
+無料でええやん
+はい終了！閉廷！
+草
+XAMPPってマリアDBじゃなかったけ？
+終わるな
+の
+まいえすきゅーえるだったとおもう
+でもプロンプトでマリアDBって表示されるやん
+XAMPP は、完全に無償で MariaDB、PHP、および Perl を含
+どゆことや！？
+＞＜
+嘘ついたわ
+ワケワカメちおん
+ぐっちゃん生声でゲーム実況とかしてるん？
+してないで
+ま？でも動画投稿はしてるんやろ？
+今は全部非公開にしてるらしい
+えぇ、
+まとめてやる感じかな？
+いや前に登校した奴を現在は非公開
+なんや勿体ないやん
+生声じゃないよ
+ゆっくり？
+
+4本だけ
+ええやん。普通にクリックしそうなサムネしてる
+ようつべは八割さむねだからね
+わかる。文字無いやつあんまり見る気しない
+俺もスカイリムの動画とか投稿しようかな
+見るよ
+お、じゃあ冬休み投稿するかも
+やったぜ٩( 'ω' )و
+それよかまずはMOD入れ直さなあかんな。前の環境リセットしちゃってるから
+ゲーム画面を録画するソフトは有料？
+shadowplayだよ
+無料？
+編集は棒読みちゃん＋PremierePro
+
+ええやん。行けそうな気がしてきた
+スカイリムの動画の再生回数少なすぎて萎えた。マインクラフトにしようかな
+マイクラしよ
+まあまて。
+maikura now
+溶岩ダイブ期待
+ちょっと何言ってるかわからない
+いや、なんか山根さんの溶岩浴を見たくて
+お引き取りください
+悲しいなぁ
+【募集】うちのサイト作りたい人－
+http://hackme.netfire.jp/start
+https://www.colordic.org/
+https://www.webdesignclip.com/
+誰か授業の実況してや
+ｗｗ
+```html
+
+htmlもいけるわ
+```css
+
+```css
+
+```html
+
+
+コメントわからん
+```css
+
+こいつらコピペしたらいけるぞ
+```css
+
+
+```css
+
+```css
+
+なんとなく理解したわ
+```css
+
+とりあえずコピペすればええで
+```css
+
+多分同じ
+```html
+
+あってるぞい
+okeke
+コメント追加しといたよ
+/pyw: print('thank you!')
+File 
+!?
+```css
+
+だと思う
+#page1{
+
+有能
+ルクセンブルク語草
+えぇ..
+```css
+
+貼り直し
+かみ
+わかる
+えぇ…
+たくみもかみ
+:seyana:
+見えない、ありゃんした
+白箱を線で囲えばいいの？
+んで角丸くするんやな
+うむ
+border-radius: 20px;/*角が丸くなる*/
+#center_box
+これに追加
+```html
+
+```css
+
+css忘れてたわ
+これ当番制で一人だけ授業受けたら、他の人は違うことしててもいいんじゃね？笑笑（冗談です）
+天才か？？
+てことでたくみこれから頼んだぞ
+まじかよ。
+たくみ神かよ
+まえのふたりでろーてーしょんしておくれ
+それかたくみのせきでとうばんがじゅぎょううけるか
+その制度適応させるならバイトってかんじでやってもいいかもなｗｗ
+それか、後方がideaの消化を担当
+```css
+
+```css
+
+```css
+
+```css
+
+https://gigazine.net/news/20191205-how-facebook-avoid-adblocker/
+執拗な広告ブロック回避で笑いそう
+【募集】課題通知してくれるシステム欲しいんだけど誰か開発一緒にやってくれる人募集
+ﾉｼ
+サンキュ！
+中身はこれから考える!
+俺も欲しいわ
+今回はredmineみたいなタスク管理使ってわりとちゃんとする感じになると思う
+設計ちゃんと考える
+というかちゃんとやらないとまずいｗ
+やなw
+できたら冬休み中に完成させたいな
+じゃないと2年になっちまうｗｗｗ
+redmineでタスク管理
+サバはheroku
+バックエンドfirebase
+html/css
+typescript/reactで
+【募集】システムの名前
+たすくあらーと
+task notice
+タスクマネージャー
+名前?
+そうそう
+おけおけ
+直近でやらないといけないやつ
+
+配列マスターできてるんやったら関数とか予習するといいかも
+
+
+なんかフォルダごとは無理やった。magic.phpがサイトからパクった方でph11.phpが授業でやってたやり方やけどたくみから送られてきた画像になかった部分はわいが考えたコードになります。
+
+style適用させたい場合はphpファイルと同じフォルダに入れたら適用されるはず
+さんきゅー！
+コメントの書いてること意味わからんかったらすまんｗｗ
+まあ何とかいけるやろ！
+わからんかったらどうにか頑張ってくれwwww
+おっけ！
+ありがとう！
+
+これでYoutube見れるけど、悪用したらあかんで😉
+https://paiza.hatenablog.com/entry/2018/05/08/%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%84%E5%95%8F%E9%A1%8C%E9%9B%86%E3%81%AA%E3%81%A9%E3%80%81%E5%88%9D%E5%BF%83%E8%80%85%E3%81%A7%E3%82%82%E6%A5%BD%E3%81%97%E3%81%8FPHP%E3%82%92%E5%AD%A6%E7%BF%92%E3%81%A7
+PHPの課題の見本です、自由に使ってもらって構いません😉
+
+😃
+```php
+
+nameとかvalueとか
+https://ja.wikipedia.org/wiki/TypeScript
+```rust
+
+https://ja.wikipedia.org/wiki/Rust_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E)
+seleniumすごすぎワロタ
+なにそれ？
+美味しいの？
+webブラウザを自動的に操作するPythonのパッケージ
+味は多分美味しい
+ほぉ〜
+食べたい
+やってみ起動した瞬間自動でテキスト打ち込みだすから
+これマジでおもしろい
+気が向いたらやるわ
+seleniumを含んだpythonファイルのexe化
+それやるの？
+いま試してるとこ
+pyinstall先生が紹介しててくさ
+やっぱり時代はexe化だね
+基本的にはタブーじゃね？
+そりゃそうやけどやりたいやん？
+まあ個人利用の範囲までなきガス
+しらんけど
+ｗｗｗ
+ええんや！
+pyinstallerまじか
+※うちでは使いません
+アフィカスになる
+やろｗｗ
+マジでこれはやりたいよね。やっぱ金や金
+草
+インスタンスアクセス成功
+おお
+おお
+TeraTermかよ
+RLoginオススメやで(布教)
+なんか違うん？
+VS Codeみたいにターミナル分割できるし、細かい設定までGUIでできる
+あと、Teratermだとプロキシの設定面倒やけど、RLoginやとGUIでめっちゃ簡単
+学校のネットワークからいじりたいなら、RLoginの方がいいかも
+一応この接続学校からやってるからプロキシは大丈夫そう。
+
+nginxくんちゃんとAWSって認識してるんやな....
+日本語プログラミングとかいう謎言語
+https://nadesi.com/doc3/index.php?%E3%81%AA%E3%81%A7%E3%81%97%E3%81%933%E7%B0%A1%E6%98%93%E3%82%A8%E3%83%87%E3%82%A3%E3%82%BF
+今電車の中で触ってみたけどよくわからん
+英語のプログラムでいいや笑
+でもこれがスタンダードになった世界線も見てみたい気はする
+多分中国語っぽくなりそう笑
+余計わかりにくそうやなｗ
+やっぱ英語なんだよなあ
+もう公用語も英語でいいような気がする
+笑
+第二次世界大戦で日本が勝ってればなると思うで🇯🇵
+今日中にec2にWordPress置く（目標）
+冬休み中にマインクラフトの動画出す
+!disconnect
+📭 **Successfully disconnected**
+!skip
+⏩ ***Skipped*** 👍
+!play https://www.youtube.com/watch?v=aqQ5Qng4yj8
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=aqQ5Qng4yj8`
+❌ **Failed to load** `This video cannot be played because of youtube limitations`
+なんでや！
+わろた
+くさ
+!play https://www.youtube.com/watch?v=ZI03qpO1b-U
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=ZI03qpO1b-U`
+**Playing** 🎶 `音割れポッター` - Now!
+!skip
+⏩ ***Skipped*** 👍
+死ぬぅ！！！！
+すまｎ
+!play https://www.nicovideo.jp/watch/sm30519482
+:youtube: **Searching** 🔎 `https://www.nicovideo.jp/watch/sm30519482`
+❌ **No matches**
+!skip
+⏩ ***Skipped*** 👍
+honnmaya
+!play https://www.youtube.com/watch?v=eqTluzGGUgA
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=eqTluzGGUgA`
+**Playing** 🎶 `眼力先輩BB` - Now!
+aaa
+笑い抑えるのに必死なんやけど
+!play https://www.youtube.com/watch?v=vSKL1QUo_b0
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=vSKL1QUo_b0`
+**Playing** 🎶 `Epic Rock Mix | RISING BATTLE MUSIC` - Now!
+面白さが足りない
+!play ommc
+:youtube: **Searching** 🔎 `ommc`
+
+!skip
+⏩ ***Skipped*** 👍
+なんでommcで出るんやｗ
+地獄みたいな授業
+ww
+!play https://www.youtube.com/watch?v=0-fpnPxljEU
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=0-fpnPxljEU`
+❌ **Failed to load** `This video cannot be played because of youtube limitations`
+これもだめか
+年齢制限がね…
+!play https://www.youtube.com/watch?v=PUxPytYAZEY
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=PUxPytYAZEY`
+❌ **Failed to load** `This video cannot be played because of youtube limitations`
+ファッキン！
+!play https://www.youtube.com/watch?v=Me6TS0YX8WU
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=Me6TS0YX8WU`
+
+!play https://www.youtube.com/watch?v=S5eEeZOo3cA
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=S5eEeZOo3cA`
+
+!skip
+⏩ ***Skipped*** 👍
+!play https://www.youtube.com/watch?v=kqnwxRphSOo
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=kqnwxRphSOo`
+
+!skip
+⏩ ***Skipped*** 👍
+なっつ
+!play https://www.youtube.com/watch?v=sTHNVsN-hZU
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=sTHNVsN-hZU`
+**Playing** 🎶 `サンドウィッチマン コント 結婚相談所 占い師` - Now!
+!play https://www.youtube.com/watch?v=oQBqtmCDSCQ
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=oQBqtmCDSCQ`
+
+!play https://www.youtube.com/watch?v=InaQ6uQwSBM
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=InaQ6uQwSBM`
+
+$help
+```
+
+$ping
+@patchの応答時間は、15msだよ！
+$omikuji
+@hirosuke-piの今日の運勢は、||クズ運||だぞ！
+は?
+$omikuji
+@patchの今日の運勢は、||　吉　||だぞ！
+$omikuji
+@Àżuの今日の運勢は、||大吉　||だぞ！
+かちやな
+$omikuji
+@eternalwing_S.tの今日の運勢は、||小吉　||だぞ！
+なんとも言えないな笑
+$omikuji
+@patchの今日の運勢は、||クズ運||だぞ！
+は？
+$omikuji
+@takahiroの今日の運勢は、||クズ運||だぞ！
+ワロタ
+$omikuji
+@hirosuke-piの今日の運勢は、||小吉　||だぞ！
+$omikuji
+@patchの今日の運勢は、||　大凶||だぞ！
+$omikuji
+@patchの今日の運勢は、||小吉　||だぞ！
+$omikuji
+@patchの今日の運勢は、||中吉　||だぞ！
+$omikuji
+@patchの今日の運勢は、||　大凶||だぞ！
+$omikuji
+@patchの今日の運勢は、||　大凶||だぞ！
+？？？？？？？？？？？？？？？？？
+$calc math.pi
+@hirosuke-pi3.141592653589793
+$omikuji
+@hirosuke-piの今日の運勢は、||　大凶||だぞ！
+$calc math.sqrt(2)
+@hirosuke-pi1.4142135623730951
+ルートそうやってだすんや
+math.sqrt(４)
+さっき追加した
+$clac math.sqrt(4)
+$calc math.sqrt(4)
+@patch2.0
+math.sqrt(0)
+$calc math.sqrt(0)
+@patch0.0
+$calc math.sqrt(0,1)
+@patch('sqrt() takes exactly one argument (2 given)',)
+$calc math.sqrt(1/2)
+@patch0.7071067811865476
+もう関数電卓やなw
+流石に有能
+@patch0.8408964152537146
+$calc math.sqrt(math.sqrt(1/2))
+math.sqrt(math.sqrt(math.sqrt(3.1415926535897923)))
+$calc math.sqrt(math.sqrt(math.sqrt(3.1415926535897923)))
+@patch1.1538350678499893
+$calc math.sqrt(math.sqrt(math.sqrt(math.pi)))
+@hirosuke-pi1.1538350678499893
+$calc math.pi
+@patch3.141592653589793
+あーね
+$calc math.log(4, 2)
+@hirosuke-pi('unexpected EOF while parsing', ('<string>', 1, 11, 'math.log(4,'))
+低の数字が後ろ？
+$calc math.log(4,2)
+@hirosuke-pi2.0
+せやな
+$calc math.log(21,2)/math.log(80,4)
+@patch1.3895499464256462
+$calc math.log(21,2)/math.log(80,2)
+@patch0.6947749732128231
+$calc math.log(20,2)/math.log(80,2)
+@patch0.6836408181204355
+$help
+```
+
+$ping
+@patchの応答時間は、15msだよ！
+$calc math.degrees(math.pi / 4)
+@hirosuke-pi('unexpected EOF while parsing', ('<string>', 1, 20, 'math.degrees(math.pi'))
+$calc math.degrees(math.pi/4)
+@hirosuke-pi45.0
+$calc math.degrees(1)
+@patch57.29577951308232
+$calc math.degrees(2)
+@patch114.59155902616465
+$calc math.degrees()
+@patch('degrees() takes exactly one argument (0 given)',)
+なんこれ
+ラジアンから度に変換する関数
+ほーん
+引数にラジアン入れんとあかん感じ
+$calc math.degrees(math.pi)
+@hirosuke-pi180.0
+$calc math.radians(180)
+@hirosuke-pi3.141592653589793
+$calc math.degrees(math.pi/2)
+@patch90.0
+$calc math.degrees(3:math.pi/4)
+@patch('invalid syntax', ('<string>', 1, 15, 'math.degrees(3:math.pi/4)'))
+$calc math.degrees(3*math.pi/4)
+@patch135.0
+@patch540.0
+$calc math.degrees(3*math.pi)
+https://docs.python.org/ja/3.7/library/math.html
+mathの使い方
+$calc bin(0b10010010 ^ 0b10100111)
+@hirosuke-pi('unexpected EOF while parsing', ('<string>', 1, 14, 'bin(0b10010010'))
+math.radians(45)
+$calc math.radians(45)
+@patch0.7853981633974483
+$calc int('FF',16)
+@hirosuke-pi255
+進数もあるのか
+$clac hex(255)
+$calc hex(255)
+@hirosuke-pi0xff
+$calc math.tan(45)
+@patch1.6197751905438615
+@patch0.8939966636005579
+$calc math.sin(90)
+１じゃないんか
+仕様はわからぬ
+!join
+👍 **Joined** `minecraft-voice` :page_facing_up: **And bound to** `bot-commands`
+!play https://www.youtube.com/watch?v=NlprozGcs80
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=NlprozGcs80`
+**Playing** 🎶 `Pachelbel - Canon In D Major. Best version.` - Now!
+!play https://www.youtube.com/watch?v=uOrXrpKUIFM
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=uOrXrpKUIFM`
+
+!play https://www.youtube.com/watch?v=bGHT5OFtU0M
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=bGHT5OFtU0M`
+**Playing** 🎶 `Emy Todoroki Schwartz_Love's Sorrow (愛の悲しみ) / Rachmaninoff` - Now!
+!play https://www.youtube.com/watch?v=B0VsCaUk30Y
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=B0VsCaUk30Y`
+**Playing** 🎶 `Ballade No 1 in G Minor, Op 23 ~Kousei Piano - Kaori Violin clean ver~ (Shigatsu Wa Kimi No Uso)` - Now!
+!stop
+**Paused** ⏸
+!disconnect
+📭 **Successfully disconnected**
+!play https://www.youtube.com/watch?v=B0VsCaUk30Y
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=B0VsCaUk30Y`
+**Playing** 🎶 `Ballade No 1 in G Minor, Op 23 ~Kousei Piano - Kaori Violin clean ver~ (Shigatsu Wa Kimi No Uso)` - Now!
+!play https://www.youtube.com/watch?v=ajjN7eAnyZE&t=4s
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=ajjN7eAnyZE&t=4s`
+**Playing** 🎶 `[ポケットモンスターOP]１・２・３／After the Rain（そらる×まふまふ）` - Now!
+--wea otsu
+--wea otsu
+@ぐっちゃん
+
+--wea hikone
+@hirosuke-pi
+
+--help
+```
+
+コマンドフレームワークすげー
+--hello
+@hirosuke-piくん、こんにちは！
+--url https://discordapp.com/channels/589815669336440855/647334749001744386
+あら、権限なかった
+メッセージ削除するつもりだったけど権限ないからできん
+!play https://www.youtube.com/watch?v=B0VsCaUk30Y
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=B0VsCaUk30Y`
+**Playing** 🎶 `Ballade No 1 in G Minor, Op 23 ~Kousei Piano - Kaori Violin clean ver~ (Shigatsu Wa Kimi No Uso)` - Now!
+!play https://youtu.be/exVFgbGRN-Q
+:youtube: **Searching** 🔎 `https://youtu.be/exVFgbGRN-Q`
+
+!play https://www.youtube.com/watch?v=4fK9BlAgbP4
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=4fK9BlAgbP4`
+
+!stop
+**Paused** ⏸
+!skip
+⏩ ***Skipped*** 👍
+!play https://www.youtube.com/watch?v=4fK9BlAgbP4
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=4fK9BlAgbP4`
+
+!play
+⏯ **Resuming** 👍
+!play https://youtu.be/d4cAA3vcLGQ
+:youtube: **Searching** 🔎 `https://youtu.be/d4cAA3vcLGQ`
+
+!play https://www.youtube.com/watch?v=bxCsPVgwC5Y
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=bxCsPVgwC5Y`
+
+!skip
+⏩ ***Skipped*** 👍
+!play https://www.youtube.com/watch?v=J3gCPHA-xno
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=J3gCPHA-xno`
+**Playing** 🎶 `主よ、人の望みの喜びよ　J.S.バッハ　（極上のピアノ）` - Now!
+!play https://www.youtube.com/watch?v=fsdThmsffNk
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=fsdThmsffNk`
+**Playing** 🎶 `春の歌（メンデルスゾーン）Spring Song (Mendelssohn)` - Now!
+夜中にごめんなさい、やる時間ないので許してください。。。
+https://proengineer.internous.co.jp/content/columnfeature/6983
+とりあえずbitbucketの方を使おうと思うのでアカウント選択画面でbitbucketを選択してアカウントを作ってほしい
+みんなgitの環境できたらbot,サイトの土台作っていきたい。
+https://www.sejuku.net/blog/5756
+https://www.sejuku.net/blog/6111
+/py:```python
+
+@hirosuke-pi プログラム受け取ったぞ！ちょっと待ってて...
+@hirosuke-pi0: fizzbizz
+
+@hirosuke-pi終わったぞ！
+e?
+しんかしてる？？
+今調整中やな
+/help
+@hirosuke-pi```md
+
+/py:```py
+
+@hirosuke-pi Pythonのプログラム受け取ったぞ！ちょっと待ってて...
+@hirosuke-pihello world!
+/rb:```rb
+
+@hirosuke-pi Rubyのプログラム受け取ったぞ！ちょっと待ってて...
+@hirosuke-pihello world!
+/php:```php
+
+@hirosuke-pi PHPのプログラム受け取ったぞ！ちょっと待ってて...
+@hirosuke-pihello world!
+/js:```js
+
+@hirosuke-pi JavaScriptのプログラム受け取ったぞ！ちょっと待ってて...
+@hirosuke-pihello world!
+/pl:```pl
+
+@hirosuke-pi Perlのプログラム受け取ったぞ！ちょっと待ってて...
+@hirosuke-pihello world!
+/command
+@hirosuke-pi```md
+
+だいたいできた
+おれよりbotの方が賢い
+それなw
+もうBotに抜かれたわ😇
+かなC
+/pyw:```py
+
+||Raspberry Pi 3 Model B||で動いてるぞ!
+/pyw:```py
+
+||uname_result(system='Linux', node='raspberrypi', release='4.9.70-v7+', version='#1068 SMP Mon Dec 18 22:12:55 GMT 2017', machine='armv7l', processor='')||
+ばか進化してるやん！！
+/phpw:```php
+
+PHP Fatal error:  Uncaught Error: Function name must be a string in /discordbot/progracat/index.php:4
+
+あ
+エラー吐いてるやん笑笑
+でもすげー
+/phpw:```php
+
+@Àżuせやろw
+おお〜
+/rb
+@ヨシモト Rubyのプログラム受け取ったぞ！ちょっと待ってて...
+@ヨシモト
+/rb
+@ヨシモト Rubyのプログラム受け取ったぞ！ちょっと待ってて...
+@ヨシモト
+/phpw:```php
+
+WBの提出課題一切進んでねぇ...っ！まあ間に合うやろ...
+ということでやりません
+草
+うちのラズパイ🥧
+なんかよくわからんけどすげえｗ
+大きさは結構小さい
+ちっちゃｗ
+無音やし、置くスペースも困らない
+で
+ハブおれのと同じじゃね?w
+ええな
+え、まじでw
+
+バッファロー？
+そう
+多分同じやわ笑
+BUFFALO Giga対応 金属筺体 電源内蔵 8ポート ブラック スイッチングハブ LSW5-GT-8NS/BK https://www.amazon.co.jp/dp/B00I5871QU/ref=cm_sw_r_cp_apa_i_Exp4DbHFC7RC5
+これ
+リンク開いたら注文しました。って言われたｗｗｗ
+完全に同じ奴やわw
+マジかw
+まじやわ
+結構気に入ってるw
+おれもお世話になってますww
+すごE
+ちょっとなにしてるかおれにはわからない
+次元が違う
+わからないぽよ
+/pyw:```py
+
+001,002,003,004,005,006,007,008,009,010,011,012,013,014,015,016,017,018,019,020,021,022,023,024,025,026,027,028,029,030,031,032,033,034,035,036,037,038,039,040,041,042,043,044,045,046,047,048,049,050,051,052,053,054,055,056,057,058,059,060,061,062,063,064,065,066,067,068,069,070,071,072,073,074,075,076,077,078,079,080,081,082,083,084,085,086,087,088,089,090,091,092,093,094,095,096,097,098,099,100
+やば
+数学って、楽しいね！(白目)
+何食ったらこんなん思いつくんや...
+まじそれな
+/pyw:```py
+
+ななななな
+
+草
+なにわろてんねん
+:seyana:
+/pyw:```py
+
+.  
+
+みつをはそんなこと言わん
+案外言うかもしれんぞ😏
+キャラ崩壊草
+上げるとこ間違えた
+/talk
+たくみのバージョンに改造していきたい。
+怪文書生成機能追加しました(テスト)
+こわ
+E
+/talk
+あ”あみすたわこわ純粋な好きな？安心しすぎワロタいま足の？webサイトやなと思う民度高い笑確率変えたりcss```pythonファイルホルダー買い足さな駅ができます。
+一応このサーバー内のメッセージをベースにしてる
+恐怖や
+/talk
+実に奸物だ」「君そう我儘に関係するから云えない。
+/talk
+別段おれは笑われるような事は出来ないのは情ない。
+ちょっとマシになった...?
+http://ans-db.tk
+BotのサーバーGCEもいいかもしれない
+IaaSだから、Linux直接いじれるし、条件満たせばずっと無料らしい
+ちなみにHerokuはPaaS
+
+!w:hikone
+@hirosuke-pi
+
+/mine
+||#⃣||||2⃣||||1⃣||||0⃣||||0⃣||||0⃣||||0⃣||||0⃣||||0⃣||||0⃣||||0⃣||||0⃣||||0⃣||||0⃣||
+
+マインスイーパー追加しました
+!w:hikone
+@hirosuke-pi
+
+草
+ネコに画像から文字を抽出する機能つけようと思ったけど、精度が微妙なのでやめた
+静かなイメージのPCが突然ファン全開になったら誰でもビビる説
+わいはそのまま突然落ちた
+/bgmって入力したらボイスチャンネルに音割れポッターを流すBot
+嫌がらせでしかなくて草
+前言ってたペニーワイズよりはマシだと思うぞ笑
+$help
+```
+
+こういうの好きだわw
+$helpコマンドの意味よw
+特になしってなんかあるからエラーなんでしょ笑笑
+ネコのコード一旦全部書き直そうか迷う
+Discord.pyのコマンド管理機能便利すぎ問題
+$help
+```
+
+$help
+```
+
+$help
+```
+
+/talk
+見ると、親切にはなかったからと思って、授業をしまった。
+$calc 1+1
+$help
+```
+
+```
+
+$calc 1+3
+$calc 1+4
+$calc 1+6
+@hirosuke-pi7
+$calc 2 ** 999
+@ヨシモト2
+$calc 2 ** 4
+@hirosuke-pi2
+$calc 2 ** 2
+@Àżu2
+$calc 3**2
+@hirosuke-pi9
+$calc 2**100
+@hirosuke-pi1267650600228229401496703205376
+$calc 4/0
+$calc 4/0
+@hirosuke-pi('division by zero',)
+$help
+```
+
+$calc
+$calc 1 + 1
+@Àżu1
+$calc 2**10
+@hirosuke-pi1024
+$calc 5+1
+@hirosuke-pi6
+$calc 1+1
+@hirosuke-pi2
+@Àżu2
+$calc 1+1
+$calc 0/2
+@patch0.0
+やるやん
+$calc 2**9999
+@hirosuke-pi('400 BAD REQUEST (error code: 50035): Invalid Form Body\nIn content: Must be 2000 or fewer in length.',)
+デバッガーの鏡
+2**1024
+$calc 2**1024
+@hirosuke-pi179769313486231590772930519078902473361797697894230657273430081157732675805500963132708477322407536021120113879871393357658789768814416622492847430639474124377767893424865485276302219601246094119453082952085005768838150682342462881473913110540827237163350510684586298239947245938479716304835356329624224137216
+$calc π
+@patch(
+$calc √(6)/√(2)
+@patch('invalid character in identifier', ('<string>', 1, 1, '√(6)/√(2)'))
+@hirosuke-pi('EOL while scanning string literal', ('<string>', 1, 30, 
+$calc eval(
+$calc 2**10
+@hirosuke-pi1024
+/help
+```
+
+commands管理に移行しますた。
+有能
+/pokekuji
+
+/pokekuji
+
+マイナーポケ引くな
+御三家引くとは思わんかったｗ
+https://twitter.com/_volcanicBURST_/status/1199674074412175360?s=20
+わからんこ
+:IMG_8669:
+/help
+@ぐっちゃん```md
+
+/command
+/command
+/command
+/chinchin
+/help
+@Àżu```md
+
+/py: print(
+\sdiop@oighfcdxfguiop@oifghcxdcfghuijlo;p:okijygfzsaw56e;.r/7op58t;6yuliocup/.o8;vc50:79vb o
+/php:```php
+
+@ぐっちゃん PHPのプログラム受け取ったぞ！ちょっと待ってて...
+@ぐっちゃんhello_world
+/php:```php
+
+@ぐっちゃん PHPのプログラム受け取ったぞ！ちょっと待ってて...
+@ぐっちゃんwill day tommorow sunny
+
+
+https://twitter.com/tjwpgus012/status/1201808078011678720?s=12
+https://twitter.com/tjwpgus012/status/1182658117731078144?s=12
+https://twitter.com/ainy120/status/1201423725846884352?s=12
+https://twitter.com/dracro01/status/1201752724305371136?s=21
+https://twitter.com/togksthf7/status/1202647426223366144?s=21
+Joined the server.
+Joined the server.
+Joined the server.
+Helloディスコード
+アンドロイドアプリつくらね？？
+サイトやと毎月サーバー代かかるけどアプリならアカウント作るときにかかるだけやし
+一回払ったらそっからかからないからその方がよくね？
+@everyone
+アンドロイドのハード持ってないけど大丈夫なん？
+大丈夫PC上で仮想マシンで動かす
+あーね
+ただサイト作るより難易度高い笑
+それでもよければそっちにしない？
+ありやない？
+よさそう
+わいのパソコンで動かしたらPC燃えだしそう
+ダイナブックは辛そう
+草
+Joined the server.
+@eternalwing_S.t いらっしゃ〜い
+
+@everyone プロジェクトのカテゴリーを追加したのでbotはbotのチャンネル、サイトはサイトのチャンネルみたいな感じでよろ
+Joined the server.
+
+
+Pythonの専科のやつ一応置いとくわ
+山根ならもっといい感じに改造してくれるはず！
+普通にこれ最適解やで。しらんけど
+語尾のしらんけどが不穏なんだよなぁ
+草
+俺的にはもっと習ったことをフルに使う課題かと思ってたから拍子抜け感強い
+十分使ってるくない？
+なんやったらphpの課題と同じもの作ったらええんちゃうかな
+書き方違うからおもろいで
+その手があったか
+結構力つくと思うで
+でもターミナルでしか表示できないから凄まじくしょぼそう
+Pythonwebでも動くで
+YouTubeとかInstagramはPythonやで
+それマジ？どんなやつ入れなアカンの？
+しらん
+えぇ
+ぐぐって
+大困惑
+ggrksやなわかった
+Apacheみたいなやつがあるはず
+うーんとりあえず導入がめんどくさそう
+いやゆーてザンプ入れたときと同じくらいやと思うで
+じゃあ結構お手軽やな
+いや知らんで、わいの想像やで
+えぇ（２回目）
+草
+なんかいろいろあるみたいやわしらんけど
+というかWEBならrubyでええわってなる
+全然それでもええで
+Pythonなんでもできるし
+べつにデスクトップアプリ作ってもええで
+出来上がったやつを.pyからexeにもできるし
+pythonはWEBでつかうきにはならんなぁ
+マジで？なんかソフト使うん？
+exe
+exeってcをコンパイルしたらできるファイルやけどそれをPythonで書いて作ることもできる
+つまりPythonでWindowsソフトが作れる
+ほうほう
+とりあえずPython覚えとけばなんでもできるはず
+ただそれぞれの分野のフレームワークとかあるからそれを覚えなあかんけど
+普通やと言語+フレームワークやけどPythonでゴリ押しすればフレームワークだけ覚えるだけで済むから学習コスト低く新しいことできるかな
+まあ現実的にはそれはなしやけど笑
+個人でやる分にはそれで十分やと思う
+うーんどうしようか迷うな
+好きなのやればええんやで
+とりあえずbot作るのはPython採用やからなんもないんやったらPythonでおけ
+ちなみにAIもPython
+ネットワークはパチに任せる予定やから知らん
+webサイト、アプリは吉野に任せるから吉野次第
+それぞれの分野に特化していくんやなって
+まあそれぞれを管理してくれる人は置いていく。
+おれひとりでは全て管理できん
+わかる
+その辺はこの前話した通りやな
+みんな好きな分野とか言語を調べて学んでそれをここで共有すればめちゃんこよききやとミカサはミカサは思ってみたり！
+いえええええい！いいぞいいぞやったろやったろ
+世界支配しようかな
+
+世界征服ええやん
+普通に教育分野とかやってみたい。BaSE関係ないけど笑
+AWSをぶっ潰す
+テックアカデミー的な？
+お金なくても勉強できようにしたいからガチ無料にしたい
+今でもネット環境があれば結構独学でも行けるクネ？
+入門はね
+仕事できるレベルまではめっちゃ厳しいから
+そうなん？
+HAL行かなくてもいいくらいにはしたいな
+HALって結構学ぶこと多いんかな
+やっぱ金がなくてみたいなのは無くしたい
+まあ金がなかったらハードルは高い道にはなりそうやな
+別にIT分野とか関係なしに教育っていうのを金がかからないようにしたい
+ただそれやるんめっちゃ厳しいやろからしょうみめんどい
+偉大な夢やな
+やからめんどくさい
+そりゃな
+でもそうなったら教育分野牛耳れるからどえらいことなりそう
+やっぱり目指せ世界征服じゃないか
+その前に日本征服やな笑
+わかる
+まあみんな頑張ってくれたまえ笑笑
+親玉か
+せやで笑
+確率システム出来たけどめちゃくちゃ長くなったンゴ
+なにもしてないわい氏
+ちょっとやって見てくんね
+みてくんね
+お、おう
+他人のがどんな感じになるか気になる
+おれはそもそもそこまでつくってないｗ
+ま？elseifで範囲指定するだけやで
+めんどくさくてｗ
+それが長い原因やねんけどね
+草
+あー分からんでもない
+でもやってどうぞ
+ていうかみんな課題そのものはできてる感じ？
+一応最低限は作ってるよ
+ほうほう
+確率変えたりcssがめんでぃー
+cssはブートストラップでおけ
+使えんけどw
+ブートストラップをよくわかってないからそれを入れるのもまたおっくう
+それはわかる
+それに今仕事なうｗｗ
+今度phpの先生に聞こうかな
+あ、おつデーす💪
+ぐぐっても厳しそう?
+ほのかの導入で躓いてる。ブートストラップのみのはダウンロードするだけやから楽
+気が向いたら10か月後ぐらいにやるわ
+謎の時差やめろ
+んじゃやらないｗｗ
+まじな話やと今日の深夜かな
+ま？頼むで。なんかnode.jsのnpmでほのかをダウンロード出来へんのが今の現状。解決したら教えてクレメンス
+node.jsなら多分すぐいけるわ
+環境が元からあるしｗ
+お、じゃあいけそうかな？
+いや、知らんww
+えぇ
+まあまたやってみるわ
+なんかnode.jsのプロンプトでうちこむんやで
+おけおけ
+とりあえず仕事片付けるわ。その前にトイレっと。。。
+PHPのやつとりまup　もっと短くできんもんやろか
+仕事おわったらみるわ
+りょ
+ぜんぜんこれでいいんじゃね？
+もしかしたらnpmのバージョンに問題があるかもしれん
+バージョン管理ツール使って複数のバージョンのnpmを切り替えて使うか、バージョン下げてインストールし直すかしたら行けると思う。
+最新版のnpmやと上手くいかないんかもしれん
+しょうみgithubから普通に.zipダウンロードじゃあかんの？
+なんも見えないんゴ
+提出要求されたら死ぬンゴ
+誰もみてないンゴね
+(＾ω＾≡＾ω＾)おっおっおっおっ
+えぇ......大困惑ですわ
+今なにしてるかわけわかめ
+後ろマジで何も見えない
+それなあ
+(＾ω＾≡＾ω＾)おっおっおっおっ
+帰りたいぞよ
+体育座りのわい
+https://www.ipa.go.jp/sec/softwareengineering/reports/20080710_3.html
+https://youtu.be/5n4ymsYwVhw
+https://youtu.be/tKSd6XctlhE
+https://youtu.be/io-wk6xZyn0
+まじであっちゃんの動画見てから卒業旅行行け
+@patch
+@patch
+https://drive.google.com/open?id=1sq7vQdheFZ9_yXOpmZKcMAWyWI6wDE1A
+リンクから入っても閲覧しかできないからアップロードとかしたい場合はgoogleメールアドレスを教えてください。メールアドレスから共有設定するわ
+Pinned a message.
+https://taiyoproject.com/post-339
+Joined the server.
+ぐっちゃんrust勉強してるん？
+らしいぞ、おれが言うのもおかしいけど笑
+C言語の置き換えを狙った言語らしいのでできたらすごい
+はえー、なんか凄そう
+Cの代わりに使えるんじゃね?知らんけどww
+昨日からRustのお勉強してます👌
+なるへそ、てかrustってCと一緒でexeファイルで出力する感じ？
+ソースファイルをコンパイルしてexeにする感じ
+そこはCと一緒なんやね
+そうやね(´・∀・｀)
+exeふぁいるなん？
+
+
+分報制をとるか迷ってる
+ぶんぽうせい？
+うん
+それぞれ自分のチャンネル作って好き放題そこでつぶやいてく
+わからんこととかあればそこに書いてそれを見たやつで分かる人は助けてくれるみたいな
+twitterに近いかな
+ただそれやると人数×チャンネルになるからチャンネルがくっそ増える問題
+ところでバンドリのリゼロコラボはいつまで？
+なかなか良さげじゃない？
+
+迷ってるンゴ～
+簡単なbotができたらしいぞ
+Joined the server.
+print('Python')
+```python
 
 /help
+@hirosuke-pi[Pythonのコードを実行するBotだぞ！]
+
+py:print('hello world!')
+@hirosuke-pi プログラム受け取ったぞ！ちょっと待ってて...
+@hirosuke-pihello world!
+コマンド一覧みたいなのは出せる?
+py:first='yoshimoto' name='ryuki' print(first+name)
+@Àżu プログラム受け取ったぞ！ちょっと待ってて...
+@Àżu うぬぬ、エラーだぞ...: ('invalid syntax', ('<string>', 1, 6, 
+おお？
+あ、なるほどね
+evalは変数宣言できないんよね
+ぐぐってみるとこ間違えてたわｗｗ
+py:print('ヨシモト')
+@Àżu プログラム受け取ったぞ！ちょっと待ってて...
+@Àżuヨシモト
+py:include('random').randint(1,9999)
+@hirosuke-pi プログラム受け取ったぞ！ちょっと待ってて...
+@hirosuke-pi2965
+pyw:include('random').randint(1,9999)
+6623
+pyw:mention(
+@Àżuやったぜ。
+おお
+コマンド一覧欲しいでござるよ
+pywやと、無言で言ってくれる
+なるほろ
+<自作関数一覧>
+
+またあとで詳しいの作るわ
+あざす！！
+Pinned a message.
+pyw:
+helloooooooooo
+py:
+@Àżu プログラム受け取ったぞ！ちょっと待ってて...
+@Àżuヨシモトオオオオオオオオオオオオオオオオオオオオオオオオオ
+草
+py:mention('ヨシモト',
+@Àżu プログラム受け取ったぞ！ちょっと待ってて...
+@Àżu@ヨシモトヨシモトオオオオオオオオオオオオオオオオオオオオオオオオオ
+pyw:mention('ヨシモト',
+@ヨシモトヨシモトオオオオオオオオオオオオオオオオオオオオオオオオオオオオオオ
+草ｗｗｗｗｗｗ
+やめろしw
+あｗｗｗｗ
+松浦がもう作ってきたぞ
+どうするんやよしもとよ
+こっちいままでなんもしてないぞｗｗ
+今phpでまる罰ゲーム作ってるからセーフ
+がんばれｗｗｗ
+このbot、脆弱性だらけだから細工すれば一瞬で落ちます()
+草
+落としに行っていいっすか？？ｗｗｗｗ
+やめれw
+再起動めんどいw
+それは草
+まあ、Hack me みたいな感じでやってみてもいいで
+草
+pyw:include(
+まさかの時間指定？？
+py:
+帰ってこないね
+これやると、120秒間止まる
+おお。。。
+@Àżu2分前から攻撃ッ!!!
+きたｗｗｗｗ
+w
+11/22 28年春　基本情報
+41~
+みんなの個人チャンネル作ったからみんな自由に使ってクレメンス。
+
+おk
+バンドリのファイルいる人ー
+
+いくら？
+タダ
+くれめんす
+転売とか考えてるんやったらやめとけ
+ローソン本部に消されるぞ
+この前のキャンペーンのやつやから怪しまれて調べ上げられるぞ
+とりあえずファイルホルダーに入れたいわ
+こわE
+ファイルなら山ほど持ってるで
+なんでそんなに余っとるんや......
+売れ残り？
+せやで
+エヴァとかもあるで
+銀魂
+あれか商品買ったらついてくる的な
+なめこ
+そうそう
+大体ほとんど残る
+ただは悪いから５００円ぐらい払うわ
+持ってくるのも手間やろーし
+いや普通に余ったやつ持って帰ってきただけやからわいはただで手に入れてるから大丈夫やで
+でもお金もらえるのはうれしい。。。
+まあ500円ぐらいならええや
+ん
+俺のクリアファイルホルダーに入れたい
+
+なにがいい？
+進撃の巨人
+free!
+チョット待ってなんしゅるいぐらいあるん？
+ドラえもん
+めっちゃある
+多すぎｗ
+ICOCAのやつとか
+(2009年)
+ダイソーのホルダー買い足さな
+草
+弱虫ペダルもあるわ
+onepeace
+全部一種類やと何枚くらいになるんやろ
+jojoもある
+10枚とかは余裕
+興国高校のふぁいるあったわｗｗｗｗ
+これはローソンと関係ないm
+一種類一枚はほしい欲を言えば
+なんでそんなに持ってるんw
+無地の透明のやつもあるわ
+業者かよｗ
+親がローソンの元オーナーやから
+草
+昔のやつからいっぱいある
+強い(強い)
+コンビニ歴26年目らしい
+そらたまりますわ
+現在は時給1100円でやとわれてる。。。
+えぇ（大困惑）
+ワイと同じ店で。。。
+.........
+わい時給1000円
+😅
+100円しかかわらんｗｗ
+おっふ
+強く生きて
+むかしはローソンでぼろ儲けしてたけど最後は業益不振でやめたｗｗｗｗ
+最高月収が300万らしいww
+ひえ。やっぱ今は儲からなくなってるんか
+そやな
+すげえ
+おれがおるところもどんどん売り上げ下がってる
+なぜ昔はそんなに儲かったのか
+もしかして: 過疎化
+むかしはこんびにもすくなかったからやな
+独占状態やったわけか
+なるほど
+あと俺が住んでるところやったら今はウーバーイーツもあるし
+俺の近所にもコンビニ出してくれー
+もうコンビニいくのすらだるい時代やで
+競合多すぎぃ状態なわけですね
+そんな感じかな
+イーツって都市部でそんなに流行ってんの？
+これが自営業の光と闇やで
+滋賀県と無縁なUberEats
+草ｗｗｗｗｗ
+わかる、宅配ピザすら届かん
+それ
+ウーバーイーツ大体15分くらいで届く
+なんでシカゴピザしかないねん
+まじか
+(⌒,_ゝ⌒)＜勝ちなんですわあ
+これが宅配チートか
+(⌒,_ゝ⌒)＜はいお湯～
+修正早く
+ウーバーイーツちびちび範囲拡大してるで
+店に貧しい滋賀県にもぜひ輸入を(
+草
+人を呼ぶところからやなｗｗ
+あー
+田舎は車がないと生きていけないんやぞ
+チャリじゃムズいかもなw
+地下鉄でどこでも行けるけどなあwww
+地下鉄?なにそれ美味しいの?
+大阪の地下鉄兵庫県まで伸ばしてくれんかなぁ
+subwayエアプですか？？
+さぶうぇいってなんですのん？
+兵庫は阪急かJRでも乗ってろwww
+サブウェイって、あのサンドイッチの
+草
+阪急ですが何か
+増えたwww
+おっはー
+どもー
+都会マウントとってるところやでｗｗｗｗ
+そかそか
+地元にある３０分に一本のローカル線が最強だから
+それ
+orehaSAOmiteruo
+少なくても10分に一本は最低来るぞ
+わかる
+アニメ見たい
+おれも10分ごとに来る
+見てる時間内(´；ω；｀)ﾌﾞﾜｯ
+JRの普通しか止まらない
+草
+不便層ww
+お、俺より北は1時間に1本やから...
+やばｗｗ
+そのかわり田んぼはあるぞ
+あと空気がおいしいぞ
+兵庫だけど全然不便では無いぞ、ちな一応田んぼある
+家から出なくていい生活になったら田舎もありかな
+あとカメムシもいるぞ
+虫は
+カメムシは出んな
+無理です。
+やっぱ都会やな
+カメムシくん都会に輸出したいわ
+くるな
+駅が蜘蛛だらけで死にたくなる😇
+ええ。。。
+わかるわ～
+地下鉄にそんなものはない
+都会が生命死滅しすぎてるだけやぞ
+胴体だけで500円玉サイズのやつ普通にいるし
+うらやま
+
+2時間かけて学校来てたクラスメイトの地元に10センチくらいの蜘蛛いたぞ
+こわ
+E
+タランチュラ先輩かな？
+わからん
+蜘蛛ほんま絶滅して、どうぞ
+けどまじでびびった
+でも蜘蛛とカメムシならカメムシのほうが嫌やわ
+この季節多いしな
+/pyw```python
+
+駅の窓ガラスに３０匹ぐらい張り付いてて秋やなぁって思った
+吊り革にいた時の絶望感
+あ
+みすた
+そもそもマンションやから虫が俺のとこまで来れない説ある
+/pyw: ```python
+
+File 
+e
+そこも見られるのか
+マンション勢です。
+8回
+マンションの皆様に田舎の特産虫をお届けしたい
+負けた、5階だわ
+いらん
+
+虫はエッチだった......?!
+性癖尖り過ぎか？
+あ、@ヨシモト入れるの忘れてた
+入れなくて（いいです）いいです
+虫姦とか言う特殊プレイあるらしいぞ
+なにそれ
+ggr
+虫に襲われる…
+字面がもうすでにやばそう
+ヒエッ
+こわ
+純粋な山根君には刺激が強すぎる
+まあ日本だからしょうがないね
+敗戦国の末路…
+純......粋....?
+ひええ
+あばばばっばばばばばばばばばばばば
+もうダメかもしれない
+
+いや、これはむしろ魅了されたサインかもしれない
+ちょっと何言ってるかわからない
+あばばばばば（大興奮）
+かえって
+的な意味かと......
+ん？
+許してクレメンス
+ちょっと何言ってるかわかんないのです
+@ヨシモト お引き取りください。
+(≧∇≦)b
+w
+とりあえずmemberロールはく奪の刑
+_:(´ཀ`」 ∠):
+うせやろ！
+ｗｗｗｗｗｗｗ
+ここでおれは恐怖政治ばちこりしいていくわ
+さすがアドミニストレータ
+ヒットラーの生まれ変わりや収容されそう
+ひえー
+収容所っていうロール作ろかwww
+アウシュビッツ強制収容所…
+本物の歴史の闇や.....
+
+主人公A<ってゆう夢を見たんだよね
+せやで
+そうそう
+(適当)
+んでそのまま異世界転生
+そして恐怖政治やな
+ee........(KONWAKU)
+まさに正夢
+独裁国家のトップ
+金正恩
+監   視   社   会
+世界救う為やで…
+黒電話頭に付けなきゃ
+密輸しなきゃ
+犯罪係数を測定
+Over 600
+執行対象です
+@ヨシモト 「犯罪係数オーバー300執行対象です。」
+草
+３進数で300やからセーフ
+ミンチじゃん
+違う４進数や
+「リーサル・エリミネーター」
+あーあ
+※10進数表記
+デコンポーザーとかなかったっけ？
+あ”あ”あ”あ”あ”あ！！
+それ兵器に使うやつ
+ふう、危なかった
+よけてて草
+パラライザーが眠らせるやつ
+違うで瞬きでキャッチしたんやで
+デコンポーザーがデストロイするやつ
+エリミネーターがミンチにするやつ
+イワンコフですか??
+まさかロシア人か…
+((((；ﾟДﾟ))))ｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ
+おまいらハッキングされるぞ!!
+もしくわ核落とされるぞ!!
+hackme攻略しなきゃ
+それで思い出した
+面白そうなゲーム見つけた
+https://store.steampowered.com/app/365450/Hacknet/?l=japanese
+https://kayanomi.hatenablog.com/entry/2018/05/27/154453
+ハッキングのゲームらしい
+実際のlinuxコマンドとか使うんだってさ
+知らんけど
+おもしろそう
+steamやからpcあればできるぞ
+nmapッターン!!
+草
+海外映画やんww
+エンターキー、ターン！が出来るだけでも購入する価値ありそうやな
+草
+確か千円ちょいくらいやったはず
+クソデカEnterキーかw
+なんかそんなんあったなｗｗ
+ああ、のバカでかいやつかｗ
+エンターキーだけでUSBつなぐやつwww
+それw
+あれもはやグーパンで殴らなあかんやろｗ
+あれ足で踏んだ方がよさそう
+人差し指やと折れそう
+ミシンのペダルみたいなのり
+ドラムみたいな構造やね
+足で踏むのは意外と便利？
+
+学校に持っていったらハッカーになれるぞ🙄
+国際的なハッカーが全員それ使ってたら笑うｗｗ
+？？？「誰でも簡単になれる！」
+ロシア人ハッカー必須アイテム！
+ｗｗｗｗｗ
+シュールww
+シュールすぎるｗ
+
+飯テロやめろ
+www
+よだれがああ。。。。
+お腹空いてきた
+どうしてくれるんや
+それな
+さっき飯食べたばかりの俺に死角はなかった
+送った俺も後悔してるわ
+大草原
+自爆テロで草
+ああああ
+
+某熱い人<お米たべろよ！
+草
+ところでみんな寝ないの?
+やめなさい
+つい手が......
+鯖から消すぞ
+クリックしなければどうと言う事はない
+それな
+消してて草
+これがアドミニストレータ
+くさ
+つおいお
+ｗｗｗｗｗｗｗｗｗｗｗ
+https://www.youtube.com/watch?v=2SMwS5xfl2Q
+ああ手が勝手に！！
+ヨシモトごと消すか
+犯罪係数…
+執行理由がお茶漬け動画貼ったことって.........
+『犯罪係数オーバー600、執行対象です。
+
+あ”あ”あ”あ”！！
+はく奪草
+ｗｗｗｗｗｗｗｗｗｗｗｗｗ
+上半身吹っ飛んだけど大丈夫やったわ
+草
+怖すぎワロタ
+いま足の指で打ってるんやで
+こいつ、人間じゃねぇ
+それな
+わんちゃんある
+今から「monster」っていうロール作るわwww
+ありよりのあり
+無いです
+おおw
+横暴だ！横暴だ！
+ヨシモトのロールがなくなってることにお気づきで？
+おわかりいただけただろうか
+今気づいた
+草
+返してあげよう
+あ、
+botになってもうたｗｗ
+きれそう
+そいえばぱちはぱちやねんな
+/yoshimoto
+そうｗｗ
+草
+呼び出されてるぞ
+あ、二足歩行ロボットだったのか
+よしえも～ん
+https://www.youtube.com/watch?v=2SMwS5xfl2Q
+あっ
+プログラムを受け取ったぞ！！
+『犯罪係数オーバー600、執行対象です。
+
+バグってるぞ
+あ”あ”あ”あ”あ”あ！！
+ふう下半身なくなったけど大丈夫やったわ
+何回そのやり取りするんや
+地雷コマンドだったのか...
+形残ってなくね？
+すまねえ、下半身は... きっと... 取り戻してくるッ!!
+床に落ちてた髪の毛で打ってるんやで
+魂だけ残ってるんやろ(適当）
+クラウドに保存されてるとか？
+魂のクラウド化......
+だとしたらつおい
+その髪の毛で魂錬成するわ
+代償に山根の体全部持っていかれそう
+乗り移ってそう
+ひぇっ
+大丈夫、松浦を対価にする
+おいい
+あれま
+とばっちりで草
+山根は創造主だからね
+真理の扉開くわww
+完全に山根のほうが執行対象やろこれ
+ぬるぽ
+@Àżu■━⊂( ･∀･) 彡 ｶﾞｯ☆`Д´)ﾉ
+消えそう
+うせやろ
+こいつ反応するんか
+ぬるぽ
+@ヨシモト■━⊂( ･∀･) 彡 ｶﾞｯ☆`Д´)ﾉ
+草過ぎる
+このBOT.....できる！
+ぬるぽ
+@hirosuke-pi■━⊂( ･∀･) 彡 ｶﾞｯ☆`Д´)ﾉ
+『犯罪係数（アンダー）100、執行対象ではありません。
+
+おれもbotつくるわ
+そのドミネーター壊れてますね
+ぬるぽ
+@Àżu■━⊂( ･∀･) 彡 ｶﾞｯ☆`Д´)ﾉ
+ドミネーターBOTあったら面白そう
+/comand
+/comand:
+mたりないんじゃない？
+あら？
+載ってないでw
+あｗ
+隠しコマンド
+/command
+@Àżu```md
+
+なるほどね
+ほかにあるの？
+ぬるぽみたいなの
+/rb    print 
+,
+んーないかな
+まじで偶然ひきあてたんかおれ
+やなw
+天才やなおれ
+あ、入力する関数入れないでね、フリーズするw
+また色々追加しとくわw
+a,
+DDosやろうぜ
+説明書的なのいるね汗
+おおっとあぶねえあぶねえ
+これは執行対…
+puts　だけためそ
+ぬるぽ
+@Àżu■━⊂( ･∀･) 彡 ｶﾞｯ☆`Д´)ﾉ
+ぬるぽ
+@Àżu■━⊂( ･∀･) 彡 ｶﾞｯ☆`Д´)ﾉ
+ぬるぽ
+@Àżu■━⊂( ･∀･) 彡 ｶﾞｯ☆`Д´)ﾉ
+/phpw:```php
+
+呼び出し:@takahiro
+
+ぬるぽ連投で落とせるかな??ww
+```/rb
+
+:
+いるで
+落とせんぞw
+あ、
+やっぱDDosやな
+どすどす
+```/ruby:
+
+ん？
+ん？
+/command
+/command
+@Àżu```md
+
+/rb:```rb
+
+@hirosuke-pi Rubyのプログラム受け取ったぞ！ちょっと待ってて...
+@hirosuke-pihello
+/rb:```
+
+@ヨシモト Rubyのプログラム受け取ったぞ！ちょっと待ってて...
+@ヨシモトハロー
+なるほど！！！
+/jsw:```js
+
+あばばば
+node.jsもいけるのか
+すごい
+/phpw:```php
+
+@ヨシモトいけるで
+お勉強してくる_:(´ཀ`」 ∠):
+まけてらんねぇなぁ
+お勉強かあ。。。
+Python, Ruby PHP, JavaScript, Perlに対応してる
+ノ
+
+ノシ
+ノシ
+/pyw:```py
+
+ノシノシノシノシノシノシノシノシノシノシ
+そろそろ寝るか
+おつー
+おつ
+ぬるぽ
+@hirosuke-pi■━⊂( ･∀･) 彡 ｶﾞｯ☆`Д´)ﾉ
+/py:```py
+
+@Àżu Pythonのプログラム受け取ったぞ！ちょっと待ってて...
+@Àżuおつぽよ
+/pyw:```py
+
+おつ
+キレそう
+どうやってここにBOT招待できるか教えてほしい
+この選択サーバーにここがはいってない
+普通の権限しか無い状態やと無理ってことかな？
+リンクくれ
+おれがいれるで
+https://discordapp.com/oauth2/authorize?client_id=647845584295821323&permissions=8&scope=bot
+サーバーの管理者じゃないと追加できんで
+？
+なるへそ、だから自分が立てたサーバーでしか入れれへんかったんか
+許可したけども
+なんもならんで
+はいってないね
+うん
+なんのBotなん？
+山根が貼ってた記事のチュートリアルBOTにseleniumのプログラムを貼っつけたやつ。他人が起動したらどういう風になるか確認したくて
+多分あそこからコーディングせなあかんで
+あそことは
+おれもどのサイトかうろおぼえやけど
+コードかいてないやろ？
+個人サーバーなら問題なく動いてるんやけどなぁ
+え
+んじゃわからん
+ｗｗｗｗ
+も１回送るわ
+もうすでに２かいやってるんだなあ
+https://discordapp.com/oauth2/authorize?client_id=647845584295821323&permissions=8&scope=bot
+これチェック入れるたびにURL変わるんかな？
+そやで
+やったぞ
+と思ってたら違ったわ
+すまん
+ううん
+もう１回自分のインスタンスでテストしてくる
+わかったかもしれん
+ここオンになってたらあかん感じ？
+さっきまでオンになってたわ
+
+たぶんそれかもな
+ありがと！もう１回URL送るわ
+https://discordapp.com/oauth2/authorize?client_id=647845584295821323&permissions=8&scope=bot
+@Àżu アドミニストレータ山根お願いします
+@Àżu 山根ええええええ！！
+Joined the server.
+おお
+きた
+どうつかうん
+きたきた、だれかおはようって打ってみて
+おはよう
+こんにちは
+おや？
+ぬるぽ
+@hirosuke-pi■━⊂( ･∀･) 彡 ｶﾞｯ☆`Д´)ﾉ
+あれ?
+あ、なんかエラー出てた起動し直さなきゃ
+起動し直したからどうぞ
+おはよう
+こっちでselenium起動してワロタ
+まあそうなるよね
+Ignoring exception in on_message
+
+エラー吐いてたわ
+これはサーバーサイドにしかseleniumがインストールされてないからエラーになってるんかな？
+おはようって言ったら、操作される感じ？
+そそ
+
+
+そーす
+サンプルまんまですわ
+import selenium_sample1.py
+これなにｗ
+おはよう
+おはようございますhirosuke-piさん！
+おや？
+import ha
+は適当に付けたｗｗｗｗｗ
+こんにちは
+こんにちはhirosuke-piさん！
+import selenium_sample1.py
+これ消したら動くぞ
+そこかぁ
+ていうかBOT君のソースにトークンのってるからだれでも動かせれるんか
+そうｗ
+一瞬ビビった
+トークン変えとけよ、遠隔操作できるぞ
+pythonファイル内で別のpythonファイル起動するのってどうするんやろ
+やばかえとこ
+トークンがいまいちわからん
+トークンって何者
+同期的に実行するんやったらexec、非同期的に実行するんやったらsubprocess
+試してみるべ
+トークンはパスワード的なやつじゃない？
+そんなかんじやな
+なるほど
+さっきの俺のソースを貼る行為はパスワードを全公開してたようなもんってことやな
+なるほど
+自分が恐ろしい
+githubで公開とかしたら終わりやな
+気を付けろよー
+あ、よしもとからもらったのもう動かんくなったｗ
+やらせるかｗｗ再発行したわ
+草
+NjQ3MDM5NTI3Mjg5ODgwNTc3.Xdn4JA.LyO2gByT4MHGRZ0GQk1XL5imoPc
+トークンがわかれば乗っ取れるってことやな
+貼るなｗｗｗｗｗｗ
+これでやってみｗ
+草
+うちのBotのトークン
+自らさらしていくスタイルｗｗ
+おはよう
+おはようございますヨシモトさん！
+草
+わろた
+きええｗ
+猫がアホになったｗｗｗ
+へんなこといわすなよww
+下ネタいわそ
+ｗｗｗ
+おはよう
+ちんぽこヨシモトさん！
+草
+淫乱ねこにw
+おはよう
+ちんぽこhirosuke-piさん！
+ええやあ
+脳死ちんぽこ猫さんになってしまった.....
+名前変えんとなｗ
+確かに、名前詐欺にもほどがある
+大草原
+そろそろ自分のほういじるか
+おはよう
+ちんぽこhirosuke-piさん！
+おはよう
+ちんぽこÀżuさん！
+おはようって打ったら打った人のPCのブラウザ起動してエロ画像検索させるようにしたい
+ちんぽこヨシモトさん！
+草
+ちんぽこうるせぇ！！！
+もはやマルウェア
+やばｗ
+じっさい出来るんかな？
+なんかセキュリティー的に弾かれそう
+んー無理そうやなｗ
+だよなぁ....
+それできたらもうウイルスや
+相手のPCにseleniumインストールさせなきゃあかんっぽいしな
+たしかに
+でも作りてぇなぁ.....
+俺はこのウィルスで全世界を恐怖のどん底に貶める
+おはよう
+ちんぽこhirosuke-piさん！
+会得するな
+まだトークン再発行してないんかいｗｗｗｗｗ
+こっちいちおうプログラム閉じたで
+おはよう
+再発行した
+おｋ
 /help
-/py ```py
-print('hello')
+@hirosuke-pi```md
+
+あとでこのプログラムGithubで公開するわ
+あざっす！
+/help
+@hirosuke-pi```md
+
+クソコードだけど許して(
+ちんぽこヨシモト！！
+botの24時間稼働考えると鯖立てなあかんな
+うちのBotはラズパイで動かしてる
+ラズパイがねえｗｗ
+1万円以下でそろえられるで
+手持ち1000円ないｗｗｗ
+ごみノートPCかデスクトップvistaでなんとかするしかないかなｗｗ
+あー
+ノートPCで24時間稼働は邪道やぞｗ
+燃え層ww
+http://www.hotel-raj.si/hr
+鯖立てるの怖い(´・ω・`)
+あれやったら、俺のサーバーで動かしてもいいで
+いやまあそんなたいそうなもんじゃないからべつに大丈夫や
+そか
+api叩いて天気おしえてくれるだけや
+/天気
+まだ入れてないぞｗｗ
+どこの天気が表示されるんや...
+/天気　滋賀県
+それも都市入れたらいけるみたい
+おお
+内部処理頑張れ👍
+都市名を引数に入れたらええ感じに返すようなのをイメージしてる
+頑張るわww
+俺も何かもう一つ作りたいなー
+処理性能とかの問題があるかもしれんけど中身AIのボットとかおもろそう
+これこそ家炎上しそうｗ
+草
+草すら燃やされる
+そんときは鯖借りよww
+絶対高いｗ
+それなあ
+AI開発はしたいんやけどなあ
+わかる
+deeplearningの学習自体はgoogleのタダサービスとか使えばどうとでもなるけどそれを運用するってなると急に厳しい
+難易度跳ね上がるｗ
+おれのデスクトップGPUはRTX2070やからそれでもいけるし
+俺のラズパイが焼けてしまうぜ！
+真っ白な灰になっちまう！！
+もはや灰に...
+ハードウェア問題。。。
+やなー
+ちくしょー
+seleniumパッケージにできたからで動作テストしてみて。最期は自動的にブラウザ閉じる
+ていうか７Mもあんのかよこれ（困惑）
+でっか
+あ、exeファイルか
+Traceback (most recent call last):
+
+えらりましたね
+おれは許可して実行させたら消えた
+何も起こらなかったぞ
+コマンドプロンプトでドラッグして実行してみ
+cmdからかよｗ
+んー無理かぁ
+ソースコードは？
+いまさっき家出たから帰るまでちょいまち
+買い物ですねん
+後でうpするわ
+cmdからでも挙動一緒やわ
+そかｗ
+一瞬開いて閉じる
+あ、
+エラー吐いた
+こっちの環境では動いたからやっぱりseleniumの有無なんかなぁ
+一緒にexe化せなあかん感じかね
+😩
+ソースコードだぞい
+履歴汚されました()
+草
+selemiun入れてんの？
+入れた
+やっぱ入れた人じゃないとだめカー
+まとめてpyinstallerでexe化できんかな
+やってみる
+http://xfs.jp/EKW5rK
+まじで
+バージョンは78.0.3904.108
+いけた？
+３回ぐらいブロックされてワロタ
+いけた！
+おー
+でもこれって俺がselemiun入ってるからとかじゃないよな
+山根がやってくれる
+へ？
+@Àżu
+山根召喚
+今から寝ようかと…
+寝るな
+(´；ω；｀)ﾌﾞﾜｯ
+なにをすればええんや
+ていうか今７時ですよ山根さん
+寝る時間や
+はやE
+@hirosuke-pi が送ったULRからexeダウンロードして
+そして多分0〜1時くらいに起きる
+えぇ（大困惑）
+不健康の極みか！
+なんだその日程w
+試してから寝て下さい
+山根オフラインになってるやん！
+寝たのか
+どんな生活リズムやあいつ
+松浦あれどういう風に改造したん？
+気になる
+忘れてた笑
+
+ロシア軍の腕使わない腕立て伏せ見てた
+サンドボックスで動くからたぶん動くわ
+生きてたんか
+おお
+pyinstaller使ってないで
+MAZIKA
+なんか一瞬ブラウザ開いたぞ
+検索された？
+一瞬やからなにが検索されたかはわｋらん
+わからん
+おい
+そんなに早い？俺のは普通に認識できる速度やけどな
+画像が保存されてた
+うせやん
+マルウェア入れさせるな
+ほんまやｗｗｗｗ
+エロ画像で検索してたぞ
+松浦天才か？
+俺かよｗｗ
+是非明日ご教授願いたい
+ええぇ...
+もうこれダメだろｗ
+画像保存は松浦が組んだん？
+しらんわｗ
+こわ
+え、デフォであるんかそんな機能
+やば
+driver.save_screenshot('search_results.png')
+これか
+そこか
+もうウイルスやでw
+まあもとはエロ画像ってワードじゃなかったからな、そこはおれが変えた
+わかる、でも実行するときアホほど警告されたやろ？
+されまくった
+セキュリティ有能やなと思いました○
+ゴミ箱行きや
+くさ
+でもこれ面白くない？スパムBOTとかもこういうので作ってるんかな
+知らん
+うーむ
+警告されるのか
+されるされる
+ファイアウォールに引っかかる
+ファイアウォールはしゃーない
+ディフェンダーとウイルスバスターとファイアウォールに引っかかった
+Windows保護～もしゃーない
+まじか
+まじまじ
+https://github.com/betacode-projects/pyDotexe
+pyinstallerの代わり
+おお後で見てみるわ、飯食いに行ってくる
+いってら
+ディスコードでは絵文字が使えます。
+:loading:
+このように
+そしてこの絵文字は追加することが可能です。
+なのでみなさんに絵文字に使えそうな画像、使いたい画像を募集します。
+応募方法は簡単。
+generalチャンネルに画像を投下するだけです。
+皆様からの応募、お待ちしております。
+:19042619SS_UT_NintendoSplatoon_p:
+:19042619SS_UT_NintendoSplatoon_p:
+
+完全に理解した
+なんでbotねこ反応してんだよｗｗ
+色々追加した
+草
+ぬるぽ
+@Àżu■━⊂( ･∀･) 彡 ｶﾞｯ☆`Д´)ﾉ
+いでえ！
+炎上
+炎上案件
+尊い画像をうｐするのじゃ！
+
+スパゲティーコード
+社畜
+反応しねえかww
+入れてないなｗ
+(base) C:\work\専科\python>pydotexe -build selenium_sample1.py
+
+ええ
+pyDotexeのやり方ってプロンプトでpydotexe -build selenium_sample1.pyうつん？
+AnacondaのPythonフォルダある？
+
+パット見でどこにあるかわからない.......
+そのフォルダのScriptsフォルダ開いて
+検索書けたらいいんじゃね?
+
+
+そのフォルダの中にこれ置いて
+あざます
+module-hooksは、フォルダごと入れて
+で、環境変数でC:\ProgramData\Anaconda3\Scriptsを追加しといて
+chromedriver.exeってある？
+あるよ
+module-hooksはフォルダを入れるだけでええんかな？それとも中身？
+フォルダごとで
+了解
+
+
+
+なんかふざけてごめんなさい
+
+よしもとがくれたヤツちょっといじった版
+これに差し替えといて
+どこまで行った？
+環境変数の設定。これであってる？
+やりかたが....
+おｋ
+あざます
+コマンドライン開いて、pydotexeって打ってみて
+おｋ？
+おけ
+ではビルド開始
+pydotexe -build -src selenium_sample1.py -resfile chromedriver.exe -import encodings.idna,urllib.request,urllib.error
+これでたぶん行ける
+oh........
+ソース書くの忘れた
+Anaconda以外にPythonの環境はある？
+無いなぁ
+うそお
+Anacondaじゃむりっぽいかな
+Scriptsフォルダ開いてみて
+ほいほい
+scriptsフォルダにpython.exeが無いからエラーになってるのか.....?
+いや
+そんなことはないはず
+This directory is not found （このディレクトリが見つかりません）って一体
+どのディレクトリなんや.......
+無視していいよえ
+これはどうでもええやつなん？
+エラー連鎖の途中やから、根底直せば消える
+ほうほう
+Module-hooks data is not found 一番上のこれかな
+モジュールフックデータが見つかりません
+うーん
+Scriptsフォルダみせて
+
+
+少々多めですが
+pyDotexeフォルダの中ってなに？
+そんままexeが入ってたやつ打ち込んでたわ
+消す
+これpip pydotexeインストールしてるからとかある？
+最初はpipで入れたんやけど
+C:\ProgramData\Anaconda3\Scripts\pydotexe.exe -build -src C:\Users\hiroki\Desktop\selenium\selenium_sample1.py -resfile chromedriver.exe -import encodings.idna,urllib.request,urllib.error
+これでやってみて
+あー
+pipか
+お
+作れたけどプロンプトが一瞬開いて消えるだけでそれ以降何もおこらないという.......
+C:\work専科\python内に、pydotexe.exeある？
+まじで
+あった
+あーそれやな
+
+消しといて
+りょ
+@Àżu これは？
+python専科のやつexeにしてみた
+なかみ謎すぎやろｗ
+これpythonの専科の先生が作ったやつやぞ!
+それをおれはexeにしただけや！
+@ヨシモト pydotexe -build -src C:\Users\hiroki\Desktop\selenium\selenium_sample1.py -resfile chromedriver.exe -import encodings.idna,urllib.request,urllib.error --debug
+これ実行して
+で、開いたコーンソールのエラー内容見せてb
+
+人生ゲーム要素は...?
+自己増殖オートマトンやで
+なんかいけた
+cuiやからくそ見づらい
+oo
+おお
+@ヨシモト 一番下にあるのコピペして実行してみて
+さっきのdebugのけっかがこれやで
+
+あ、そっちね
+この部分コピペして実行してみて
+そそ
+了解
+で、その内容を見せて
+こんなかんじですわ
+実行できてるじゃん
+やのに出来上がったファイルはだめなんだよなぁ
+これ起動したとき、クローム出た？
+出てこないね
+出てこないのはexeファイルのほうね、さっき打ったやつはちゃんと出てきた
+両方とも画像は保存されてる？
+もう一回やってみて:
+pydotexe -build -src C:\Users\hiroki\Desktop\selenium\selenium_sample1.py -resfile chromedriver.exe -import encodings.idna,urllib.request,urllib.error
+松浦からもらったChromeDriverってどこに置いとくやつなん？おれはselenium_sample1.pyと同じ場所においとるんやけど
+もしかしてscriptのなかとか？
+同じ場所でいいで
+りょ
+あかん.....なぜなのか.....
+ちなみにexeで画像は保存されてない
+んーあかんかw
+明日学校で見るわ
+あざます
+プロキシが邪魔してるっぽい
+なんかこの画面で止まるな
+vpnいける？
+そもそもvpnの適用方法がわからん....新しくChromeが立ち上がるからそこをどうにかセナ
+Wi-Fi開いて、orzっていうSSIDある？
+そこに入って
+パスワードは1234567890
+りょ
+いけたよ！松浦さん！
+スクショもちゃんとってる
+ok
+HALパスワード変更　http://192.168.42.17/
+Pinned a message.
+@ヨシモト なんか選択範囲スクショするやつ教えて著
+@Àżu win+shift+s
+スクショじゃなくコピーだけど
+😘
+くろーむのかくちょうきのうでがめんのとりみんぐできるやつあるで
+ちゅおい
+さすぱち
+基本情報の範囲イズどこ
+あそこらへん
+セキュリティなあたり
+csの用意を忘れたおれにはわからん
+P188からP203までらしい
+あざふ
+山根スマホの充電器貸してくれん？
+ええで
+:IMG_8669:
+:loading:
+ゆゆうた
+yyut
+💩
+きたな
+授業中に出したら、学生生活終わるナリ...
+草
+不満点とかしょうみiPadが全て解決してくれる件についてのスレ
+文具使うのはプレミ
+それな
+
+
+
+
+作：ぱち画伯
+これどっかに\nつければええ感じなんかな？
+どこで使うかわわいにはわからん
+使うところなかった
+はず
+なるほど
+:tashkani:
+
+
+有能
+/phpw:```
+
+PHP Parse error:  syntax error, unexpected ''. '' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /discordbot/progracat/index.php on line 4
+/phpw:```
+
+@ぐっちゃんいえす( *´艸｀)
+だれかじゅぎょうのぷろぐらむおくって
+HTML
+みえない
+それなああ
+/phpw:
+
+@ヨシモト送って
+/*ボックスのwidthとheightにpaddingとborderを含める*/
+同じのやってて草
+ん？間違ってる？
+いやhtml/cssのほうでおれも貼ってるwwww
+こっちみえにくいから任せたww
+コメントのみ貼るな
+height: 100vh;/*vh(viewport height)１画面の大きさを100vh(100%と同じ)*/
+それ神
+＊が抜けるのでそれは各自でよろ
+おけけ
+多分だけど、よしもとパイセンdiscord見てないと思うｗ
+前やからいけるやろ
+まぁね
+後ろ勢がきつい、見えん
+どこ見えてないん？
+全部
+*{
+
+そのまま貼り付けたらいいと思う
+👌
+#page4{
+
+有能
+スタンプに追加希望
+採用
+
+:748924:
+スタンプのサイズを大きくってできんのかな
+そんなもんやろ:748924:
+無理ですね
+:748924:
+むりかぁ
+あくまでも絵文字やから普通の文字のサイズに合わせられる
+うーん
+大きい方がいい場合は普通に画像貼り付けるしかないな
+
+画像を絵文字みたいに使いやすいようにできれば......
+たぶん吉本の思ってるやつはlineのスタンプやろ？
+soso
+そうそう
+それは絵文字じゃなくてスタンプやからなあ
+プラグインでラインスタンプ使えたんやけどアップデートで使えなくなった
+検索したらLINEスタンプのやつ俺も見つけたけど使えなくなってるんか...
+最後何をした
+？
+
+すまねえ。
+授業の時ラストなんか横並びをはしまで伸ばしたっぽかったから
+そのコード今から載せるから少し待ってほしいンゴ
+あざす
+'''css
+
+うまくいｋない。
+```css
+
+@をシフトキーを押すと打てる
+＠？
+@+sihift=「`」
+```css
+
+おぉ！
+それそれｗｗ
+「’」←こっちで打ってた
+「｀」こっちじゃなく
+シングルクォーテーションじゃないんだなあｗｗ
+oh…
+それってすべての言語共通？
+うん
+サンクス！
+点々３つのあとに言語名で行ける
+了解しますた
+そいえば、この外枠の線の角丸くなるのは適応されてる？
+それはできてるよ
+なら授業内容は大丈夫だね
+問題は、課題のhtmlだな…
+最悪自分で考えて書けばいいww
+たしかにｗ
+授業とコード変わるけどwww
+この丸くなるやつどういった仕組みかは聞いた？
+わいもとから知ってるwww
+なるへそ
+つおいお
+あれピクセル指定してるけど角の丸の半径か直径かのどっちかを確か指定してたはず
+半径だお
+じゃあ半径やわｗｗ
+うむｗ
+flexとかの課題って出来た？
+まったくやってない
+わいも
+草
+python二周目頑張ってます
+がんばれ～
+じゃあまた学校で、ﾉ
+ノシ
+
+マシンルームばちこり授業してた
+ゲーフリの陰謀
+草
+草
+帰ってくるん？
+帰ってこない
+おけけ
+ハゲ
+@hirosuke-piまた髪の話してる...(´･ω･`)
+ハゲ
+@Àżuまた髪の話してる...(´･ω･`)
+ぬるぽ
+@Àżu■━⊂( ･∀･) 彡 ｶﾞｯ☆`Д´)ﾉ
+うるせーハゲ
+@Àżuまた髪の話してる...(´･ω･`)
+うるせーぞハゲ頭
+@hirosuke-piまた髪の話してる...(´･ω･`)
+うるせーハゲ56すぞ
+@Àżuまた髪の話してる...(´･ω･`)
+炎上しそう
+社畜ぅーっ!!
+progracat
+@hirosuke-pi(=^. .^=)ﾐｬｰ
+Joined the server.
+きた
+
+!w:osaka
+@ぐっちゃん
+
+こんなかんじで
+!w:kobe
+@Àżu
+
+!w:newyork
+a
+日本だけ？
+テストしてない
+おけおけｗｗ
+ローマ字から漢字に変えるのも緯度経度からやってるから結構ガバガバ
+おおｗｗ
+!w:ryuo
+@ぐっちゃん
+
+けっこー田舎でもいけるわ
+!w:nagano
+@Àżu
+
+おお
+さむｗ
+普通に今日寒すぎ
+とりあえずあとでgithubにコード上げときます
+おおｗｗ
+githubにあげる風潮ww
+ソース見てもらうのもまた勉強だから(？)
+せやなｗ
+技術を共有するのも勉強になるしね
+せやね
+プログラキャットからかなり学ばさせてもらったし
+@ぐっちゃん(=^. .^=)ﾐｬｰ
+かわいい
+ぬこさま有能すぎる
+!w:hikone
+鯖落ちてたわ
+ハゲ
+@Àżuまた髪の話してる...(´･ω･`)
+!w:toyonaka
+鯖落ちかな？
+多分普通にぐっちゃんのPCで動かしてるだけやと思う
+なるへそ
+サバないと24時間稼働は無理やな
+あとは松浦みたいなラズパイとか
+一応うちはラズパイやな
+借りるしかな無いんかな
+それ
+ラズパイがある
+おいくら万円？
+1万くらい
+ちな、python専科なう
+しってる
+ほほぉ
+知られてた
+後ろにいるぞ
+おまえら.........
+キーボードの入力音が真後ろでめっちゃンコしてるお
+パイセン！！
+おいｗ
+山根がカタカタしてると思ったらこれかいな
+そういうことや
+気にしたら負け
+ねむいんご
+うむ
+鼻がやばいンゴ
+こーひーをすこれ
+火傷案件
+やけどは気持ちでカバーできるから、しらんけど
+こーひーれｋ
+くれ
+exeができんくなってからネトサしてるンゴ
+コーヒーほちぃ
+じゃあ今お金渡すから買いに行ってクレメンス
+ま？
+そろそろカフェイン注射とかでもええような気がしてきた
+3杯買ってくるよ？
+通報しますた
+なぜだｗｗ
+やめちくれ
+アドミニストレータには逆らえないんだぞ！（知らんけど）
+せやなあ
+はっ、すいませんでした山根様！
+なんか草
+許して下さい、たくみが何でもしますから
+許す
+よかったなたくみ
+what’s？
+:seyana:
+:748924:
+よしもとパイセンが機械化Ver.2で許してクレメンス
+ええで
+やったぜ
+
+what’s？
+
+
+
+支配者様が怒っておるぞ…
+やべえよやべえよ
+ぬるぽ
+@Àżu■━⊂( ･∀･) 彡 ｶﾞｯ☆`Д´)ﾉ
+これは、ぽ○案件かもよ。○＝あ
+ぬるぬるぽ
+ぬるぽ
+@ヨシモト■━⊂( ･∀･) 彡 ｶﾞｯ☆`Д´)ﾉ
+ぬる ぬるぽ
+ぬるっっっっっｒぬるぽ
+めるぽ
+ガッ！
+メルト
+聴きたい
+とーけーてしーまーいーそお～
+炎上
+もお。ばいばい、しないと、いけ～な～い
+みんなの歌唱力
+２C
+やばｗ
+未承認です。
+よしもとパイセンは５Bやんね？
+－1Aやで
+ｗｗｗ
+？
+安心してティアワンやから
+ティアワンとは
+一番なんやで
+？？？？
+やから安心してくれ
+心配する出ない
+そもそも何がなんだか
+草
+知らないほうがいい事案かもよ
+知らんけど
+しらんのかい
+uむ
+おしえてくんね？
+ggrks
+わいも実際は知らないンゴ
+えぇ
+こんな感じらしい
+よかったやん
+なるほど。discodeの権限のことかな？
+それは違うと思う…
+なんとなくのイメージか
+がちでtier知らんかったんかw
+ビジネス用語？
+ゲームとかかな
+https://saikyouse.com/what-is-tier1/
+なるへそ
+`yoshimoto.destroy()`
+みたサイト同じ
+草
+破壊されてるやん
+やばい
+わらってまいそうｗｗｗｗｗｗ
+わらおｗｗ
+今あかんやろｗｗｗｗｗ
+授業なうｗ
+俺一回笑ったンゴ
 ```
-/hellp
+
+草
+いまやってるのパワポからコピーしたのに出来ないンゴ
+これBOT君に2 ** 999999999とか渡したらぶっ壊れるんかな
+サイコパスや
+/timeout:30
+@hirosuke-pi 制限時間を、30秒から30秒に変更したぞ！
+自分のPCでプログラム作って試してみて、大丈夫ならいいんじゃない？
+/timeout:180
+@Àżu 制限時間を、30秒から180秒に変更したぞ！
+対策が早いンゴ…
+oh…
+/timeout:10
+@Àżu 制限時間を、180秒から10秒に変更したぞ！
+一回やったけど処理に時間かかるだけで固まるまでは行かんかったな
+なるへそ
+/timeout:30
+@Àżu 制限時間を、10秒から30秒に変更したぞ！
+２でかけるんがなく、１６９とかでやってみては？
+いたちごっこや.......
+/rbw:```rb
+
+数が大きくても一緒じゃね？
+いたちじゃ済まんと思うが…
+性能悪いほうが固まると思うンゴ
+おもすぎたらcmdが固まるだけになりそう
+win落ちるまでやろうゾ
+さっきのでBOT死にました
+草
+waht's
+pkillがなんかのコマンド？
+/timeout:30
+あっ
+a
+あ
 /help
+おっふ。。。
+BOTが起動したり、停止したりしてる。
+オンラインなって、すぐログアウトしてた
+Linuxの停止コマンドかpkillって
+立ち上げた
+そやで
+おぉ
+読み取ったコマンドを実行してしまうと......
+というか、やろうと思ったら、このBotのトークン余裕で取れるでw
+うせやろ
+脆弱性の塊やで
+さっきのもそうやしｗ
+せやなｗｗ
+トークン取れたら、ジュース1本おごるかｗ
+resetとかうったらやばそう
+おいやめろ
+対策が急がれるな
+じっさいコマンドを受け取らないようにするのって結構難しい？
+対策しようがないんだよなぁ...
+そう
+MAZIKA.....
+5言語分はだるいっす...
+discordのユーザーのロールに合わせてコマンド権限わけるはどう？
+コマンドって例えば
+使われるとまずいやつは管理者権限持ってるやつだけのを拾うみたいな
+なるほ
+んーでもイタチごっこやなー
+もう完全ネットワークセキュリティやな笑
+ネット繋げんかったら無敵やで👍
+もはやbotの意味笑
+!w:hikone
+@hirosuke-pi
+
+!w:wakkanai
+@hirosuke-pi
+
+寒すぎ
+!w:london
+マイナスや
+やばすぎん？笑
+やっぱ外国無理か
+!w:malaysia
+しーん…
+KeyError: 'location'
+あー
+緯度経度から都市情報取得するAPIが外国対応してないだけだわ
+わんちゃん
+隠しコマンドないのか
+まじで必要最低限だから遊び要素ない
+暇なときに作っとく
+おお
+BOTくんこんにちは！
+@ぐっちゃんくん、こんにちは！
+これしかない
+BOTくんこんにちは！
+@hirosuke-piくん、こんにちは！
+こんにちはでいける
+@ぐっちゃんくん、こんにちは！
+こんにちは
+@hirosuke-piくん、こんにちは！
+ぬるぽ
+@hirosuke-pi■━⊂( ･∀･) 彡 ｶﾞｯ☆`Д´)ﾉ
+なるほどね
+最初findがboolで返ってくると思っててめっちゃ時間つぶしたわ
+わかるｗ
+めっちゃ焦ったｗ
+なかったら-1なんよなｗ
+プログラキャットのソース見てたから
+
+まじでｗ
+やっぱOSSさいつよやわ
+なんで != 1 なんやろって思ってた
+つよすぎ
+!bye
+またね！
+帰ってった
+ctrl+cの終了が謎に遅いから作った
+あね
+まあ24時間稼働するなら消すけど
+絵これ描いたん？
+さすがに拾ってきたｗ
+使えそうな画像
+!w:tokyo
+@ヨシモト
+
+!w:hikone
+!w:halosaka
+流石にHAL大阪は無理か......ていうか彦根だめなんやね
+ウソやん...
+!w:hikone
+@hirosuke-pi
+
+おや？
+!w:wakkanai
+しーん
+あれ
+!w:wakkanai
+@ぐっちゃん
+
+いまめっちゃ再起動してるからね
+!w:newyork
+@ぐっちゃん
+
+!w:okinawa
+沖縄が何故か対応してないですわ
+えw
+
+どこやねん
+手動か
+!bye
+またね！
+国外だとエラーでるからそれのメッセージも作らんとだめやね
+!w:malaysia
+@hirosuke-pi
+
+http://blog.ruedap.com/2011/04/29/ruby-heroku-web-app-development-tips-1
+https://garafu.blogspot.com/2018/12/what-is-herok.html
+!w:hikone
+@hirosuke-pi
+
+!w:okinawa
+@hirosuke-pi
+
+@everyone 【募集】botの名前
+イヌ、ネコときたら次は...?
+猿
+ヘビは？
+Viperとか？
+バイパー
+マムシですね
+
+ヤバそう(小並感)
+じゃあanaconda
+🐍
+わりとどうしよ
+多目的ヘビ
+ダサい
+ですよねー
+大蛇丸
+アリかもしれない
+まじかよ
+アイコンの大蛇丸描くで笑
+草
+もうバイパーでよくね？
+誰か〜
+良き名前を〜
+ところで吉本の猿🐒謎なんだが
+このままじゃ大蛇丸になっちゃうぞ~
+それ
+
+サスケくんの写輪眼みたぁーい
+草
+流行りのやつや
+脳内再生余裕
+それは草
+普通にバイパー無難説
+今の所、それに1票やな
+こういう時の投票機能笑笑
+バイパー(仮)に追加しようぜ
+そうするか笑
+アブソリュートとかは？笑
+意味は？
+こういうときにぐぐれる機能ほちいな
+絶対的な
+とか、無条件
+やった気がする
+蛇関係なかった笑笑
+蛇の流れやった感じなのか(汗
+一応Pythonで作るからってことで笑
+なるほどね
+・バイパー
+
+現在この二つです
+大蛇丸候補やったんかw
+スネーク
+候補やで笑
+とかどう？
+ええやんスネーク先生
+蛇で思い浮かんだのこの人しかいない
+草
+またせたな
+ビッグボスなんでも出来るやん？笑
+お？
+🐍🐉
+ヘビドラ
+なんかアニメありそう笑
+略称みたいやね笑
+あ、ちなみにViperはマムシです。
+見返したよ〜
+さすが
+アブソリュートとかほざいてすまん
+有能
+草
+スネークは結構自信ありよりのありンゴ
+スネーク先生ありやと思う
+やったぜ
+・Viper
+
+ヤッタネたえちゃん、選択肢に加わったよ
+他に案はありませんかー？
+
+ペニーワイズ行くか
+蛇下水道に住んでそうやもんな(無理矢理)
+草
+ハァイ、ジョージィ...
+
+「ハァイ、ジョージィ。メッセージを受けとったぞ。(内容)あと、いらないと思うけど風船いる？」
+ペニー和泉bot作るか
+やったぜ
+例のミスったらdelete実行されるやつやろ？
+怖すぎる
+winごとやったら恐怖やな…
+マルウェアやなもう((((( ；ﾟДﾟ)))))ｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ
+確かにw
+ひえっ...
+候補は３つのままやね
+よしもとの案は??
+monkey？
+却下
+関連性さなすぎわろ田やわ
+w
+ワイの案じゃないゾイ？w
+一応投票候補に入れとこか
+蛇で統一しお
+サルル追加で
+おけけ
+サルル却下
+ケロロみたいやね
+(⌒,_ゝ⌒)＜悲しいんですわぁ
+思ってなそうw
+【初投稿】シャルル／もこう https://nico.ms/sm30828873?cp_webto=share_others_iosapp
+これがサルルや
+ばちこり聴いてくれ
+空耳ヤバいわw
+https://youtu.be/V6KWCDDkI-Q
+YouTubeもばちこり見てくれ
+みなさんがんばれ〜
+
+大草
+クソ雑魚で泣いたが
+日曜日の説明受けてない？
+0915(ﾏﾙｷｭｰﾋﾄｺﾞｰ)までには20階こいってさ
+それくらいだと思うンゴ
+ほーん
+あざす
+Joined the server.
+トークンもろもろのセッティングしマスタ
+https://twitter.com/hyouna1225/status/1203545288775856129
+
+心の目で見ろ
+
+WB終わってる人おるん？
+おわってない
+あれ物理的に終わるん？
+$help
+```
+
+そういうことや
+笑
+$help
+```
+
+俺も助けてくれ
+なんとかなるやろ
+$help
+```
+
+草
+$donaikashiro
+バイパーちゃんは助けてくれないよ
+そんなコマンドはない
+$cmd
+```
+
+$yamane
+なんや
+くさ
+botちゃうぞ
+WBの課題投下するから代わりにPHの画像表示するソース見せてクレメンス
+ええで
+MIXのコードがほしすぎる
+授業聞いてなかったからやばい
+丸写しは道連れなるんでそれだけは勘弁
+mixってなに
+ええよ（天下無双）
+
+
+
+うおおおおおおおおおおおおおおおおおおおおおおおおおお
+は？
+いるのcssやろｗｗ
+丸写しするなよ
+
+
+
+あざした
+たいあり
+GG
+
+あれ、mixのcss存在するんだ
+あれ既存のコピーやぞ
+お腹すいた。
+自滅やん
+さっき食ったばっかやから普通に腹いっぱいやわ
+起きたばっかなんだよね😅
+おつ
+CSS_Layout フォルダ
+
+mix.cssありなのかな
+プログラムを受け取ったぞ！
+https://www.youtube.com/watch?v=rpTnFwacKSs
+草
+ダイナブック固まったw
+東芝製くそやん
+とりあえず、バッテリー抜いてみるわ…
+デスクトップのワイ勝ち組
+勝つな
+壊れたら…知らないw
+草
+まあ壊れてもまだ保証きくんちゃう？しらんけど
+ていうかはよPHのソース投下して
+わすれてたｗｗ
+おいいいいい
+パソコン起動しますた
+box_layout_2。html
+とかあるんやけど俺だけ？
+わいも
+細かいことは気にするな
+@ヨシモト PHの補講でやらんかったん？
+画像はやってないで
+あね
+そーすはよ
+まってくれ
+ノートの方のディスコードがアップデート中やねん
+りょ
+```php
+
+テキストファイルにある数字を1桁ずつすべて配列に格納してhtmlのimgでforeach使って呼び出す
+ためすなり
+`str_split(変数、要素ごとに格納する文字数)`で配列に入れてる
+今回は1桁ずつやから引数が１
+$countNumがたとえば123やった場合
+`['1', '2', '3']`になる
+それをforeachですべてまわす
+画像ファイルは「2.jpg」とかにした方がforeachのとき楽
+なるほど、さんこうになる
+```php
+
+😎
+ちなみにこれでもおｋ
+ほうほう
+第２引数していしないと一文字づつになる
+今回の肝は`str_split`
+splitで配列に入れると
+ワイ個人的には第二引数を書いといた方がコードパッとみでわかるからそうしてる
+😢
+変数作ったら勝手に配列でぶち込まれる
+ウェブアプリとかで検索キーワードの処理も同じようにsplitでわけて配列に格納するから覚えておいたほうが良き
+わかりました先生
+しょうみこれ関数しってるか知らんかだけの知識ゲー
+ようはググるかググらないかの問題か
+遊びすぎた
+初期化ボタンあってええの？？
+いいんじゃね
+しらんけど
+訪れたやつが勝手にリセットできるｗｗ
+たしかに…
+まあいいんじゃね？ｗ
+
+ダークウェブにありそう
+よしもとパイセンのコードmixだけ見せてもらったけど部分部分で、できてないっぽいぞ…
+floatもやで
+わいのPCだけ反映されてないかもやけど
+
+おっ、未完成か？
+そうみたいどすね、
+
+これはOK?
+なんかちがう笑
+まじ？
+それはfloat？
+うん
+真ん中こんな感じ
+なんか俺のとちょっと違う
+もうめんどくさい。。。
+なんかマジっぽいじゃん
+作り直しか…
+(´・ω・`)
+slackに解説ないか見てみたけど、よくわからん笑
+そもそもそれぞれの違いがいまいちわからん…
+もうやだ
+<?php
+
+
+なんかおかしい？countが進まん
+スペースとかじゃないの？
+ｔｘｔの？
+rewind
+それ読み込みになってるからじゃね？
+忘れてる
+```php
+
+
+これでオッケーだと思う
+水素の音～
+;いらん系？
+pythonの癖が
+;いるよ
+python病
+WBやだよ。
+それな
+わいもうちたくない
+wrfhw英うふぉい；宇vhjj
+さうふぃうやうおいｆへあｇｈｖ；おあすｊｆぴあｊ；ぽい
+湯j非mgkん、ｈｇじゅｍｐ
+オクトゥビアヌス
+いけたんご
+おお
+ほんまや未完成やん
+就寝
+修正しなきゃ....
+(´・ω・`)
+天下無双って何やったんや…
+
+こんなかんじ？
+すごぃぃぃぃ
+やる気が一ミリも出ない
+
+
+mix完璧にできてるからいいよね。
+だめです。
+えぇ。
+ワイ寝たい
+それな
+php復習してゲームに没頭したい
+それな
+Monster飲みたい。
+マイクラほしい。
+明日の自分に丸投げして寝まーす
+おわたやつや
+知ったことかあああ
+流石にそれは間に合わん
+明日の朝はバットエンドシナリオ確定
+mix死亡のお知らせ
+終わったわ
+？？？？？
+なにがおきた
+細すぎて見えん
+それなｗｗｗ
+ほっそ
+なにもしてないからページがめっちゃ長い
+mixはhtmlも追記したり、色々やった気がする
+おわた
+idいっぱい追記してた
+💩
+何をどうしろって言うんだよ
+もうやだ
+退学すれば課題やる必要ないよね??
+赤信号、みんなで渡れば怖くない＾＾
+退学という選択肢
+ねちゃ～
+大学生羨ましい。
+それな
+大学行きてえ
+仮想通貨ででぼろ儲けして大学行くんだあ。。。(幻覚)
+日曜ｊけんじゃん
+せやで
+くそが
+予定詰まりすぎ
+国家資格だけでええやろしょうみ
+バイトしてる人尊敬
+それな
+ノ
+かみさま～
+22時までバイトやった(白目)
+ハードスケジュール。
+WB、わかんない、やだ、
+違いがわかんない
+floatでやらなくてもいいじゃんかああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ
+完成形もわかんない
+てぃんてぃん
+ゴールの見えないランニングしてる気分
+まるで人生やな
+自らとの戦い
+人はなぜ生まれ、なぜ生きるのか。
+?
+俺のmix結構間違えてた？
+うん
+ま？
+画像が反映されて無い、そもそもだね。
+遅かれ早かれしぬんだから今死んでも一緒だよね??（錯乱）
+パット見できてたんやけどなぁ....
+げんかくじゃね？
+幻覚
+こっこ
+画像いらないんじゃないの？
+mixはいる
+floatはいらんと思う
+さすがに
+この画像はバックグラウンドで指定だお
+それってmixだけでしょ？
+うん
+#gnav2 a{
+
+じゃないとだるい
+ねむい
+```hyml
+
+これを全部にコピペするだけやで
+```css
+
+こっちのほうが楽
+コード短くなるし
+わいもそれやわ
+していしてるあれちがうけど
+ま？一人だけ火縄銃使ってた気分やわ
+htmlの言語思想的にはarticleとかsection入れるべきなんだろうけどそれやると可読性がおわおわりや
+語彙力なさすぎｗ
+なんかおれだけいつも話ずれてるよね
+ｗｗ
+いいんやで
+やさしい
+わい浮いてる
+おれなんかもいつもやから
+これでも１９ちゃい！
+🤭
+退会な
+ばいばい
+えぇ。
+アドミニストレータからのお達しや
+.mapとかドット付けたらどういう意味になるんやったっけ？
+classやで
+`class=
+あっそかぁ（痴呆）
+ちなみに`id`は＃
+さすがにわかるよね…？
+おれでもわかったお。
+html/cssだけは無駄に歴長い
+わい
+画像見つけてｐｈｐもしなきゃなんだよね。
+それはやばい
+ぬべんちょぬえぬべ
+htmlネスト深すぎるんだよくそがああ
+可読性ごみ
+あ、まず全体にかけてから、Backgroundだけ個別にってことかやっと理解したわ
+あ、これまずいかもしれん
+変えなきゃ
+おわらん
+それな
+みんなで渡れば怖くないんやで＾＾
+なんやかんやクラスの大半終わってない事案やと俺は思う
+最近のIT学科やばくないか？
+もとからやばい
+課題やらなさすぎやろｗ
+うわああああああああああああああ
+おわらねええええええええええええええ
+それな
+みｘできてるからいよね（二度目）
+しゃっちょっさんおこもしゃあねえよ
+classって一つのタグに２個付けれるん？
+いける
+まじか
+ただのあだなや
+なる
+ヨシモトも中学時代とHALで呼ばれ方かわるやろ？
+それくらいのノリ
+functionYOSHIMOTO
+なんか結構アバウトやな
+classはねー
+discordって256文字が入力限界値なんだね
+idは１ページにつき1回だけやから厳しい
+せやで
+それ超えると怒られる
+限界を超えたい
+2＾８
+:seyana:
+phpやるか
+もちっとWB頑張ってクレメンス
+どうせhtmlなんてデザイナーにやらせたらええやん
+まあせやけど
+ワイらは最低限
+の
+知識
+が
+あれな
+あれば
+ええん
+やで
+ぱちは終ったんかな
+さあｗ
+しゅってあらわれて、ばーんってどっかいったからな
+それが
+☆PATCH☆
+一日中アニメ見るせいかつがしたいよー
+一日中ポケモン死体
+したい
+なんか誤り変換こわい笑
+もうすぷらしよかな
+わーくんはWBナウなのかな？‥
+ねるわ
+oわったのか？？
+まったく
+oh
+mygot
+god
+is yosimoto
+召喚するか
+せやな
+召喚するな
+召喚成功
+わーい
+どないせぇっちゅうんや.......
+\（＾o＾）/
+@ヨシモト
+お納めください
+キララの絵は可愛いよな～
+わかる
+やんね
+もうきらら読んで現実逃避してくる
+おい
+トモダチゲーム読んでくるわ
+ついでによう実
+えぇ..
+楽器やりたい
+さっくすやってたで
+ベースやりたい
+ならバイオリンしよ
+理由：同じ弦楽器
+カスタネットやりたい
+は？ん？
+流れでいけるから
+幼稚園からやり直してどうぞ
+保育園からやな
+ぶっちゃけ幼稚園にタイムスリップしたくない？
+わかる
+おれは卵子からやり直したいわ
+脳みそ今のままで戻りたい
+調子乗りました
+ロト７　１０００本くらい当てるわ
+草
+タイムトラベラーやね
+幼稚園に戻って夢想するんやあ
+無双
+すぐ追い抜かれそう
+天才プログラマーになるんだあ
+マイクラ実況するんやで
+ぼろ儲けや
+マイクラって２０１５くらいからやっけ？
+なんか山根生まれ変わったらもこうみたいな実況しそうやな
+(⌒,_ゝ⌒)＜Àżuと申します。
+とりあえずDSliteこわそｗ
+(⌒,_ゝ⌒)＜マンダの流星群は強い
+KUSA　HAWRU！
+(⌒,_ゝ⌒)＜もこもこしてきた
+KUSA HAERU
+大物実況者誕生の瞬間であった
+草
+KUSA
+minecraftが流行り始めたのは2010年ぐらいですよ
+عشب
+？？
+なんと10年前
+おそロシア
+ひえ
+ふえ
+俺が始めた年の勘違いだわ、多分
+へえ
+過去に戻ってマイクラ作りたいわ
+ほええ
+先に
+まずjavaマスターせなあかんぞ
+あっじぇんだ！
+✋( ͡° ͜ʖ ͡° )ｱｯｼｪﾝﾃ
+なんかにてるね笑
+せやろ
+俺が飯テロ自爆してから一時間半が経過した模様…
+時が経つのははやいね＾＾
+垂れ流してたｱﾆﾒがもう10話が終わろうとしてる
+240分、約四時間経過してるみたいだね
+ああ。。
+そいえばおれなんでお月さまみたいなマークなん？
+離籍中やな
+離席
+えぇ…
+もう深夜ﾃﾝｼｮﾝでいくべ
+
+俺は俺じゃなかったってことか
+参考程度に
+それやな
+おっぱい
+https://youtu.be/b_PZkJZLfHw
+草
+わーくんの発狂集載せていい？
+別にいいけど
+いいんや笑
+明日怒る
+/pyw:```
+
+File 
+先輩、僕がそんなことやるわけないですよ～
+/pyw:```
+
+おっぱい
+草
+このねこちゃんおもしろ
+これ、ねこのログに残ってんのかな
+discordの履歴に残ってる
+たし蟹
+ねこちゃんにOMMC歌わそうかな
+そこはViperちゃんでしょ
+https://www.youtube.com/watch?v=9mD-ZmWuFTQ
+コレおすすめよ
+なにこれ
+最近たくみがめっちゃ推してる
+１時間ループしてたら頭おかしくなると思う
+それで勉強するのがいいんじゃ～＾＾
+病気じゃん
+え？ナニソレオイシイノ？
+いい精神科の病院、紹介しますよ☆
+https://www.youtube.com/watch?v=sOrvzpIT9CM
+これ今日の飛行機で流れてたやつ
+今からゆるゆりみるわ
+ぼくみたことないでしゅ
+なんかたくみのﾘﾝｸの動画にでてきたからみるわ
+なるへそ
+どういうｱﾆﾒか全く知らない
+ゆるそう
+なんか寝坊してる
+なら日常みよ
+歯を磨きながら髪の毛セットしてる猛者
+食パン加えてランドセルしょってる
+腕三本ありそう。
+しかし中一らしい
+ｎ？
+間違えたらしい
+小学校留年したのか…
+バンドリである曲がOPや
+さくらさき～
+とか言ってそう
+言ってるわw
+まじかよｗ
+こういうの見ないとやってらんないわ
+第一話　中学生デビュー
+ならごちうさみようぜ
+ごちうさはちらっとアべマTVでみたで
+よくわからんかった
+よくわからんくてもええんやで＾＾
+癒やしが必要だろ？
+それな
+ところで
+店の前でタバコ吸うのやめてほしい
+お姉ちゃんやばい
+妹の下着盗んでる
+妹の抱き枕作ってる
+状況がつかめないんですけど・・・
+抱き枕がキスマだらけ
+あね
+現実かと思ったわ
+自己紹介盛大に滑ってはる
+現実ではない
+ゆるゆり視聴実況しよ
+してる
+やん
+たしかに
+なんか茶道部
+頭回ってないな俺
+草
+茶道部いいやん
+ちゃうかった
+ごらく部らしい
+たのしそう
+廃部になった茶道部の部屋を使ってるらしい
+ダラダラしてるだけの部活らしい
+なるほど
+裏山
+俺もだらだらしたい
+そんなぶかつ俺の学校にも欲しかった
+おっぱいもまれてる
+僕4時に起きて課題するわおやすみ
+oきれないやつや
+起きれない【定期】
+よゆーですよ
+寝ない選択肢が一番ですよ（さっきまで寝てましたごめんなさい）
+(⌒,_ゝ⌒)＜しっかりとフラグを立ててゆくう
+コイバナ始まった
+ゆりゅゆｒどんな状況なんでしょうか？
+おぉ
+誰が好き?って
+これ擬似的にアニメ視聴してるよな
+A.自分が好きだそうです。
+おれ
+しゅうりょう
+せやな
+終わったのか？
+コイバナ終了
+なるへそ
+課題はどこ行った
+え？ナニソレオイシイノ？
+おいしくない
+アニメ見よアニメ
+同人活動してるらしい
+せやな「
+ツインテールが出てきた
+ていばんやな
+CM
+toutubeやっけ？
+？
+TV
+？
+Danime
+CMなんて介入したっけ？
+茶道部廃部を知らずに茶道部希望らしい
+ううん
+CM自体はない
+eんしゅつか
+そうそう
+おれのキーボードさっきからちょいちょいバグる
+草
+まあわかるからええで
+ならよき
+興奮して鼻血出してはる
+実況疲れた
+よくがんばりました
+おてて疲れた
+１００点
+わーい
+さーくらさき～
+さーくらちり～
+ｗｗｗｗｗ
+（こっからしらん）
+わいも
+Monsterの残りが１本しか無い…
+事件や
+まだ8本くらいある
+裏山
+２本くらいわけてほしい
+だめです。
+トイレ行ってくる
+うむ
+あぬめ
+あぬめあぬめあぬめあぬめあぬめあぬめあぬめあぬめあぬめあぬめあぬめあぬめ
+ゲシュタルト崩壊しそうだなこの羅列ｗ
+こわ
+kおわ←まじでキーボード壊れてるわ
+おつ
+なんでや
+ヨシモトからもらったfloatがflex入ってる件について
+float in flex
+ところどころflexで書かれてる
+マックフロート食べたい
+ごまかしたかったんやできっと
+もう無理や
+aきらめが肝心やで
+このキーボードも無理や
+せやな
+眠たくなくなってきた
+どうしようかのぉ
+俺も他の人から見せてもらったんやで
+なるへそ
+流用ってやつか
+だからかなりいびつなコードになってると思う
+二次配布の駄目なとこってこれだよな…
+仕方ないね
+これ0から書いた方がよかった説
+それ
+はわんちゃんある
+それは流石に終わらんやろ.....
+htmlが見にくすぎる
+元から終わらんからええんやで＾＾
+wakaru
+（俺は）
+ネスト深すぎる
+諦めの極み
+はっきんぐざほーぷの画像探してくくるわ
+html読みにく過ぎてcssのハードルが上がってる
+html作ったのって先生じゃなかったっけ？
+各自だっけ？
+teacher
+お月さまじゃなくなった。なんだったのだろう…
+もうこれは先生がというよりhtmlの言語思想の呪い
+なるへそ
+まじめにhtmlを書けば書くほど可読性が下がる
+高校みたいやな
+やっぱwordpressの上位互換つくろ
+わーどぷれすがよくわかってない
+コード書かなくてもサイト作れる
+全部ひらがなって頭悪そうｗ
+強くない？
+ただソースコードがおわってる
+ちもろぐがワードプレスで作ってる
+なるほどね
+ソースコード見てみ
+https://chimolog.co/
+あれなんやっけ
+字下げするやつ
+いんでんと
+それ
+それがなかったわ
+いちれつにずらーって
+いやもうインデントがどうのこうの次元じゃないww
+すべてがごちゃごちゃに書かれてるから
+ソースコードなんて普通の人は見ないからいいんじゃない？
+http://www.moxbit.com/
+ぎゃくにこのサイト見て
+ここの人はエンジニアでブログシステム自作しててコードきれい
+うちゅくしい
+でもarticleとかはないんよね
+圧倒的な違いがわかったンゴ
+あったくない？
+ま？
+
+ほんまや
+まあこれをね
+オープンソース化したい
+なるへそね
+typescriptでつくればjsでいじることできるからphpより敷居は下がるはず
+と考えてる
+typescriptはコンパイルするとjavascriptを吐く
+よくわかんないけど便利そう
+テンプレートとかはjsでつくってもらうことができる
+php触れるデザイナーよりjs触れるデザイナーの方が多いはずやから
+とワイは思ってる
+つくったのをてきとうに公開したらワンちゃん数年後には覇権化もwww
+覇権…わくてか
+うまくいけばwordpressのポジションぶんどれる
+おかねもち？
+話は聞かせてもらった
+それは微妙
+ゆーても広告とかはってのアフィカスレベルやろから
+「駄神が現れた」
+有料で配布したらい見ないし
+意味ない
+無料だからいいこともあるんだね
+wordpressの上位互換を目指したい
+山根の話聞いたときはいまいちピンとこんかったけどソースコード見たら一発で理解したわ
+どっかの企業に買収されそうで怖い
+それは勝ち組やろ
+わかってもらえてうれしいぞ
+エンジニアたるものきれいなコードを求めるものなのだよ
+ワードプレスのソースコードあんなにぐちゃぐちゃやったなんて
+せやｄふぇ
+で
+なるほどなぁ
+まだサーバーサイドでjavascript使えるところは少ないから
+今のうちに作って数年後node.jsが大手に採用されたときに使ってもらえるようにしとく
+ぎゃくに採用されなかったらおわりｗｗ
+割とそこらへんギャンブル
+node.jsが普及するかどうかにかかってる
+オラクルとかに買収されたら勝ち確かな？
+買収されたくない
+でも買収って一種のゴール地点じゃね
+有料化される恐れあるからヤダ
+おれはオラクルを信用してない
+ああ、javaみたいに
+うん
+mysqlももしかしたら有料になるかもしれんもんな
+やっぱネットの財産ってフリーなところに意味あると思ってる
+ほうほう
+だからこそだれでも参加できるからこれだけのスピードで技術が進化してると思ってる
+一理ある
+プログラミング言語が有料やったり、エディタが有料だったらこんな進歩絶対してない
+確かにほとんど無料やもんな
+vscodeとか無料レベルじゃないし
+それな
+無料なおかげでみんなが爆速で開発ができる
+まあこんなソフト開発したら引く手あまたになりそう
+爆速になったおかげで新しい技術が出来上がる
+linuxみたいに募金制にするのはありやと思うけどね
+あーね
+お金の余裕ある人に落としていってもらう
+それとアフィ
+せやな
+そんなもんちゃうかｎ
+な
+ほんまにそうなったら会社にせなあかんなww
+会社じゃないといろいろめんどくさいんかな
+金が絡むと会社にした方がいいね
+そん時はみんなをフリーランスで雇うわww
+響きがかっこいい
+やろ？ｗ
+タイプスクリプトかー
+俺の方としてもフリーランスでやってもらう方がありがたいww
+なんかまた本図書室に入れるわ
+ネトッタ
+毎月安定して給料渡す自信はねえww
+寝取った？
+ん？
+寝てた
+おは
+心が不潔だな～
+おっはぷるんぶんぐぬす
+？？
+たくみこわれる
+草
+ぬべんちょぬべぬべ
+やば
+ふりーらんす楽しみにしてる
+じゃあみんな頑張って開発してくれ
+そうなんだよね。
+頑張れww
+もんちゅーた飲んだらなくなるから飲んでない
+個人的には会社にしてしまうと利潤を常に出さないといけなくなるから好きなものを作れなくなるという懸念(´・ω・`)
+たしあに
+お金は欲しいけど金のためにいやいや開発するのもヤダ
+やっぱ好きなもの作りたいやん??w
+そこは天秤やね
+せやねんなあ
+会社だと利益が出る見込みなかったら却下やからなあ
+このパソコンも俺みたいになってきて嬉しい
+やばい
+ｔ先生も世の中金って言ってからなんとも言えんのよね
+できることならBaSEは金を気にせず好きなもんつくれるところにしておきたいところやねんけど
+やっぱ金もらえる方がモチベにはなる問題
+環境って大事やもんね
+多分お金もらえるってなったらみんなめっちゃやると思うんよねwww
+誰でもそうやと思う
+お金欲しいよ～
+そうしてしまうと面白いとか楽しいが二の次になってまう
+そやね
+ほどよくいけたらいいんやけどね
+そこでずっと悩んでたりする実はｗｗｗ
+（わーくん起床まで残り約２時間）
+沖内に一票
+同じく
+多分俺寝たら明日９時に間に合わん気がする
+それはやばいんご
+とりあえずphpやってアニメ見てゲームしたい（WB？知らない子ですね）
+それな
+山根は今日はネルの？
+おわったら
+wｂ？
+うん
+おわりそう？
+微妙
+floatのflex問題はあきらめる
+てことはglidとmixやね
+mixは終わった
+もらったやつほとんど触らんですんだ
+画像追加するくらいやったからね
+おれもそろそろしないとだな笑
+画像イランで
+ん？
+画像いらない
+あ、たしかに
+imagesフォルダ不要って書いてる
+それわすれてた。
+phノ授業内課題fput関連以外もでるんかな？
+わからん
+しょうみファイル操作とか授業でしかやってないからこのまま挑んだら自コルの目に見えてる
+事故
+る
+あれ授業中しらべて良いんかな？
+わからん
+前は俺ググったwww
+なるへそｗ
+select思いっきりググったww
+ならなんとかなりそうやね
+制限時間が肝やけど…
+それな
+ただおれ先生来たら画面切り替えてたwww
+仮想デスクトップつおい
+どや
+キーボードでしか移動できんのよね。
+どんまい
+なんで三本しか対応してないんだ、四本にしろよ
+しゃーない
+そうなんだけども。
+いつの間にか吉本パイセン落ちてる
+ねたんじゃね？
+なるほど
+ｗｂおわったのかな…
+わからん
+神のみぞ知る
+せやな
+カウンター作ってくるンゴ
+おけおけ
+起きたけど眠すぎこれ
+ふぁいと！
+寝る
+わりとみんな起きてるの草
+おれもあれからずっと起きてるぞい
+ワイ全部終わらしたぞ
+鬼滅の刃見てるなう
+フラグは回収しなかったんんだ…
+つよ
+アクセスカウンターサイト見ながら作ってるとこ
+ufotableめちゃめちゃきれい
+がんばれ〜
+じゃあ寝ますね(´・ω・｀)
+起きましょう
+やだ眠い
+とりあえずできた
+草
+http://heatbox.jp/
+
+みなさん終わりましたか
+改行できん
+```php
+
+は駄目
+```php
+
+はおっけー
+改行されてるテキスト読み込んでんのに、出力の際には改行されない問題
+file_put_contentsは使わんの・
+？
+俺は使ってないなー
+誰かライトニング持ってたりしないかな？
+ノ
+かしてほしい。
+ええで
+10分1万円ン
+え…
+何か問題でも？？
+僕に上納金8割ね
+草
+（泣）
+無料で貸してあげよう
+ありがとうございます！！！！
+ええんやで
+のこり３％…
+インターネット共有してるだけやのに。
+kusa
+今授業なにしてるの？
+作品探し
+今日２限はそれだけやってさ
+みつかれば、ｈｔｍｌ作成
+やったぜ
+PHPの授業内課題の課題表紙って回収した？
+回収しました
+マジ・
+で？
+俺だしてないんやけど
+おつ
+おつじゃないんだよなぁ
+草
+やっちまったな
+おつりたくないぞ
+課題タイトル覚えてる？
+アクセスカウンター
+ちゃうちゃう、授業中でやったやつ
+出してないのが正解らしいゾ
+委員長に聞いた
+本当にありがとうございます🙏
+よくやった
+https://www.youtube.com/watch?v=R53Z4x-IdD4&feature=share
+pｈの補修行く人おる？
+あれって前期落とした人強制なん？
+そういうの言ってないから多分違うと思う
+GCEの無料枠のf1micro、俺の持ってるラズパイ以下の性能やん...
+上手い話はないんやね
+🥺
+(´･ω･`)
+@eternalwing_S.t https://javadl.oracle.com/webapps/download/AutoDL?BundleId=240725_5b13a193868b4bf28bcb45c792fce896
+問8-4メモってるひとおる？
+Joined the server.
+https://twitter.com/kt_code/status/1204948950614077440?s=12
+草
+その通りやわ
+@everyone そういえば忘れてたけどhtmlのテンプレとかはgoogleドライブの共有フォルダにあげてるから使いたい人はそこから使って
+リンクはこのチャンネルにピン止めしてる
+了解👌
+明日学校終わったあと焼肉行ける人🤚
+
+ちなみに食べ放題な
+python専科は？
+お昼でしょ
+あ、お昼か
+お昼でしょ
+そそ
+すまんｗｗ
+あ、
+ええで
+被ったンゴ
+行けるンゴ
+ええやん。山根とたくみ決定な
+✌️
+LINEにも書いとこ
+おけけ
+ぐっちゃんも決定と
+とりま店の情報貼っときますわ
+
+
+時間…
+おいw
+？昼でもいけたで
+実際入ったの昼やし
+グルナビ許されんわ、ハッキングしようかな
+
+12:00から開いてるっぽいね
+さすがグーグル様
+
+ドリンク高い？
+相場わからん
+ドリンクは頼まんのが安定。ワンドリンク強制とか無いから安心や
+ういー
+3杯飲んだらお得らしいよ
+梅田プライスなら
+そりゃワンドリンク換算ならね
+こう言う飲み放題ってどうしてもサイゼリアとかと比べちゃうんよな
+いつも飲み放題で飲まないからわかんないわ…
+飲み物は頼まない派？
+飲むよ
+単品で頼むから
+なる。
+Joined the server.
+すまん、今気づいたんやけど全資産がマイナスになってた…
+
+結局今日はなに持って行けばええの？
+ぱちさんは午前免除のお勉強ですね
+うせやろ？
+午前免除受かってる奴は好きにしていいらしい
+ほんまや、LINEきとる
+そゆこと
+PHPでもやっとくかな
+それでええんちゃう
+pythonやっとくわ
+（なお、まだ自宅です…遅刻するかもねｗ）
+あかんやつやん
+草
+阪急が珍しく遅延してるわ笑
+助かった…
+```
+
+cmdのproxy通すコマンドです
+さんきゅ
+!help
+
+https://github.com/Gucchan28/DiscordBOT/tree/master/weathedog
+✅ **Check <https://rythmbot.co/features#list> for a list of commands**
+!w:osaka
+@patch
+
+!w:namba
+@patch
+
+!w:nanba
+@ぐっちゃん
+
+w!:tokyo
+$help
+```
+
+!w:tokyo
+@patch
+
+!w:yamane
+@patch
+
+$help
+```
+
+$help
+```
+
+$help
+$help
+$help
+$help
+```
+
+$omikuji
+@hirosuke-piの今日の運勢は、||大吉　||だぞ！
+完全にキャラがあおっち
+$ping
+@hirosuke-piの応答時間は、40msだよ！
+
+$omikuji
+@Àżuの今日の運勢は、||中吉　||だぞ！
+$help
+```
+
+$omikuji
+@Àżuの今日の運勢は、||　吉　||だぞ！
+$help
+```
+
+$omikuji
+@patchの今日の運勢は、||　凶　||だぞ！
+しね
+
+$omikuji
+@hirosuke-piの今日の運勢は、||　凶　||だぞ！
+$omikuji
+@hirosuke-piの今日の運勢は、||クズ運||だぞ！
+
+$omikuji
+@eternalwing_S.tの今日の運勢は、||中吉　||だぞ！
+マシなのか？
+$omikuji
+@ヨシモトの今日の運勢は、||　大凶||だぞ！
+草
+ちゃんと授業受けろよな
+マジで。
+（笑）
+ちゃんと受けてるわ
+$omikuji
+@ヨシモトの今日の運勢は、||小吉　||だぞ！
+運上がってるやん…
+YATTAZE
+NANNDEYANENN
+草
+$ping
+@ヨシモトの応答時間は、17msだよ！
+横の人寝てる…俺ら真面目だな！！！
+:seyana:
+$ping
+@eternalwing_S.tの応答時間は、37msだよ！
+yappagakunailanosoinaw
+ゲームチャンネル増えそうであればサバ分けようかなと思ってる
+それはありやね
+通知分けたほうがいいかも
+結局テスト用サバまったく使ってないしそれゲーム用にするのもありかも
+テスト用なんてあったんや
+/py:```py
+
+@ヨシモト Pythonのプログラム受け取ったぞ！ちょっと待ってて...
+@ヨシモト$ping
+
+ちゃんと反応しない、すご
+そいえば、Informationってどこ行ったの？
+なにもないです
+Informationチャンネルはあるくね
+discord再起動したら表示されたわ。
+なる
+rythmって誰のBOTなん？
+俺は知らないンゴ
+山根と松浦の合作かな～って思ってる←
+ｍ？
+しらない
+それメンション出来てなくね？？笑
+@Àżu Rythmって誰の
+BOT?
+別の世界線の吉本じゃない？？
+しらんけど
+えぇ
+あ、完全に理解したわ
+まじ？
+しらん。
+くさ
+昔からある超有名なbot
+何をりかいしたのか........
+ぐぐるわ
+そうなのか
+つべを再生できる
+使ってみて
+ボイスチャンネルで
+ボイスか
+うん
+もち
+基本的に音楽聞くみたいな用途
+なる
+あ、リズムの話ね
+え？
+その話じゃないの？
+viperかと思ってたわ
+ちゃうちゃうｗｗｗ
+吉本のメンションに答えたw
+それはなんとなくわかってたお
+なるほどね。
+吉本パイセンワルイコだ
+山根の専科の講義を阻害するなんて
+冤罪や
+これボイスチャンネルでテキストの打ち方わかる？
+siranai
+@Àżu 教えてクレメンス
+しらない
 /help
-/help
-/help
-/ver
-/help
-sadfsgdf
-/help
-/timeout 60
-/timeout 700
-/timeout 30
-/comp 2
-/comp 3
+@Àżu```md
+
+あら
+やり方忘れたww
+!connect
+コネクト？
+!join
+👍 **Joined** `General` :page_facing_up: **And bound to** `general`
+おぉ！
+これでみんなの音楽の趣味が露呈するなｗ
+さすがわーくん
+!play ホットドック
+:youtube: **Searching** 🔎 `ホットドック`
+**Playing** 🎶 `アメリカのホットドック` - Now!
+!play https://www.youtube.com/watch?v=PyhgmSj5I2E
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=PyhgmSj5I2E`
+
+これいま流れてんの？
+うん
+流れてるわ
+消音やからわからんのよな
+!skip
+⏩ ***Skipped*** 👍
+授業中でしょパイセン…
+これすべてのボイスちゃんねるで流すんやろか
+イヤホンでも使ってるんか？
+使ってるで
+悪い子だ
+ぐっちゃんの声がかすかに聞こえる
+!stop
+**Paused** ⏸
+ていうかYOUTUBEの音調節せなうるさすぎるな
+うっす
+!play lovesorrow
+:youtube: **Searching** 🔎 `lovesorrow`
+
+完全に理解したわ
+!play https://www.youtube.com/watch?v=bGHT5OFtU0M
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=bGHT5OFtU0M`
+
+!play
+⏯ **Resuming** 👍
+!skip
+⏩ ***Skipped*** 👍
+!skip
+⏩ ***Skipped*** 👍
+音楽流れてない。
+きみボイスチャンネルにいないじゃん
+なるほどね
+わかる
+流れてたわ
+!play https://www.youtube.com/watch?v=3XYSpaxbWk0
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=3XYSpaxbWk0`
+
+Bluetoothイヤホン強いわ
+!skip
+⏩ ***Skipped*** 👍
+!play https://www.youtube.com/watch?v=aqQ5Qng4yj8
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=aqQ5Qng4yj8`
+❌ **Failed to load** `This video cannot be played because of youtube limitations`
+これボットのコマンド入力するようのチャンネル欲しいかも
+うるせえｗ
+ジェネラル埋まっちゃう
+!skip
+⏩ ***Skipped*** 👍
+!play https://www.youtube.com/watch?v=MFrfh311hdM&t=1474s
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=MFrfh311hdM&t=1474s`
+**Playing** 🎶 `1 Hour Version of Hotto Dogu song ft. Google Translate` - Now!
+!skip
+⏩ ***Skipped*** 👍
+えぇ。
+ATAMAおかしくなる
+そやなｗ
+!play https://www.youtube.com/watch?v=sOrvzpIT9CM
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=sOrvzpIT9CM`
+**Playing** 🎶 `John Dreamer - Rise Extended (Epic Music)` - Now!
+これ飛行機の映像見たときのBGM
+たにまさるの授業で
+あね
+!skip
+❌ **Nothing playing in this server**
+!play https://www.youtube.com/watch?v=vSKL1QUo_b0
+:youtube: **Searching** 🔎 `https://www.youtube.com/watch?v=vSKL1QUo_b0`
+**Playing** 🎶 `Epic Rock Mix | RISING BATTLE MUSIC` - Now!
+なんてった？
+ぼっとのコマンド入力用のチャンネル作ったからそっちでやりましょ
+了解
+プロキシ中継するソフトをgoogleドライブの共有フォルダにあげたぞいぞい
+これ動かしたらgithubとかつながるぞ！
+Rythmの使い方　https://tech.kunimaly.com/rythm-discord-musicbot/
+これピン留めって山根しかできん感じ？
+かもしれん
+Pinned a message.
+なるほど
+@ヨシモト @Gucchan12 明日の放課後暇？
+
+明日は3限目からです！遅刻しないように！
+Pinned a message.
+
+(拾い画)
+有能
+タブレットでだと。
+これパスワードはソーシャルエンジニアリングで入手したらしいからそこまででもないらしい
+どうやって見つけたんやろ
+パソコンつけっぱとかありそう
+学校の教師に聞いたんかな？笑
+正直すぎて草
+ソーシャルエンジニアリングってたしかそんな感じじゃなかった？
+物理的に見つけるやつやろ？
+違ったっけ？
+ネットワークを介さずに入手するみたいな感じ
+どっちともあってるんね笑
+ん？電話は介してるか…
+わかんね
+けど、昔の通信方式ってｔ先生言ってなかったっけ？
+ワカンネ笑
+Azuさん来れません？
+なにに？
+げーちゃ
+？？
+VC
+もうちょいしたらぬける
+晩飯
+
+ゲームしてたらスマホぶっ壊れた
+乙ですなこれはｗ
+やばすぎるンゴ
+再起動いける？
+長押しもむりなんか
+バッテリー切れるまでまつしかないかな
+落としたから説
+どれｗ
+気になるわｗ
+お洒落スマホ
+草
+これは内臓GPUが逝かれましたな
+🥺
+@hirosuke-pi AWS借りてred mineやったんやけどDNSが可変やから固定したいー
+my.dnsでのやり方がよくわからんから教えてクレメンス
+ドメイン固定はやったけどDNSの固定はわかんね。ググってクレメンス
+EC2サーバー借りるん?
+もう借りた
+EC2?
+red mineだけならいけるかなと
+うん
+安定のt2.microやな
+もう動いてます
+それそれ
+みんながアクセスできるように固定にしたいって感じ
+ドメインさえ固定したらいけるんじゃね？
+有料じゃないの？
+IPアドレスを固定するやつあるからそれやればおkやと思われる
+この前のGoogleの鯖とおんなじ感じやと思うんやけども
+そこはわからん
+やってみる
+べ
+IP固定化できるなら話がちがうけど
+ドメイン固定は初耳学
+やり方がわからん
+ec2のメニューの下らへんになんかIPなんとかっていうやつあるやん
+Elastic IP?
+そそ
+これ割り当てるだけ？
+詳しいやり方はググッてくんろ
+今から風呂入るから、しばらく答えられんわ
+おけけ
+すまんな
+IP固定化できるなら処理めっちゃ楽とだけ
+なんかいけたっぽいかも
+ええやん
+http://3.137.19.128/
+とりあえずみんなのアカウントまだないから今から作るべ
+
+というか作ってくれ
+ええやん
+いけてるね
+どう作るんや？
+ハンバーガーのところにログインと新規登録がある
+りょ
+まって
+こっちで作った方がいいかも知れん
+作っちゃったんやけど
+あーおけ
+おれもよくわかってないから大丈夫笑
+システム管理者の承認待ちってでてったわ
+それがこっちから見れないんよなー
+というか見方がわからん
+えぇ
+松浦はredmine分かるんかな？
+どうやろ
+共同開発とかのツールは多分ほとんど知らんのちゃうかな？笑
+あーね
+いけたわ
+多分吉本もログインできるはず
+りょ
+ようやくできたー！
+
+いけたわ
+Pinned a message.
+今プロジェクトが2つあるはずー
+
+これね
+そうそう
+@everyone redmineの方のセッティングがあらかた終わったのでアカウントの登録をみんなおねがいします。アカウント登録ができたら俺の方に連絡ください。アカウント認証をする。link:http://3.137.19.128/
+今思いつくチケットも作ったのでどんどんやってケロ
+登録した
+登録した
+登録した
+登録した
+おけ
+家帰ったらみんなのぶんやりまーす
+全員分認証したよー
+ぐっちゃんの権限も行けてるはず
+チケットの追加、編集は誰でもできるからbotとかの機能追加するときはredmine使ってくれー
+redmineで開発してる機能がかぶったりしないようにする
+わからんかったらまたきいてちょ
+承認ありがとう＾＾
+今日スプラします！！
+ういー
+discordのライブやればいいか
+そやね
+カセット探してくる…
+okeke
+スマホのディスコ不便すぎてビビる
+ひとそくとの相性よさそう
+https://www.nicovideo.jp/watch/sm12271031
+https://youtu.be/ZTrrc6Ni5eM?t=133
+
+くれるなら欲しいドス
+ばんどりやろう
+https://prog-8.com/
+https://www.javadrive.jp/
+Pinned a message.
+https://paiza.jp/works
+＃がついてるやつがチャンネルでそのうえにあるやつがカテゴリらしいです。
+それぞれのカテゴリの中にotherをつくってるのはカテゴリ全体に関することのために一応作った
+まあうまいこと使って下せえw
+HALのtaskチャンネルに課題全部書いてく
+課題だされたらそこにどんどん書いてほしい
+んでそこで課題確認しよ
+り
+了解!
+土曜日 9日 9:15分にマルチホール集合
+基本情報模試
+神かよ
+Pinned a message.
+変更！土曜日模試は061教室！！
+Pinned a message.
+
+
+おお〜
+ちゃんと動いてる！
+
+あれだわ
+herokuのリージョンがアメリカだから時差がある
+dateのif文-9時間しないとだめだ
+
+このワンちゃん寝るの22:00なんだね
+うちの子はいいこだからね
+ちな飼い主は何時に寝るんだい？
+もちろんここBaSEの社畜だから寝るわけないやん
+なるへそw
+@ぐっちゃん
+がんばってね＾＾;
+どうやらうちの子朝は弱いらしい
+
+健康的な生活してる！
+
+最低気温Noneってことはもしやマイナス？
+いや、当日の最低気温はない
+情報取得できてないんじゃない？
+jsonの方がそもそもnone
+元データってことね
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://coliss.com/articles/build-websites/operation/work/multiple-screens-in-one-view-responsiveviewer.html
+
+週末やること
+
+バンドリ10連ガチャ2回引いて死んだ
+眠いよお
+(⌒,_ゝ⌒)＜しばくぞオラァ
+(⌒,_ゝ⌒)＜マンダは初手竜舞や
+くそねむい
+もう試験始まってるで
+寝ながら受けた
+自分の知識は置いといて難易度低いよな
+それな
+舐めてんのかって言う問題が所々に笑
+30ぷんいらん
+計算ないからだいぶ楽
+今からお天気botちゃんつくるべ
+botは結構簡単に作れるww
+凝ったら別やけどwww
+ちゅかれた
+なんか作りたいけどもハードウェアがボトルネックやなあ(´・ω・`)
+```python
+
+動かない(´・ω・`)
+https://twitter.com/yusuke_omura/status/1197832943630090241?s=20
+助けてクレメンス
+Amazonプライムに新規追加アニメ
+アニメ見る時間がないので時間をください。
+あと、おれにはｄアニメストアがある
+https://twitter.com/fa_mas_0701/status/1199449932056260608?s=21
+nemui
+今なにしてる？
+ああああああああああああああああああああああああ
+この世の終わりのような星野源
+
+
+やば今見てなかった
+#center_box{
+
+ほら、やるよ
+あざっす
+普通に合ってたわww
+前髪を切った
+https://www.wakuwakubank.com/
+Pinned a message.
+typescriptでコメント文書こうとして頭に「#」つけてもうたwww
+pythonは#やけどtsは「//」なんだよなあ
+だいぶPythonに汚染されてて草
+もうおれはだめかもしれないｗｗ
+間違ってもPH12のペーパーテストでそう書くなよｗ
+書きそうww
+...ていう俺もやばい←
+しょうみメインで使ってる言語がPHPじゃない問題
+前の$つけ忘れひどすぎた
+ほんまに
+わかる
+おれも結構付け忘れたww
+こんどは「const」とか「let」とかつけまいそうｗｗ
+あれのせいで米沢の方が成績がいいという...
+わかるかも
+大草原不可避
+F**k
+me too
+https://twitter.com/u_s0/status/1201139956573302784?s=21
+
+もうすでに電車の中が酒臭い
+電車の中が臭いとか体験した事ない。
+まじかよ
+電車の中くちゃい
+阪急治安良くて助かる
+うらやま
+金持ちのおばさまが乗ってるイメージ
+人身事故で遅延も年に両手で数える程度やと思う
+民度高い
+全然起きない分対応がめちゃんこ遅いのが難点…
+対応に慣れてないwwwww
+そゆこと
+しゃーない笑
+起こらないに越したことはない
+地下から出た途端寒すぎる。
+それな
+手がキンキンに冷えやがったぜ
+わい常に手足が冷えてる
+キーボード入力しづらい
+足は靴下でカバーしてるわ
+冷え性の宿命
+つらそう。
+仕方ない
+https://always.fan/lp/lunch/
+https://always.fan/lp/drink/
+いずれはみんなで使える鯖用意せなあかんなあ
+使う人で割り勘すれば安く済むんじゃない？
+わからん。AWSみたいな使った分だけとかのやつだったりするとまたややこしかったり
+まあもっと本格的に開発するようになってからかな
 /talk
+皆様にはローソン本部にしゅるいぐらいあるん？なんもできるします。
+！？？
+「解散」は「帰っていい」と同義だと思うんですが
+どゆこと
+そのまんま
+おれ教室におらんから何を言ってたのかがわからん
+解散って言われたから帰っていいのかと一瞬思った
+んや
+ただの昼休憩入っていいということらしい
+https://twitter.com/ukkari_kk/status/1202472297371594752?s=21
+きてしまった…
+https://togetter.com/li/1439064
+いつかおれらもこうなるのか？？((((( ；ﾟДﾟ)))))ｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ
+寝起きにモンスター飲むのが一番効く感じがする
+なんかマージが思うようにいかん
+冬休みにバイパーちゃんとしゃべれるようにdeeplearningがんばってみよ
+マイクラJava版買った
+MOD開発ktkr
+工業MODの闇に飲まれそう
+「～工業MODで全部自動化してみる～ Part1」
+Part99までつづきそう
+僕マイクラの鯖余裕で建てれるのでこんどBaSEでマルチしましょう
+ええやん
+影モッドいれようとしたところ配布先の鯖おちたｗｗｗｗ
+phpエラーが表示されてメモリがたらん言われたｗｗｗｗｗ
+鯖のメモリなんざ知らんがなwww
+wbやりたくねえええ
+なんかhtmlファイルの中身もばらばらで絶望的
+これみんなできてるの？
+くそがよおおおお
+【悲報】僕、一切終わってない😨
+【悲報】今起きた。
+もうみんなでやろうぜ
+授業で半分は終わってんだよね笑
+は？
+裏切者め
+
+後ろ見えないもんね…
+5時間寝てまだ眠たいです笑
+あああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ
+なんかdiscord落ちたくそがよおお
+なぜだ笑
+わからん
+なんなんだよfloatだけってよおお
+拷問じゃねえかおい
+あれま…
+もうやだ
+
+
+
+
+
+
+力がほしいか.......?
+
+力はいらん
+floatのコードくれ
+強欲でKUSA
+うるせえええええええええええ
+あああああああああああああ
+botコマンドの追加ができないんだが(´・ω・`)
+マージした?
+おれのPCの方で動かしてる
+$cmd
+```
+
+```
+
+両方で動いてるからこんな感じ
+$voting
+しーん。。。
+エラー出てない?
+vscodeにところどころ
+プロジェクト直下のmain.py
+そこに書いてるん?
+そこには書いてない
+try except消してみ
+へんかなし？
+```python
+
+とりあえず現在
+公式リファレンスとかとほぼ同じコードやねんけどなあ
+userフォルダのmain.pyのon_message()関数に処理入れんと実行されへんで
+ま？？
+ま
+$voting
+なんでやああ
+コード見せて
+というかgithubに一回プッシュしよか
+それをみてもらったほうがはやいかも
+おけ
+あと申し訳ないんやけども今から家出るからまたかえってきてからになるわ
+おk
+ぷっしゅした
+把握
+おお
+今思い出したけどvotingにも同じコードあるわ笑
+あれこれ試したただの残骸
+votingはファイル分けたい感じ?
+出来れば機能ごとに分けたい
+普通にふぁいるを分けて関数呼び出す感じを、予定してた
+oke
+すまね
+from discord.ext import commands使うほうがいい?
+コマンドはそっちの方が管理しやすいか
+多分そんな気がする笑
+ならmain.py大きく変更することになるわ
+それに合わせるわ
+あーおけけ
+んじゃ今gitにdevelopのブランチあるからそこから新しいブランチ作ってやってほしい
+おれが今やってるやつはもう放置してー
+votingブランチもういらん笑
+おｋ、developに上げるわ
+よろ
+developにプルしといたからマージよろ
+機能ごとにコマンド管理できるようにはしておいた
+おけ、さんきゅ
+https://www.sejuku.net/blog/75536
+ぱいそんでマクロが組めるらしい
+VBクソやからありがたいな
+一回マクロやってみようとしたけどコードが意味不明すぎてやめた
+EndIfとかまぢむりなんですけどぉ...
+草
+For文のNextも同罪ね
+一瞬でやめたおれにはもうわからん笑
+く そ ね む い
+やばい、ずっとtiktok見てた。。。
+phpエラー草
+俺普通に見れたぞ？
+
+文房具全く思いつかん
+bundle installができねえ
+redmine諦める
+https://baseredmine.herokuapp.com/
+めもなので気にしないで
+redmineやだ
+エラーばっか吐きやがって
+【募集】redmineの導入の仕方
+
+おはよう
+シャイニングスター
+マイクラしよ
+父親による唐突な模様替えで今パソコンが使えない
+なるほど。
+今日出来そう？
+わからん
+
+なんかすごい
+pc本体になんのケーブルも繋がってない状況
+起動しない…
+そんな感じ
+出来たらしましょ
+おけおけ
+https://twitter.com/anime_w_trigger/status/1208235956593029120?s=21
+作画はそこまで良くないけどワールドトリガー自体は面白いのでみてくれ
+空の境界見終わったら見るわ
+1期はdアニメストアで見れるぞ
+というか単行本買ってクレメンス
+PC復活!
+おぉ！
+しかし部屋はまだ散らかってるww
+模様替えあるあるだな笑
+わいは晩ごはんナウだわ
+おそｗｗ
+ゲームしてたんよ笑
+ちなみに、原価で買いました。
+こっちでした
+ヨドバシ梅田さん、勘弁してよ。
+マインスイーパー楽しいンゴ！ンゴンゴンゴン！！
+午前免除？知らない子ですね〜
+草
+1日かけてスマホで見れるPDF作って満足したわ笑
+帰ったらマイクラJava版買いまする
+
+おー
+デモ版動いたから製品版買うンゴ
+Optifine入れた方がいいで
+hps値が低いンゴ
+何だそれは
+軽量化mod
+なるへそ
+導入は猿でもできるで
+描画距離５で結構快適にできるレベルやったからそのmodは助かる
+とりあえず買ってきます
+あと、マウスじゃないとこのゲーム出来ないことがわかったわ笑
+マウス縛りは草
+タッチパッドでもできんこと無いけど、反応が悪すぎ…
+やろうなw
+うむ
+
+これって後で名前変えられんやつやんね？
+変えれるで
+変えれるんか笑
+ありがとう
+
+買えたゾイ
+計量化mod入れれたのか分からん…
+F3押して、左側にOptifineって書いてたら入ってる
+書いてないね。
+ダウンロードしたverと計量化modもverって関係する？
+ある
+同じバージョンじゃないとだめやな
+１．１５やねんな
+探したけど見つからんかった…
+あーないな
+ですよねー
+まだでとらんのかｗ
+verダウンとか出来たりしないん？
+なら無理やな
+できるで
+めんどくさかったりする？
+そんなにめんどくはないで
+ググってやってみるわ
+1.15って今日リリースだった希ガス
+まじで
+Optifineは翌日にはリリースされると思うから待つのも手
+digmodとかそういったのは使えんやんな？
+てか、タイミング悪いんだかいいんだか汗
+リリース初日やしな
+やんね。
+一時間やってみたけど、左手の中指痛い笑
+ノートのキーボードはすぐ痛くなるよな
+ゲーミングキーボード買えばめっちゃ楽になるで
+それならいっそのことデスクトップ買うわ笑
+マイクラ持ってて出来る人居たらしよ〜
+さばいるな
+なるほどね。
+pythonのコメントって1行で書く際って#で記載した方がいいんかな？
+せやな
+せや
+というかそれしかない
+‘’‘
+
+あー
+//と/* */と同じ感じ
+基本#やなあ
+そう
+なんか「＃」やとみずらいんよな…
+'''は関数とかの説明文か、デバッグ用
+なるほどね
+今参考にしてる本やと、’’’使う際は、複数行にわたるときってあるねんけど違うんかな？
+/pyw:```py
+
+これはコメント化されてるのか？
+そう
+なるほどね
+ちなみに、スタバなうです
+複数行の時にもやる
+appleシール貼っつけたダイナブックでやってまする
+複数行のときは’’’ね、了解です！
+俺のPanasonicにもシール貼ればバレんかな
+形状でバレそう
+まぁ俺は塗装真っ黒やからwinなのバレバレやと思う
+Macbookじゃないと人権ないで
+
+(´・ω・)ｼｮﾎﾞｰﾝ…
+Dynabook(迫真)
+やめちくり〜
+ファイル保存せずにタブ消してしまった。泣きそう
+ptint(-1:-4:-1)
+
+配列は0〜8まで入ってる
+それ辞書型?
+とういうかprintの中身がよくわからんwww
+list型
+配列の中身は?
+配列名抜けてね?
+配列の中身は↓
+
+配列名？
+ふつうに配列名がいるはず
+pcの電源落ちてスマホからだから入力遅くなった
+あらまｗ
+配列名ってなんぞや…
+？？
+```python
+
+print(Kisu)
+みたいな
+/pyw:```py
+
+File 
+```python
+
+でおけ？
+エラー文に表示されてた「^」←これが一つ目でなく二つ目で表記されてた
+それで合ってる
+:の2つ目までは実行できてんけど、
+
+そのシングルクォーテーション半角になってる?
+半角
+すまん、間違えたww
+()内の数字の値が「-」でなく「+(何も付けない)」なら問題なく実行出来たんよね
+
+ちょいまってな
+うん、
+
+とりあえずうしろの-1はなに？
+zの値ごとに飛ばしてprint
+(0:5:2)なら
+3,7,‘ジョーカー’が表示される
+いけたぞ
+```python
+
+```
+
+出来てる！
+とりあえずprintのときに配列名を指定してあげないといけない。
+んで
+それはしてるはず
+じゃないと(x:y:z)これが実行出来ないと思う
+配列の中身はたくみから送られてきたやつをこぴぺしたけどシングルクォーテーションがやっぱ全角になってた
+全角なのは入力がスマホからだからだと思う
+(x:y:z)がそもそもの間違いやと思う
+リストの要素数をしてする[]←これ
+no
+の中に書かなあかん
+知らんけど
+ｗｗ
+カッコの表記が違うからとかかな…
+最寄り着いたからダッシュで帰ってソース送るわ
+助けてくれてありがとう
+`print(x:y:z)`じゃ動かん
+おおうｗｗ
+全角オチかな
+まあpcのソースコードがわからんと何ともって感じやなww
+あ、さっし。
+皆さんお騒がせしました。申し訳有りません
+なんでだ笑
+皆さん、WBの課題しました？
+
+みーとー
+WBの課題残りはfloatを残すのみ！
+上の波線のエラーの理由わかる？
+ちな、Python専科の素材サーバから引っぱってきたまんま
+pipのインストールやった？
+してない
+それやで
+あ、察し
+うぃー
+`pip install pynput`やで
+アナコンダプロンプトから打つ
+ありがとう😊
+とりあえずPython全く触ったことない場合はProgateからやるといいよー。
+Progateが「なんやこれゴミクソ簡単やねんけど舐めとんのか」ってなったらアイデミーのPython入門へ
+https://aidemy.net/
+アイデミーのPython入門やりきったら余裕でphp授業進度抜ける
+わんちゃんphpの授業が楽になるかもしれない。知らんけど
+ええやん。たすかるわ
+https://gigazine.net/news/20190826-udemy-summer-free/
+無料の動画講座とかいろいろ
+https://blog.codecamp.jp/programming-python-10
+@ヨシモト https://docs.python.org/ja/3/library/typing.html
+わからん！
+おれも
+ええ
+type()ではないよな
+それは型調べるやつ
+うーん
+https://www.python.ambitious-engineer.com/archives/484
+これかな
+うーん。。。
+関数使うときって　def付けなアカンの？
+それユーザー定義関数やで
+phpでいうfunction使うやつ
+ああなるほど
+いけたわｗｗ
+まじで？
+(⌒,_ゝ⌒)＜はい、おゆ～
+さす山根
+どうやらinput関数は入力されたものをstrで受け取るっぽい
+は、うせやろ
+そりゃむりだわ
+んでヨシモトはそれをint型に変換してたやろ
+そそ
+それでえらーが
+その場合やと文字とか数字以外が入った時点でエラー吐くやん
+だから正解のansをstr型に変換する
+ほうほう
+`if input() == str(ans):`
+これで型が一致するやろ
+文字を整数型に変換しようとするんじゃなくて整数を文字型にする
+ためしてみる
+
+(⌒,_ゝ⌒)＜はい、おゆ～
+
+俺天才
+あそっか、notはいらんのか
+もう山根様ですわ
+簡単やと思って作り始めたのにこんなに手間取るとは思ってなかったわ
+それがプログラミングやで
+うーんこの
+カモやと思って受けた仕事かれこれ3日目。なめてたわｗｗｗ
+草、かもじゃなくて鷹やったか
+能ある鷹は爪を隠すやな
+わかる、でどんな仕事？
+react
+りあくとわかんね
+べつに今使う予定ないし気にせんでええで
+お、じゃあpythonに集中やな
+せやな
+おれの予定ではpythonメインで使っていく予定
+やっぱり今の時代はPythonか.....
+どっかのタイミングで静的型付けの言語を採用したい
+pythonも静的にルール変更できんのかな
+静的が一つ一つ型付けなあかんやつやんな？
+コンパイラを通したらpythonファイル吐く静的型付け言語を開発すればいける
+言語かxa
+言語作るとか雲の上だわ
+頑張って勉強してたらできるようになるかもしれんで
+しらんけど
+わかった
+しらんけど
+とりあえずC言語はできなあかん希ガス
+わかる
+基礎って感じかな？
+うーん
+C++でもいいよね
+うん
+Cやとメモリとかどこ使うかとかすべてこっちで選べるから
+メモリの操作とか難しそう
+ほんとの意味で何でもできる
+でもCは組込みシステムとかのやつちゃう
+CSで習ったやつやな
+windowsとかはCやで
+天下のaviutlとか
+ま？
+しょうみ.exeファイルはすべてC言語やで
+知らんかったわ.....
+pythonをexeに変換とか例外はあるけど大体はCやな
+じゃあフォトショとかもCなんかな
+たぶん
+Cをコンパイルしてリリースしたらexeファイルできるやろ
+やからexeは大体C
+はー、じゃあCは必須やね
+Cできるようになったらそれそaviutlとか何でも作れるよ
+OS作れるわ
+やる気出てきたわ
+がんばれｗｗｗ
+多分ゲーム作るんやったらC
+は避けられないと思う
+さけることできんことないけども
+でもいまってゲームエンジン使っとるんちゃうん？
+ゲームエンジンってなに？？
+しらんわｗｗ
+ゲームを作る土台的なやつ
+RPGツクール？？
+Unreal Engineとかユニティとか
+あーね
+RPGツクールも仲間やな
+なるほどね
+unityってたしかC#やろ？
+そーなん？
+たしかせやったはず
+全然知らん
+草
+そもそもC++とC#の違いもわからんわ
+八木せんせのとこいこかｗ
+それはおれもしらん
+メキシコはきついっす
+草
+とりまC+ならヴィジュアルスタジオ触っとったらええやろ（適当）
+草
+https://techplay.jp/column/552
+https://qiita.com/SquidSky/items/90eb450310f1697d03e9
+```python
+
+`print('よしもと')`
+```python
+
+Pythonって；最後にいらんの？
+いらんで
+へー便利やな
+yoshimoto:syntax error
+草
+みんなPCかブラウザから見てる？
+アプリ
+コードに色つくよ
+print(
+それはできてない
+print('おっぱい')
+vs codeからコピペせなならんのかな？
+<p><input type=
+うーんどうやるんや
+「```言語　コード　```」でいける
+あ
+みすた
+print(`平成夏のちんぽこ合戦`)
+「python print(
+おまえらで来てないぞ
+python print(
+https://dorokin.com/discord_text
+「print(`ああああ`)」
+これ見て
+やり方書いてる
+グレイヴアクセントとかいうやつらしい
+'''python for num in range(1,10):
+
+
+,
+～～くぁｗせｄｒｆｔｇｙふじこｌｐ～～
+~くぁｗせｄｒｆｔｇｙふじこｌｐ~
+``` python for num in range(1,10):
+
+
+,
+イケてるやん
+~~qawsedrftgyhujikolp~~
+色つかないんやけど
+~~くぁｗせｄｒｆｔｇｙふじこｌｐ~~
+そんな感じや
+それ
+点々のあとにpythonって打たなあかん
+||あ||
+||ショタちんぽ||
+||あ||
+``` python
+
+```
+
+```python
+
+
+なぜできた！！
+点々３つのあとにpythonって打って改行してコード。
+コードのあと改行してまた点々３つ
+```python
+
+そゆことや
+```python
+
+おお
+いけてるやん
+```python
+
+👌
+例題のまんまｗ
+そんな感じで使うんやで
+すげえ
+これrust?
+うん
+ちょうど今つくったとこやで
+きづいたｗ
+おけおけｗｗ
+```python
+
+('w'*10=-
+👀
+https://nobuo-create.net/
+Pinned a message.
+@everyone なに作りたいか、なにがしたいかなんかある奴はとりあえずここに書いてくれ。
+
+⚪︎DeepLearningを使った自動取引ツール
+⚪︎動画編集ソフト
+~~⚪︎なんかのbot？~~
+Discordのプラグイン(カレンダーてきなやつほすぃ)
+電卓
+discordのbot
+VR系のスタートアップ
+.bat ファイルの簡易プログラム
+いいねー笑
+Discord botニコニコ動画の音楽を流す
+ツイッターの豆腐殺すbot
+学校のプロキシかいくぐれるなにか
+自ら作り上げたAIと何かしらの形式で対戦
+スマホアプリ：電車の中でちょろっと書いたやつをpcと同期させゆみたいな
+パチの性癖DeepLearning
+性癖ディープラーニングとは
+パチが好きなイラストとそうでないイラストを学習させてパチの好きなイラストのみを保存するようなAIやで
+ぐっちゃんはそれのショタver
+ゲーム作りたい
+わかる
+クソゲーつくろか
+計算ゲーム作った
+天才か?
+
+なんとこのプログラムでは掛け算ができます！！
+すでにクソゲーが出来上がってて草
+これをGUIにしよ
+ええけど少し問題があってやな
+何も入力せずにエンター押してみ
+草
+これどうやったら直る？
+無入力を検知するのどうやってやるんや
+今修正なう
+気づいたけど文字列もエラー吐くぞ
+まじで？
+ほんまや、それ考えてなかった
+こっちもちょっと修正エウル
+する
+core wars
+新入りにロール付与したりする作業をやってくれるbot
+強制的にエロ画像を検索してdiscord内に貼るbot(アンチウイルスソフトは突破できる)
+草
+ワードプレスの代わりのブログシステムツールてきなやつ
+鬱ゲー
+Making bot for discord
+https://qiita.com/PinappleHunter/items/af4ccdbb04727437477f
+@ヨシモト 専科無い日いつ？
+botの開発スケジュール的なの立てたい
+木曜日は専科無いde
+基本的に
+MAJIKA
+木曜バイトやわｗｗ
+来週の木曜の放課後開けといて。
+MAJIDE?
+まじｗｗ
+土日しか無いやん
+来週の木曜日にしよ
+ええよ
+よろしゅうたのんます
+ういー
+@everyone 松浦のサバ使えるゾ！！
+maaika
+まじか
+you nou
+有能
+``` c++
+
+プログラムをdiscordで処理できたらなと松浦君の案でコードのメッセージを送った時点でbotがそれを拾ってそれをサバで処理してbotが結果を返す。
+naruhodo
+なるほど。
+我其案良思也　流石松浦也
+まだわからんぞ
+魔？
+うん
+松浦無償本当良？　我申訳思也
+24時間稼働は厳しそう
+俺の中国語についてこれるとはさすがやな
+わんちゃんおれんちでも立てるかもしれないこともないこともない
+せやろ
+https://qiita.com/fuwamaki/items/f7752eb7a2727660239f
+これじゃいかんのか
+レンタルってことか？
+無限ループ処理問題
+間違えて無限ループ組んだら死ぬ
+んなもん組むな
+思わぬ事故だってあるべ
+我無限処理達人
+やめろ
+それは怖いな
+ダウンするだけ？それともぶっ壊れることもあるん？
+帰らぬ人になることもある
+開発の仕様考えな
+それぞれフォルダをひとつ持ってその中で機能のふやす。
+機能追加のときにコマンド一覧表示にも追加した機能を入れとく
+と、いうことでお天気BOT完成いたしました
+
+!help
+
+https://github.com/Gucchan28/DiscordBOT/tree/master/weathedog
+GitHubにとりあえずあげたぞ
+リンクとかは待ってくれ
+@everyone githubの招待をだしたいのでみんなのgithubのアカウントのユーザー名かメアド教えてー
+上の通りです
+Gucchan28
+おけ
+betacode-projects
+よろ
+おけ、ふたりに送ったぞい
+招待承諾しときました👌
+んじゃリポジトリ見れるはずやからローカルにクローンしてプルすれば開発できるはずやで
+横文字多すぎ問題
+了解です
+https://github.com/kota0925/Viper-kari-.git
+一応リンク貼っとくわ
+Pinned a message.
+ピン止めした
+おいおいgit
+to
+sourcetreeの使い方は教えていくわ
+@hirosuke-pi gitの共同開発とかわかる？
+ブランチとかもろもろ
+Githubに関してはあんまり知らないｗ
+おけけ
+まっさらやけど
+一番最初のデータない？
+
+
+なんでや
+プッシュした？
+したぞ
+F5連打しても変わらん
+😇
+
+こっちはいけてるんやけどなあ
+まじで
+もう一回招待してみた
+
+これ見えてたらおっけー？
+それやわ
+いけてるいけてる
+り
+見れた
+招待リンク踏んでなかったわｗ
+なんか招待するところ間違えてたっぽい
+すまんぼう
+main.py0バイトで草
+ガチなんも書いてないもんwww
+忘れてた、インデント何個とか最低限のコード規約的なものを考えなあかん
+Pinned a message.
+https://discordapp.com/api/oauth2/authorize?client_id=652532810917085224&permissions=0&scope=bot
+Pinned a message.
+main.pyの候補あげときますた
+鯖きめよー
+今の所の鯖の候補
+
+すまん、vista使わん思って処分してもうた
+今日笑
+まじかよw
+レンタルの方使う思ってた
+そりゃそうやなw
+上のやつ以外で、何かおすすめの鯖あれば言ってね
+ほかシランww
+２４時間稼働やし借りる方向でいいんちゃう？
+初めやし、Herokuにするか
+おけけ
+設定ヨロ(^^)/
+discordふっかつしてる！
+おけ
+あとね
+さっきまで落ちてたよね
+おけ
+なんか開発するときはdevelopのブランチからやるようにみんなしてほしい
+りょ
+いろいろ決めたいから明日みんなに話すわｗ
+herokuの登録行けたよー
+githubとも連携してるからheroku/masterブランチの最新のデータを取得して動く
+masterブランチとの兼ね合いもあるから開発するときのブランチとかまた学校で説明するわ
+aaaa
+バイパーちゃんコマンド「$」でよろ
+Pinned a message.
+必要なことはreadmeに書く予定なのでそれを見てやってくだちー
+ばいぱーちゃんに投票機能のっけるわ
+コマンド一覧表示させる奴って「$command」、「$cmd」どっちがいい？
+cmdのほうが打つのは楽
+$cmdに1票
+@everyone 0時までの多数決で決めるわ
+$cmd
+みんな寝てる説
+おじいちゃんかよ
+まあゆーてもcmdからcommandにかえるのは秒でできるからええでwww
+松浦とぐっちゃんのやつってどんな感じで表示させてたっけ?
+一応似たような感じで統一させとこ
+俺command一覧表示コマンド消したしな
+まじかｗｗ
+/help
+@hirosuke-pi```md
+
+これだけ
+んじゃおれてきとーにつくるでｗｗ
+もう面倒やからreadme.md読めってことにした
+ええで
+それ白砂
+草
+とりあえず「$cmd」でいくわ
+$cmd
+```
+
+gitわけわかめやわｗｗ
+あ、
+みすた
+$cmd
+```
+
+とりあえずいけたぞ
+$cmd
+```
+
+$help
+```
+
+不親切で草
+今のところ書くもの思いつかんかった
+投票機能作ってる　なうです
+@ヨシモト https://qiita.com/satto_sann/items/be4177360a0bc3691fdf
+@everyone よしもとがbotに翻訳機能追加してくれるらしい
+一人ひとりに冬休みの課題揚げてけ
+ひとり１課題や
+nn?
+課題あげる？
+基本情報受かります
+？？
+あーね
+？
+https://tutorials.chainer.org/ja/tutorial.html
+https://qiita.com/haminiku/items/a032d94e4f0d862df2b2
+http://www.algo-fx-blog.com/python-oanda-api-v1/#toc_id_5
+https://qiita.com/tani_AI_Academy/items/4da02cb056646ba43b9d
+https://qiita.com/jiji_platform/items/268377c542706e6f44b1
+https://qiita.com/ognek/items/1b776d504d20bd6f6d7d
+https://www.nicovideo.jp/user/29276708
+http://jiji2.unageanu.net/
+https://lightning.bitflyer.com/docs
+https://lionbridge.ai/ja/datasets/the-50-best-free-datasets-for-machine-learning/
+https://mag.app-liv.jp/archive/118116/
+Pinned a message.
+https://abikosan.com/discord
+Pinned a message.
+discordの使い方載ってるやつピン止めしといた。わかりやすいかどうかは知らんww
+https://kasobu.com/discord-notificaton/
+通知設定いろいろいじれるらしいので自分にあうように設定してちょ
+https://dorokin.com/discord_text
+コード乗っけるときとか取り消しするときとかに使えるゾいゾい
+Pinned a message.
+/pyw:```py
+
+@Àżu||ネタバレ禁止||
+なおソースコードでもろばれする模様
+||**Welcome to Underground**||
+なに？！
+自分のメッセージ消したんじゃね？？
+あねｗ
+マイクラのマルチしたいとかほざきやがった誰かさんの為に鯖建ててやったぞ
+
+草ｗｗｗｗｗ
+Pinned a message.
+タイトルのマルチプレイのとこからは行ったらいいの?
+わざわざドメイン取ってきたわ
+
+入れなかったら言ってください
+テストしてないんで
+行けたぞい
+ういー
+ほざいた誰かさんです。わーくん様々ありがとうございます
+いきなり絶望的すぎるんだが
+鯖権限で昼にしたった
+草
+サーバー名って条件あるの？
+ないよ
+そこじゃない
+ん？
+IPだけ入力するところがある
+サーバー名とか気にしなくていいはず
+それ毎回入力しないといけないからサーバー追加のほうがいいよ
+そなの？
+追加しとこ
+はいれたかな？
+すまん、たくみうそやわｗｗｗｑ
+ぬ？？
+気にせんといてww
+おれこれ入れてる？
+入れてるよ
+どこにいるかしらんが
+みんなの姿が見えない
+チャット見える？
+みえます
+チャットの打ち方わかりません
+しゃーなしやで
+あれたくみがいない
+TPさせたのに
+リログしてみてー
+いたわ
+これマイク使えないの？
+ディスコードでやればいいとおもいます
+確かに。
+ちゃんとつくってるで
+通話してみます？
+してみていです
+スケルトン硬すぎん？笑
+おけけ
+それな
+通話はどうするの？
+ボイスチャンネルの方に入るだけ
+ちょいまって
+僕は聞こえてるよ
+https://youtu.be/iUFAZsOLBtI
+-225
+220
+なに
+村の位置
+X:-３２５,Y５６０
+水冷式エレベータ(上り)のほうがはしごに比べて８秒早い
+（俺調べ）
+https://www.youtube.com/watch?v=Il9HqWL293Q
+https://www.youtube.com/watch?v=CUYjNWOQ_S8
+
+やば
+
+こいつなんなの？
+
+お仕事終わりましたか？
+なんか知らん間に終わってた
+そして新たに請け負った
+それはおつかれさまです
+oh...
+ちょっとだけ進めとく
+頑張ってください！
+待ってます
+これ鉱石どこにあるの
+もしかしてない？
+あるよ
+ログインするわ
+家前にあるオブジェはなんやｗ
+これ松浦が作ったのかと
+ちゃうでｗ
+レッドストーンの無駄遣いすぎるｗ
+くっそ無駄づかいで笑う
+ほんまにｗ
+半分しか使って無いから大丈夫w
+
+https://youtu.be/4qhI_eYcBGk
+
+https://youtu.be/CDgYUJ9LMYE
+寝るわー　おやすみ
+おつー
+おつかれ～
+マイクラもしたいです！！
+（吉本パイセンが専科待機中ずっとマイクラしてました（笑））
+沈没船座標:
+
+家: XYZ: -62 / 62 / 297
+たくみのスプラの座標はどこなんだ
+ん？
+中にマリカ8が入ってた。
+-Xmx6G -Xms6G -Xmn1G -XX:+DisableExplicitGC -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+UseNUMA -XX:+CMSParallelRemarkEnabled -XX:MaxTenuringThreshold=15 -XX:MaxGCPauseMillis=30 -XX:GCPauseIntervalMillis=150 -XX:+UseAdaptiveGCBoundary -XX:-UseGCOverheadLimit -XX:+UseBiasedLocking -XX:SurvivorRatio=8 -XX:TargetSurvivorRatio=90 -XX:MaxTenuringThreshold=15 -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -XX:+UseFastAccessorMethods -XX:+UseCompressedOops -XX:+OptimizeStringConcat -XX:+AggressiveOpts -XX:ReservedCodeCacheSize=2048m -XX:+UseCodeCacheFlushing -XX:SoftRefLRUPolicyMSPerMB=10000 -XX:ParallelGCThreads=20
+うわお
+マインクラフトが軽くなるなるしいJava引数
+なんだこれは
+意味はよく分からないけど、体感速くなったからおｋ
+ここまではする必要ないと思うｗ
+まじ？そんな変わるんか
+引数とかメモリ割り当てしか使ってない
+ふつうはいじらんからなｗ
+いままうすじゃない
+まつうら～チャット届いてる？？
+届いてる
+鉄って使い切った？？
+たぶん
+ゴーレムに全部使ったｗ
+了解
+まじかよ…
+とってきてクレメンス笑
+洞窟言ってもなかなかみつからんのよ
+なるほどね
+ダイヤのほうが見つかる説笑
+再起動
+minecraftの鯖ちょっと止めます
+https://www.youtube.com/watch?v=ebmSNgrVJkc
+反射神経やばwww
+エイムばけもんやん
+バケモンしかいないこのゲーム
+minecraftのサーバーメンテ終わりました
+吉本もやろ
+重すぎた
+30fpsでわらう
+酷すぎて草
+松浦が非人道的なことしてた
+もしかして裁判所と科必要??
+いるかもしれん
+たくみもライブしてくれたら見るよ
+見れてるよー
+やっぱ眠いしねる
+ほーこれがdiscodeのライブか
+天空トラップタワー何層ぐらいにしますか?
+何層でも良きよ
+石足りんなら今からブランチマイニングするけど…
+現在2層です。
+ディスペンサーの弓つらみ
+弓つくるかスケルトンからとるかしないと厳しい
+クモ倒しまくるしかないな
+廃坑行ってみたらもしかしたらスポナーあんじゃない？
+しょうみ今2層目やけど弓がない
+スポナーあるで
+見つけたんか！
+とりあえず人力で狩るか
+なんか発見されてたで
+処理済みやった
+ゆうのう
+おいおいはスポナートラップ藻やなあ
+廃坑の雲の巣剣で切ればたまるとおもうお
+そやなー
+それが1番簡単で効率いい気がする
+マイクラ内でアイテムif文で選別してくれるmodとかないんかな？
+x576 z-1024
+拠点のチェストの中身をジャンルごとにわかるように整理整頓したので、出来ればその通りにしまってもらえると助かります
+
+＄マイクラやりますゾイ
+ちょい落ちるわ
+すぐもどる
+
+排出率0.08らいゾ
+それが2体出たらしい…
+ミニマップのmod入れてんけど表示されんのよな…
+原因がわかんない
+
+ミニマップレベルの設定できるのに、プレイ画面には表示されんのよね。
+forge?
+fabric
+ってやつで起動してる
+modsフォルダはどうなってる？
+modフォルダには何も入れてない
+それは動かんわｗ
+\AppData\Roaming\.minecraft\versions\fabric-loader-0.7.2+build.175-1.14.4
+kンな感じ
+この下に入れてる
+modsフォルダにいれんとあかんで
+optifineのmodも？
+そそ
+試してみる
+
+こんなかんじ
+optifineのやつもそこに入れていいのね
+ありがとう
+DLしたやつそのままいれるんやで
+相変わらず起動できてないんやけど、
+あれは出来てなくていの？
+起動の際にはfabricって表示さえてる
+
+エラーだってさ
+マイクラ起動しない
+fabric-api入れてる？
+\AppData\Roaming\.minecraft\.fabric\remappedJars\minecraft-1.14.4
+これのこと？
+
+これはいれてプロンプトから起動した
+それ実行した？
+うん
+インストールしたよ
+さっき送ったmodsフォルダの構成にしたら起動するはず
+そｓたらさっきのパスのフォルダ作成されてた
+fabric-apiってのはないわ…
+それいれないとむりやで
+了解
+
+optifineのファイルもいれていいの？
+そう
+そのまま
+optifineはそのまま？
+そのまま
+了解
+fablicの情報の少なさはやばい
+
+起動した結果
+1.15?
+なんで1.15なん
+あね
+ぐっちゃんseed値おくってくれ～
+スライムスポーン地点
+がわからん
+/seed
+やりすぎ厳禁
+7640875620997502502
+いいのか笑
+シードはシングルでも普通に見れるからセーフかな
+しらんけおｄ
+家の地下22x22x3掘ったけどスライムわかなくて萎えた
+なるほど
+全ロス二回目経験したから、ミニマップ入れること決意しました
+しゃーない
+seed値さんきゅ
+optifabricでエラーはかれた
+
+同じフォルダに入れてないの？
+いれてない
+いれんでいいっていわんかった？笑
+入れてみるわ
+いれてｗ
+
+この下の無視していいの？
+それじゃない
+DLしてきたやつをそのまま入れるだけ
+計量化modダウンロードし直すわ
+
+どっち？？
+MODじゃないほう
+おｋ
+MODはけしておｋ
+fabricは起動若干遅くなる
+なんのMOD？
+
+https://skin.notoside.com/
+オヌヌメスキン配布場所
+トラップタワー機能してません…
+/comp
 /comp
 /talk
-/talk s
 /talk
 /talk
 /talk
 /talk
+/comp 2
 /talk
-/help
-/help
-help
-/help
-/help
-/help
-help
-/help
-/mine
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-＄マイクラやりますゾイ
-承認ありがとう＾＾
-/help
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
 /py ```py
-print('hello')
+[print(c * 5) for c in list('なにわろてんねん')]
 ```
-/py ```py
-print('hello')
-```
-/py ```py
-print('hello')
-```
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/pokekuji
-/help
-/poke eevee
-/pokekuji
-/poke eevee
-/poke eevee
-/poke aaaa
-/poke 999
-/poke 999
-/poke 999
-/poke 801
-/poke eevee
-/pokemon pichu
-/help
-トラップタワー機能してません…
-/pk
-/p 807
-/p 809
-/808
-/p 808
-/p 807
-/help
-/help
-/watch
-/watch
-/watch
-/watch
-/watch
-(してない)
-/now
-/stopwatch
-/now
-/help
-/now
-/stopwatch
-/now
-/stopwatch
-/now
-/stopwatch
-/now
-/stopwatch
-/now
-/now
-/stopwatch
-/now
-/stopwatch
-/stopwatch
-/stopwatch
-/now
-/stopwatch
-/now
-/stopwatch
-/now
-/stopwatch
-/now
-/now
-/now
-/now
-/now
-/now
-/stopwatch
+コマンド微妙に変わってるので注意してね
+/poke 807
+ゼラオラのデザイン強すぎるわ
+わかる
+/poke 448
+出来上がったん？？
+ないです
+中の水が流れっぱなしで沸かない
+粘着ピストンがいるんよ
+確かに
+そう
+あーね
+それがないからそこで俺作業止まってる
+スライムが必要やから、今スポナー作ってる
+スライム探さなあかん
+おれ親に説教したから疲れたンゴ
+神かよ
+親に説教って…
+指疲れました
+おつです
+「に」?
+村人は自宅に連れ込んだからとりあえずの課題は済んだお
+「に」
+トラップタワーは頼んだぞ
+わいは仕事が溜まりすぎてるのでそっちやる
+なるへそ
+僕も色々あって疲れたよ
+あとで俺が持ってるやつどっかのチェストに吐いとくから適当に使ってー
+お疲れ様です
+外のチェスト入れててくれたら助かる
+おけけ
+それか、1fの隅にある隔離されたチェスト
+Àżuチェスト作っとくわ笑
+おけ
+<@646929488927784960> surface買い時ですぜボス
+浮気はダメです
+ほすいいいい
+もちろんパナソニックだよな
+ぬあああ
+逃れられない運命なのね
+30万円やぞ
+そこに愛があれば３０万なんか安いだろ？
+全部置いといたー
+リピーターとかあるべー
+😣
+がんばれｗ
+ぐっちゃんのイラスト期待してるわww
+一切描けないのに購入しました
+後悔はしてない
+これから書けるようになるんやろ？ｗ
+練習あるのみやで＾＾
+うるせええええ
+FIGHT！！！
+ごめんなさい
+PC再起動かかってサーバーセーブする前にPC落ちちゃいました
+どこまでロールバックしてるかはわからないですけど
+たぶんめっちゃ戻っちゃいました
+しょうがないよ笑
+電話レンジ(仮)
+ここは別の世界線なのか？
+今からマイクラはそういうことやろ？
+確かに。
+そう思えばおもろいw
+俺が死んだ過去そのものを変えれる！！
+けど、どのみちどこかで死ぬ…
+小数点以下の世界線移動じゃね。。。ｗ
+シュタインズ・ゲート世界線を探すんや!ww
+俺は…この運命に抗うんだ！！！
+（笑）
+もっかい見ようかな
+ええやんｗ
+そしたらワールドトリガーは先延ばしだな…
+うせやろ
+漫画貸して笑笑
+先わーとりやで
+
+ええけども
+よかった
+おお
+そこまで戻ってない
+戻ってなかったww
+なに！？
+さっき俺が設置した奴やw
+電話レンジ(仮)が作動しないだと？！
+ゲルバナどまりやなw
+どろどろなるわ…
+（泣）
+きもいｗｗ
+メガネのみ生還してそう
+ちゃんとメガネは学校につれってったるわww
+ありがとう、あとは託すわ
+身代わり人形置いといて笑
+まかせろｗｗ
+ポケセンで買ってくるわww
+ｔ先生なら大丈夫なはず
+？？？「なにこれｗｗ」
+「何言ってるんですか？拓海ですよｗｗ」
+「あねｗｗｗ」
+適応力高すぎワロタ
+とりま先にワールドトリガー見るわ
+wあーい
+Azuのチェストよく見るとなんか遺品みたいやねｗ
+祀られてるわｗ
+消える前に残してるからある意味あってるww
+神の加護で復活するんやで
+そのときまで待ちたまえ
+いつかはおべーすの鯖をAWSですべて管理したいなあ
+
+…
+ｷｬｰﾉﾋﾞﾀｻﾝ!
+PCシージするために冬休み中バイトしたいと思います。
+memo:try catch文
+
+おお！
+<@!621717060757487643> <@!594470530250309640> apexしようぜ！
+そういえばゲームだけで鯖分けようみたいなやつあったなあ
+【悲報？？】firebaseのログはあてにならないらしい
+discord送信するときctrl+enterにしてほしい
+slackのくせでctrl+enterしてまう
+キーボード、マウス、イヤホン、モニター、pc、その他諸々を揃えれたらしよ笑笑
+やったー！！
+冬休みapexもやらなきゃ！！
+@everyone ゲームの種類増えそうなのでゲームカテゴリを別の鯖に移動しようと思います。
+いつ移動するかは未定、鯖もうみなさん入ってると思うので大丈夫やと思う
+誰か忘れてたりしてたら言ってくれ
+なに
+休憩
+お疲れ様です！
+わい今日するかわかんないンゴ
+司書さん向かい入れるのダルそう…
+
 /now
 /sw
-__
 /now
+/stopwatch
+/now
+/watch
+ストップウォッチ機能つけました
+https://youtu.be/URQdH-EUGG4
+これ良さそう
+極めすぎわろた
+
+それな笑笑
+もう現実レベル
+<@477125948282634240>  そいえばマイクラマルチはいつからするんだい？
+今ゲリラVSコマンドーMOD導入中なんや
+なるほどね
+
+
+<:IMG_20191219_153855:658680343607377921>
+画像ちっちゃ笑
+絵文字に採用
+ゲームさば一通り用意できた
+思いつくゲームのチャンネル一通り作ったしそっちの鯖は一緒にゲームしたいやつ好き勝手に招待して入れてくれ
+ボイチャとかもじゃんじゃんどうぞ
+こっちにあるゲームチャンネルは消すの?
+どっちでもいいｗ
+り
+あ、むこうのちゃんねるソシャゲにも対応（ぱずどら、シャドバ等）
+https://youtu.be/j-htiRPGs9w
+メモ: https://pig-log.com/windows-ip-change/
+
+
+何か見覚えありませんか？
+あらま
+やっぱ自分らでデザインすべきか
+割と事案
+事案やでw
+だれかデザイン勉強してくれ
+ｗｗｗｗ
+考えなあかんな
+ヨシモトパイセン適任やね
+https://youtu.be/8bxBGA0L8NQ
+これね
+
+バイト 時給 高い 滋賀  [検索]
+原作に一致するものはありませんでした。
+あーどっからかお金沸いてからないかなー(棒)
+アフィカス
+利益だけ欲しいです(切実)
+玉の輿に乗れ
+2時からバイト行ってきまふ
+あのやっすいやつか
+来年やります
+そう
+やっすい言うな
+わろち
+(⌒,_ゝ⌒)
+松浦やったらふつうにプログラマーのバイトとかで稼げるやろ
+まじで
+うん
+バイトの知識皆無やからなんかハガキの仕分け(雑用)になったけど
+また調べるかー
+バイト プログラマー とかでいけるで
+不安やったら初心者とか入れるのもあり
+ほうほう
+やってみるわ
+リモートとかやったら大阪で選べば高くなりそう
+リモートは敷居上がっちゃうけど
+まじか
+うん
+わい現在フルリモート
+
+やっす
+これより貰えそう?
+やっぱ安いかw
+プログラマーとかやったらふつうに時給1000円は超えるやろ知らんけど笑
+まあそうよな
+滋賀県💩
+きえええええ
+おつ笑
+ワシ京都まで行くのに1時間かかるから...
+滋賀ダメやわ
+はよ出たい
+こちらはたうんわーく
+プログラムで絞っていきなり塾講師笑笑
+ちょっときつくないですか
+滋賀は無理やなこれ笑
+やろ
+もう出るしかないんや
+あと大阪で調べてsinProject出てきてもは間違っても行くな
+なにそれ
+大阪でプログラマーのバイトで検索したらでてくる
+
+あっ…(察し)
+シンプロもう今破綻してるから行くな
+HALの先輩さんもおるけどめちゃんこブラックんご
+泊まり(白目)
+まじで
+地雷やんけ
+見ての通り初心者オッケーにしとるからガチの初心者しか来ないけどできる人は今の仕事で手がいっぱいやから教えてる余裕ない
+しかし仕事量に対してこなせる人間が少なすぎる
+破綻してるやんw
+でしょ笑
+死にに行くようなもんやんけw
+だから行くな
+できないと得するやん
+ボーってしとけば
+残念ながら労働時間でカウントされる時間クッソ短い
+チケット作業中だけやからおるだけじゃもらえない
+まあそうよな
+プログラマーにしては時給クッソ安いのでできる人間も結構辞めていってる
+ひええ
+そこのやめた人間らで作ろうとしてる会社が今わいがおるもこ
+クソブラックやんけ
+とこ
+シャッチョさんが現実逃避しとるもんなあ笑
+末期やん
+今日も胃が痛いみたいなツイートしてはった笑
+乙ですな
+乙です
+🙏
+🙏
+一応近くにパソコン教室あるけど、そこにしようかなーとも思ってたりする
+それでええやん笑
+基本情報取ってからにしよーと思ってる
+求人あるか知らん
+リア凸しようや
+直談判
+というか基本情報なくても行けるんかえ
+いけるやろ
+やばそう
+そうかね
+あった方が能力の目安になるからあるに越したことはないけど
+午前免除は入りますか???
+入りません
+ヨシ!
+まあやるとしても春休みやな
+それまでには探すかー
+それでええんちゃうかな
+アドバイスさんきゅ
+いえいえ〜
+またひとつ滋賀がクソであることが証明されてしまった
+ありゃんした
+今更ながらPythonのプロゲートやってる
+iPhoneにクリスタがいつのまにか出てたのでパチモンえーすばーん書きました
+ええやん
+こういうアイコンの人いそう
+ちなみにワイ推しのポケモンはラフレシアとパッチールやからよろしくね#リクエスト
+リクエストは絵がうまい人にしてください
+ナエトルよろ
+#リクエスト
+<@429992157290561546>
+<@!548359525703483392>
+見ながらかいたもん
+つかわせていただきやす
+いる？
+<@429992157290561546> ごめん耳のグルグル忘れてた😞
+PCに詳しい皆さん質問です、
+パソコン本体からディスプレイに出力するケーブルってpc本体に依存されるの？
+依存？
+HDMIだったりディスプレイポートだったり…
+使用するディスプレイとグラボ両方にポートあるやつだったらなんでもいいけど
+僕だったらディスプレイはdviとhdmiでグラボはdportとhdmiだからhdmi使ってる
+こんな感じらしい
+マザボじゃないよ
+グラボ
+これかのぉ
+それそれ
+オスとメスがあってたらしょうみなんでもいい
+好みの問題やで
+変換使わないほうがいいらしいじゃん？笑
+ワイ変換使ってる
+なるへそ
+うん、やしディスプレイとグラボ両方ともにあるやつでいい
+3枚中2枚変換しよう
+ん？何を言ってるんだ？笑
+使ってるモニター3枚のうち2枚は変換ケーブル使ってる
+なるほど、
+マルチモニターなのか
+とりあえず、ディスプレイにHDMIとディスプレイポートあればいいんだよね？
+そうよ
+おけまる
+わーくんがさっき言ってた、144hzのディスプレイってベンキュー？
+？
+しらないよ
+ん？笑
+言ってなかったけ？
+あー二万のやつ？
+2万で買えるって
+それ
+
+しらんめーかー
+やば
+郵便番号が
+あ、察し。誰も悪用しないよ
+まあAmazonで調べたら山程出てくるよ
+たしかに
+現状144hzの相場っていくらかわかる？
+ピンキリとしか
+なるほどね…
+周辺機器で一番最初に決めとくといいのってディスプレイ？
+ps4はTV勢だから…
+ディスプレイは応答速度が1msのやつ買っといたらいいよ
+そんなに悩む必要はない
+アザマス！！
+今更だけど、2年生の8月くらいまでダイナブックで頑張らなあかんかもしれん笑
+かわE
+WBの課題についてのpdf持ってる人いないですか
+え、課題なんてあるの
+映画のヤツなかったっけ
+あれ冬休み中なん？
+あれ、そうじゃなかったっけw
+WB中にやらしてくれるならやらんけど
+というか冬休みの課題何があるのかもしらね
+PHPだけ把握してる
+インフォに書いとこ
+あーあったなPHP
+phpなんかあったっけ？？
+冬休み宿題なんもないと思ってたんですけども
+PHPなんか紙いっぱいもらったやろ、たぶんそれ
+まじか
+というか、PH12終わってからPHP触ってない😇
+それな
+結局WBはどうなんや
+みんな知らんのやったらもうええか
+映画は1月末やった気がする
+mjk
+じゃあもう今年はやらんわ
+わいも
+
+https://youtu.be/W6UySp7g1T4
+こういうのしゅき
+それと皆さん、デスクトップのキーボード何を使ってますか？
+ろじくーる
+多分これhttps://gaming.logicool.co.jp/ja-jp/products/gaming-keyboards/g512-mechanical-gaming-keyboard.html
+アルミフレームのやつやんね？？
+何軸使ってる？
+多分青？
+わからん
+ビックカメラで衝動買いしただけやからわからん
+笑
+http://www.archisite.co.jp/products/archiss/progres-touch/retro-jp/
+わしこれ
+赤軸やけど結構うるさい
+--url Logicool G ゲーミングキーボード テンキーレス G-PKB-001 ブラック メカニカルキーボード タクタイル 日本語配列 RGB 着脱式ケーブル  G Pro  国内正規品 2年間メーカー保証 https://www.amazon.co.jp/dp/B06XHGP2TT/ref=cm_sw_r_cp_api_i_qadcEb4KGD9DW
+https://s.kakaku.com/item/K0000951004/
+https://twitter.com/hello_cg/status/1210933476687413249?s=21
+わりといけそう笑
+みんなありがとう(泣
+ロジクール大杉やろ
+Azu氏寝ない宣言キタコレ！
+かわええのう
+いや寝ますよ？
+山根寝ないってまじ？
+寝ますよ
+おれは寝るってゆーたはずやねんけどなあ
+/py:```py
+print("hello")
+```
+/py ```py
+print("hello")
+```
+
+ご自由にお使いくださいませ。
+
+phpファイル全部手動で作成するのが地獄やったんでこのpythonファイル開けば同じ階層にphpファイルを作ってくれるやつ作ったんでよかったらどぞ
+同じ名前のファイルがあれば飛ばすように組んでるので途中までやってるとかでも行けるはず
+デバッグはしてないw
+大丈夫そうです。
+
+ちょい改良、プログラムが終了したらコンソール勝手に閉じないようにした
+やべえミスったすまん
+
+htmlをミスってたすまねえ
+
+if分の中にcode変数作るんじゃなくて外に作ればよかったかもしれん
+組んだ後にあれこれ思いつくw
+exe化しますた
+
+この経験は初めてだわw
+
+6時間でで18GB使ったみたい笑
+ぱちも相当やな😅
+あけおめ
+あけおめことよろ！
+あけおめー!
+おめめー
+おめっとさん🥳
+クラスラインの方ってあけおめLINEした方がええんやろか？
+おれはするきないお笑
+わかる
+どっちでもええやろｗ
+じゃあええかw
+したかったらしたらいいだけｗ
+する気ナッシング
+今も少人数しかあけおめしてへんしな
+よしもとパイセンもこれでマイクラマルチできるね＾＾
+ゲリラMOD入れてるから銃器が無いとマイクラやってる気がしないぞ
+しますよね？？？
+なにやってんだｗ
+別ゲー笑
+わいクラスライン既読無視
+それでいいんだお＾＾
+あけおめ〜
+おめ～
+リファクタリングする
+リファクタリングした
+
+これなんなの？笑
+最近スマホ版でよく表示される
+ただのチェンジログでしょ
+確か理石柱とかのやつを自分でつくれるんじゃないの？
+知らんけど笑
+
+おれがゆーたやつじゃないっぽい忘れてくれ笑
+すマンボう
+↑これ設定したらこうなる
+だからあってるよ
+合ってんのか笑
+
+やったぜ
+何かの間違いや
+✌(´>ω<｀)✌
+rand関数の中身自ら操作してるやつや…
+TASさんかな?
+わんちゃん松浦が大吉でるまで引き続けた説
+※１回300円です
+5000円くらいの課金やろ笑笑
+流石っすねボス
+元日からお疲れ様です！ボス！
+なんでわしの豪運を信じてくれへんのや...
+1人おみくじの列ループしてたらヤバいやつ認定されそう
+
+ボス、見てください笑
+ドスパラに売ってましたよ
+店員の許可も頂いて撮影しています
+
+いいかんじ
+キラッキラしてますな
+真ん中の奴が一番新しいやつやな
+値段にもよる
+Google先生から請求が来たんやけどなんやこれ
+タダってこと？？
+CPUの使用率３０％だったからやめた笑
+ぜひおすすめですよ！！
+前設定したやつ?
+そー
+タダで使いたいなら期限気をつけろよー
+もう全く使ってない
+前俺が設定したサーバーやったら条件満たしてないからな
+ならもう削除した方がいいかもな
+せやな
+-210円って、まさかくれるのかw
+わからん
+Google計算式は知らないですね...
+っていうか、クレジット番号っぽいの書かれてるけど大丈夫なんw
+ま？
+どこや
+まあいいや笑
+Creditのとこ
+というか住所もやんw
+3角コーン送ったるわ
+ほんまや
+多分違う
+🍕パーティしよ
+3画コーンやめろ
+ちゃうならよかったな
+住所はええかなって
+🍕
+https://twitter.com/minodriven/status/1212590918605266944?s=21
+https://twitter.com/pellocy/status/1192781313562025984?s=21
+https://blog.keihi.com/4758
+https://gigazine.net/news/20200102-reduce-memory-review/
+メモリ使用量を減らすためにまたソフトを起動する矛盾
+昔のAndroidみたいやな
+それな
+キャップスロック機能しないようにできた！！
+めちゃくちゃ感激
+「ここにプログラマーはいるか」
+
+ABCD「いません」
+
+「そうか、では今から部屋を割り振る。Aは403号室、Bは404号室、Cは500号室、Dは503号室だ」
+
+A「許可がありません」
+B「そんな部屋ありません」
+CD「あばばばばばばばばばば(泡を吹いて倒れる)」
+
+「全員連れて行け」
+
+#プログラマー狩り
+たまにツイッターで見ると面白い
+phpの抑えといた方が良いコード教えて
+授業で習った関数
+代用効く関数とかじゃない？
+bossに聞くのが早いと思う笑笑
+ファイル操作関連は絶対やるべきかな
+他には？？(グイグイ)
+オブジェクト指向(適当)
+classはまだ早すぎる...
+まだユーザー定義関数すらやってないのに
+話変わるけど、土曜に宮内先生から聞いた話でなんやけど
+ユーザー定義やってなかったっけ？？
+やってないんよなあ...
+なにをきいたんや！！
+2年の後期から本格的にクラス分け始まるってさ
+なんかやってる気分やったわ〜
+Pythonやろw
+まじで
+んじゃ2年の前期は変わらんってこと？
+毎年1:1か高度情報少し多いくらいに分かれるらしい
+Pythonにおかされた
+へぇー
+前期はまだかなー
+高度情報の中でさらにクラス別れるかと
+まじか(´･ω･`)
+なにがあるかよくわかってないわい
+Webはph(高難度とジャヴァスク、高度はphとJavaやってさ
+うせやろ
+Javaかあ
+phpやるんかよ
+jsやらんのかw
+😒
+Webでやつらしい
+まじかよ。。。
+あと、担任で結構左右されるみたい
+C#やらんのか
+先輩の話やけどね
+へー
+担任に左右されるとは
+シーシャープはやらんやろｗ
+えー
+C#専科になってるからなあ
+あと、バイトは2年から厳しいって言ってた
+え
+やってる暇ないってさ…
+は？
+おかねほしい
+まじでゆうてる？？
+うん
+どうやって生活しろと？？
+１年から2年前期目処にだってさ
+YouTuberやれって言ってるようなもんじゃんそれ
+やってる人も居るみたいだけど、しんどそうって…
+手が回らない的なこといってはった
+そこでアフェリエイトやで
+オワオワリ
+うおおおおおおおおおお
+卒業生の知り合いも授業一個寝てたって言ってた
+捨て授業か…
+えぐい
+やるなら谷勝やな
+殺しに来てる。。。
+いうて月一しかないw
+おれが学校から消えたら察してくれｗ
+偉大なる谷勝先生のありがたい授業で寝るとは何事カｯｯ!!
+語尾が刃牙ｗｗｗ
+前期で終わりやしなw
+わりとバイトできなくなるかもしれないのはきついな
+ほんまにやぞ
+おれの配信業もどうしてくれるんや。。。
+本業にしよう
+学校辞めるか
+究極過ぎるw
+まあ山根には会社あるしな
+明日学費振り込むつもりやったけどその金でPC買うわwwwww
+(嘘です）
+Taitan X 3枚刺し期待
+動画化やなｗｗ
+ダメです!
+ダメですダメです絶対ダメです
+ダメですダメです絶対ダメです
+なんでやｗ
+吉○製作所w
+PCIeスロット折りそう
+破壊するわｗ
+動画化確定やな
+もと取れそう
+とれないんだなあ(´・ω・`)
+トレンド載ればいける
+登録者数とか動画再生時間が全然足りてない
+その動画で収益化できるとこまでいって終了やな
+これで晴れて大物Youtubeｒやな
+
+そんな規定あるんかw
+まずここをクリアしないと収益化できない
+ちな収益は月登録者×10ぐらいが相場だよ
+1000人で1万か
+山根の1日ASMRを上げまくれば動画時間は解決やな
+1万人はほしいな
+マイク買うところからやな
+ボスまさか聴いてるのか？笑笑
+！！？
+そういうことか！！？？
+とやかくわ言わんけど…
+R18...?
+r18あんの？ww
+えw
+いやしらん
+ハリマロンASMRは聞いた
+でもわりときわどいのんとかはあるで
+ハリマロンはまだだわ
+織田信姫が団子食うやつとかｗｗ
+ASMR自体よくわかってないです
+ASMRは最近知った
+立体音響てきな？
+属に言う音フェチやな
+それをASMRっていうんやろ？
+そう
+話変わるけどphp型甘すぎん？？
+それ
+jsもそうやけどマジでガバガバすぎや
+===推奨やで
+TSとかpythonからのphpやると型甘くて困惑する
+TSはしゃーない
+まあねｗｗｗ
+Pythonはまだ許せる範囲
+たしかにｗ
+
+山根は静的型付け派か
+結構静的型付けに染まってきてるｗｗ
+TSのせいやなw
+そのとおりでございます
+ワシも静的型付け過激派です
+こわｗｗ
+染まってるなあ
+もうだめじゃ...
+てことでみんな静的型付けに染まりましょう
+言語選択はもちろんJavaやね
+javaでなんかしようかな。。
+いや普通に時間ないw
+今は時期が悪い
+とりあえずおれだけ1日72時間にしてほしい
+
+滋賀の発言怖いお
+滋賀潰すか
+は？
+こわE
+やっぱ怖いおー笑
+水門はこっちにもあるんやで＾＾
+申し訳ございませんでしたァァァァァァァァァァ
+よろしい。
+((((；ﾟДﾟ))))ｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ
+権限大阪じゃなかった？
+しらん
+権限はな
+大阪勝ちやん
+GG
+きれそう
+```php
+<?php
+    $user_hand = $_GET['janken'];
+    $cpu_hand = rand(0, 8);
+    
+    if(0 <= $cpu_hand && $cpu_hand < 3):
+        $cpu_hand = 'グー';
+    elseif(3 <= $cpu_hand && $cpu_hand < 6):
+        $cpu_hand = 'チョキ';
+    elseif(6 <= $cpu_hand && $cpu_hand < 9):
+        $cpu_hand = 'パー';
+    endif;
+
+    if($user_hand == $cpu_hand):
+        $win_or_los = '引き分け';
+    elseif($user_hand == 'グー' && $cpu_hand == 'チョキ' or $user_hand == 'チョキ' && $cpu_hand == 'パー' or $user_hand == 'パー' && $cpu_hand == 'グー'):
+        $win_or_los = '勝ち';
+    elseif($user_hand  == 'グー' && $cpu_hand == 'パー' or $user_hand  == 'チョキ' && $cpu_hand == 'グー' or $user_hand  == 'パー' && $cpu_hand == 'チョキ'):
+        $win_or_los = '負け';
+    endif;
+
+    $fp = fopen('janken_history.csv', 'a');
+    $new_history = $user_hand.','.$cpu_hand.','.$win_or_los.PHP_EOL;
+    fwrite($fp, $new_history);
+    fclose($fp);
+
+    $fp = fopen('janken_history.csv', 'r');
+    $value = fgets($fp);
+    $historylist = [];
+    while($value):
+        $history = explode(',', $value);
+        $historylist = $history;
+        $value = fgets($fp);
+    endwhile;
+    fclose($fp);
+?>
+```
+```html
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0 ">
+        <link rel="stylesheet" type="text/css" href="">
+    </head>
+    <body>
+        <header>
+        </header>
+        <main>
+            <p>あなたの出した手：<?php echo $_GET['janken']; ?></p>
+            <p>コンピュータの出した手：<?php echo $cpu_hand; ?></p>
+            <p>勝敗：<?php echo $win_or_los; ?></p>
+            <form action="input18.php" method="get">
+                <button type="submit">戻る</button>
+            </form>
+            <pre><?php var_dump($historylist); ?></pre>
+            <table>
+                <tr>
+                    <th>あなた</th>
+                    <th>CPU</th>
+                    <th>勝敗</th>
+                </tr>
+<?php for($i = 0; $i < count($historylist); $i++): ?>
+                <tr>
+<?php for($j = 0; $j < count($historylist); $j++): ?>
+                    <td><?php echo $historylist[$i][$j]; ?></td>
+<?php endfor; ?>
+                </tr>
+<?php endfor; ?>
+            </table>
+        </main>
+        <footer>
+        </footer>
+    </body>
+</html>
+```
+めっちゃPythonっぽいPHPやなｗ
+2箇所直したら動いたで
+ま？？
+おん
+おしえてくれめんす
+
+なにをしたんや
+2箇所直しただけ
+$historylist = $history;
+for($j = 0; $j < count($historylist); $j++):
+ここ
+```php
+$historylist = $history;
+for($j = 0; $j < count($historylist); $j++):
+```
+？
+まあがんばれ
+ええ
+大ヒントやぞ
+さっぱりわからん
+まじで
+わけわかめ
+答えいってほしいの？
+```php
+$historylist = $history;
+for($j = 0; $j < count($historylist); $j++):
+```
+はよおしえてくれめん
+す
+さっぱりわからん
+```php
+$historylist = $history;
+for($j = 0; $j < count($historylist); $j++):
+```
+を、
+```php
+$historylist[] = $history;
+for($j = 0; $j < count($historylist[$i]); $j++):
+```
+にするだけ
+`$historylist`は
+ループのまえに`$historylist = [];`
+やってるけどそれじゃあかんの？
+それは初期化や
+ありゃ？
+[]つけると、配列を追加する
+あー
+結果、二次元配列じゃないやろ
+いつやったやつかはわからんけど
+```html
+<?php
+    $fp = fopen('new.csv','r');
+    $val = fgets($fp);
+    while($val):  
+        $name = explode(',', $val);
+        $nameList[] = $name;
+        $val = fgets($fp);
+    endwhile;
+    fclose($fp);
+?>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset = "utf-8">
+        <title>csv</title>
+        <link href="../css/bootstrap.css" type="text/css" rel="stylesheet"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    </head>
+    <body>
+        <table>
+<?php for($i=0; $i<count($nameList); $i++): ?>
+            <tr>
+<?php for($j=0; $j<count($nameList); $j++): ?>
+                <td><?php echo $nameList[$i][$j]?></td>
+<?php endfor; ?>
+            </tr>
+<?php endfor; ?>
+        </table>
+    </body>
+</html>
+```
+こんなんがあったんやけど
+こっちはどっちも`$nameList`やねん
+まあ抜いた状態でやってみたらわかるけど
+あのままやと、横の長さが縦の長さで処理されてしまうからな
+横=縦やと動くけど
+なるほど。。。
+もうやだあああああ
+otu
+動いた？
+動いたわ
+あざす
+array = []
+はpythonやねんな。。。
+つらみ
+Pythonの弊害か...
+オワオワリやわ
+Pythonやったら、テーブル描画段階でわかりそうな問題やったなｗ
+笑うしかない
+なんで文字化けするんかは謎やわｗ
+それなｗ
+たぶんバイト文字やからかとおもうけど
+文字化けされたら普通に文字コード疑ってまう(´・ω・`)
+4バイトで一文字やけど、1バイトしか抽出しんかったらそら文字化けするか
+ほんまにｗ
+なるほろ
+php```
+<?php
+    $rps = [
+        '0' => 'グー',
+        '1' => 'チョキ',
+        '2' => 'パー'
+    ];
+    // グー(0) チョキ(1) パー(2) //
+    $my_hand = (int)$_POST['rps'];
+    $honda_hand = rand(0,2);
+
+    $result_hand = ($my_hand-$honda_hand+3) % 3;
+    if($result_hand == 0){
+        $result = 'あいこ';
+        $winlose = '0';
+    }elseif($result_hand == 1){
+        $result = 'まけ';
+        $winlose = '0';
+    }else{
+        $result = 'かち';
+        $winlose = '1';
+    }
+
+    $fp = fopen('result.csv', 'a');
+    fputs($fp, $rps[$my_hand].','.$rps[$honda_hand].','.$result.','.$winlose."\r\n");
+    fclose($fp);
+
+    $fp = fopen('result.csv', 'r');
+    while($tmp = fgets($fp)){
+        $data_list[] = explode(',', $tmp);
+    }
+    fclose($fp);
+
+    $count = count($data_list);
+    $count_win = 0;
+    foreach($data_list as $value){
+        if($value[3] == 1){
+            $count_win++;
+        }
+    }
+    $win_rate = $count_win / $count * 100;
+?>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <p>自分の手:<?php echo $rps[$my_hand]; ?>　相手の手:<?php echo $rps[$honda_hand]; ?></p>
+    <p style="font-size: 2em;color: red;"><?php echo $result; ?>　勝率<?php echo $win_rate; ?>％</p>
+
+    <table>
+    <?php foreach($data_list as $value): ?>
+        <tr>
+            <td>自分の手：<?php echo $value[0]; ?>　</td>
+            <td>相手の手：<?php echo $value[1]; ?>　</td>
+            <td>結果：<?php echo $value[2]; ?>　</td>
+        </tr>
+    <?php endforeach; ?>
+    </table>
+</body>
+</html>
+```
+```php
+<?php
+    $rps = [
+        '0' => 'グー',
+        '1' => 'チョキ',
+        '2' => 'パー'
+    ];
+    // グー(0) チョキ(1) パー(2) //
+    $my_hand = (int)$_POST['rps'];
+    $honda_hand = rand(0,2);
+
+    $result_hand = ($my_hand-$honda_hand+3) % 3;
+    if($result_hand == 0){
+        $result = 'あいこ';
+        $winlose = '0';
+    }elseif($result_hand == 1){
+        $result = 'まけ';
+        $winlose = '0';
+    }else{
+        $result = 'かち';
+        $winlose = '1';
+    }
+
+    $fp = fopen('result.csv', 'a');
+    fputs($fp, $rps[$my_hand].','.$rps[$honda_hand].','.$result.','.$winlose."\r\n");
+    fclose($fp);
+
+    $fp = fopen('result.csv', 'r');
+    while($tmp = fgets($fp)){
+        $data_list[] = explode(',', $tmp);
+    }
+    fclose($fp);
+
+    $count = count($data_list);
+    $count_win = 0;
+    foreach($data_list as $value){
+        if($value[3] == 1){
+            $count_win++;
+        }
+    }
+    $win_rate = $count_win / $count * 100;
+?>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <p>自分の手:<?php echo $rps[$my_hand]; ?>　相手の手:<?php echo $rps[$honda_hand]; ?></p>
+    <p style="font-size: 2em;color: red;"><?php echo $result; ?>　勝率<?php echo $win_rate; ?>％</p>
+
+    <table>
+    <?php foreach($data_list as $value): ?>
+        <tr>
+            <td>自分の手：<?php echo $value[0]; ?>　</td>
+            <td>相手の手：<?php echo $value[1]; ?>　</td>
+            <td>結果：<?php echo $value[2]; ?>　</td>
+        </tr>
+    <?php endforeach; ?>
+    </table>
+</body>
+</html>
+```
+せっかくやったので僕のコードも貼っときます
+需要ないけど
+やっぱこうなるよ
+やな
+if文書くとはげそうになるわ
+それなあああああああああああ
+if文いっぱい書くの面倒だったからカンニングした
+カンニング？
+じゃんけんのアルゴリズム
+あね
+そんなんあったんやｗ
+
+```php
+<?php
+
+$janken_list = array('グー', 'チョキ', 'パー');
+$janken_win = array(1, 2, 0);
+$count = 0;
+
+if (isset($_POST['janken'])){
+    $com_val = mt_rand(0, 2);
+    $com = $janken_list[$com_val];
+    $me_val = (int)$_POST['janken'];
+    $me = $janken_list[$me_val];
+
+    if ($me_val === $com_val){
+        $result = 'あいこ';
+        $flag = 0;
+    }
+    else if ($janken_win[$me_val] === $com_val){
+        $result = '勝ち';
+        $flag = 1;
+    }
+    else{
+        $result = '負け';
+        $flag = 2;
+    }
+    $result_list = array($me, $com, $result, $flag);
+
+    // 記録読み込み
+    $path = './result.csv';
+    $data = array();
+
+    if (file_exists($path)){
+        if (($fp = fopen($path, 'r')) !== FALSE){
+            while(($line = fgetcsv($fp))){
+                $data[] = $line;
+            }
+            fclose($fp);
+        }
+    }
+    $data[] = $result_list;
+
+    // 記録書き込み
+    if (($fp = fopen($path, 'a')) !== FALSE){
+        fputcsv($fp, $result_list);
+        fclose($fp);
+    }
+
+    // 勝率計算
+    $win_count = 0;
+    foreach($data as $line){
+        if ($line[3] == 1){
+            $win_count++;
+        }
+    }
+    $win_rate = round((($win_count / count($data)) * 100), 1);
+
+}
+else{
+    $result = '入力されていません';
+    $me = '';
+    $com = '';
+}
+
+?>
+```
+```html
+<!DOCTYPE HTML>
+<html lang="ja">
+    <head>
+        <meta charset = "utf-8">
+        <title>output</title>
+    </head>
+    <body>
+        <table border='1'>
+            <tr>
+                <th>回数</th>
+                <th>自分の手</th>
+                <th>コンピュータの手</th>
+                <th>結果</th>
+            </tr>
+            <?php foreach($data as $line): ?>
+                <tr>
+                    <td><?php echo ++$count; ?>
+                    <td><?php echo $line[0]; ?></td>
+                    <td><?php echo $line[1]; ?></td>
+                    <td><?php echo $line[2]; ?></td>
+                </tr>
+            <?php endforeach; ?>
+            <tr>
+                <th colspan='2'>勝率</th>
+                <th colspan='2'><?php echo $win_rate; ?>%</th>
+            </tr>
+        </table>
+        <hr>
+        <a href='./input18.php'>戻る</a>
+    </body>
+</html>
+```
+俺はみずにやったぞ～
+＞＜
+🥺
+というか、なんでみんなmt_rand使わんのや
+そんな関数知りません
+rand関数は脆弱やぞ
+時代はmt_rand
+https://twitter.com/kawasima/status/1217259376487985153?s=21
+みかたがよくわからん
+y=年収　x=経験年数
+右上のやつ初耳み
+知らん言語ばっかやな
+bossなら知ってるかも笑
+<@646929488927784960>
+PHPの低さよw
+F#は、.NET系の関数型言語
+つまりゴミ
+なんであんな言語が存在してるのかがホンマに謎
+なのになんでそんな伸びてるんや
+多分使う人いないからやと思う
+いないから、高収入で取るしかない感じか
+エンジニア自体が絶滅危惧種かよｗｗ
+Web Asembly見たけどキモすぎた
+せやなw
+聞いたことない言語ってことはそういうことやろw
+jsの3倍高速やと!?
+？？
+Web Asembly結構最近やんｗ
+https://sterfield.co.jp/designer/webassembly%E3%81%A7%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89%E9%96%8B%E7%99%BA%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B/
+ﾋｪｯ…
+ほぼ機械語やん。。。
+きもいよお...
+まあでも直接書くようなやつじゃないっぽいからｗ
+まあな
+でもこういうのを開発してる人間がいると思うとすげえな
+使えるようになったら高収入やで
+ほんまに
+すごいよな
+すごいぽよ
+
+```php
+<?php
+    if(isset($_GET['input'])){
+        $input = $_GET['input'];
+        $name = $input[0];
+        $title = $input[1];
+        $message = $input[2];
+
+        $fp = fopen('data.csv', 'r');
+        //===ここから連番処理===//
+        $num[] = 0;
+        while($line = fgets($fp)){
+            $tmp = explode(',', $line);
+            $num[] = $tmp[0];
+        }
+        $max_num = (int)max($num);
+        $max_num++;
+        fclose($fp);
+
+        //===ここからファイル書き込み===//
+        $fp = fopen('data.csv', 'a');
+        fputs($fp, $max_num.','.$name.','.date("Y/m/d H:i:s").','.$title.','.$message."\r\n");
+        fclose($fp);
+        header('location:index.php');
+    }
+    //===ここから表示のための処理===//
+    $fp = fopen('data.csv', 'r');
+    while($tmp = fgets($fp)){
+        $data_list[] = explode(',', $tmp);
+    }
+    var_dump($data_list);
+    fclose($fp);
+?>
+```
+```html
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+<main style="display: flex; width: 80%; margin: 0 auto;">
+    <div class="input" style="width: 50%; position: sticky;">
+        <form action="">
+            <label for="name">ニックネーム</label>
+            <input type="text" name="input[]" id="name"><br>
+            <label for="title">タイトル</label>
+            <input type="text" name="input[]" id="title"><br>
+            <label for="message">メッセージ</label>
+            <input type="text" name="input[]" id="message"><br>
+            <button type="submit">送信</button>
+        </form>
+    </div>
+    <div class="twochannel" style="width: 50%">
+    <?php foreach($data_list as $value): ?>
+        <div style="border: solid 3px orange; margin-bottom: 15px">
+            <p><?php echo $value[0]; ?>・<?php echo $value[1]; ?>さん</p>
+            <p><?php echo $value[2]; ?></p>
+            <p><?php echo $value[3]; ?></p>
+            <p><?php echo $value[4]; ?></p>
+        </div>
+    <?php endforeach; ?>
+    </div>
+</main>
+</body>
+</html>
+```
+掲示板のコードです
+いらないと思うけど
+ありがと😭
+https://webparts.cman.jp/img/slideshow/
+便利なサイトです使うな
+これパスワード打っても通らんねんけどアカウントロック？
+残念ながら
+てか学校いるの？
+図書の民
+田中にラインしたらええかな
+ええかも
+ちなみに僕ら121にいるから暇だったら遊びに来て
+イク
+/talk
+```php
+<?php 
+    $cnt = 0;
+    $index = 0;
+    $tmp='';
+    $text_line = [];
+    for($i=0;$i<$_GET['num1']*$_GET['num2'];$i++){
+        if($i%$_GET['num2'] == 0){
+            $text_line[$i] = $tmp;
+            $tmp = '';
+            $index++;
+        }
+        if($i%2 == 0){
+            $tmp .= '○';
+        }else{
+            $tmp .= '×';
+        }
+    }
+?>
+```
+○×交互二重ループなしVerです
+有能
+https://tanuhack.com/
+
+だしたの？
+<@!477125948282634240> ごめんコード欠陥だったから直した
+りょ
+だ、だしてない......
+なんか話して
+なんかしゃぶって
+/comp:2
+/comp 2
+これおもろい
+/comp 3
+/comp 4
+なんかしゃべってなんかしゃべってなんかしゃべって
+なんかしゃべって　なんかしゃべって
+/comp2
+/comp 2
+/comp 6
+/comp 2
+/help
+pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+ちんかすっ、ちんかしゅ大好きぃ♡　きょ、今日もいっぱい、○○さんにかけて、もらっちゃったっ♡　はぁっ、じゅるっ、も、もったいないよぉ♡　ぜんぶトーストにぬってぜーたく朝ごはん、こんなのもったいないよぉっ♡　はむっ、ん、くしゃいぃいっ♡　はむっ、はむっ♡♡
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/poke 807
+/poke 45
+/poke 257
+/poke 279
+/poke456
+/poke eevee
+/poke 134
+/poke151
+JR今度は車が橋桁にぶつかって止まってるわ
+j検って受けたの基本スキルやっけ
+多分そうじゃない？？
+覚えてないww
+phpめんどくせええええ
+皆さんphpどんな感じですか？
+25まで行った
+今から26です
+バカめんどい
+かわなきゃよかった（褒め言葉）
+ようやく終わった。。。
+なんかそれみたことある
+あきた
+https://www.sejuku.net/blog/22861
+https://www.sejuku.net/blog/11981
+リアルタイム解説期待してるわ
+https://www.flatflag.nir87.com/fgets-810
+5と7解けんかったんやが
+4.5.7無理やった
+死を覚悟するよね
+僕のコードです
+たぶん松浦のコードのほうが洗練されてるので松浦のコード見るのもいいよ＼(^o^)／
+```css
+.box {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  margin: auto;
+  overflow: hidden;
+}
+
+.box .bgImg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0;
+  -webkit-animation: bgAnime 20s infinite;
+          animation: bgAnime 20s infinite;
+}
+
+.box .src1, .box .src2 {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.box .src1 {
+  background-image: url(images/background_page1_1.jpg);
+}
+
+.box .src2 {
+  background-image: url(images/background_page1_2.jpg);
+  -webkit-animation-delay: 10s;
+          animation-delay: 10s;
+}
+
+.boxString {
+  display: inline-block;
+  font-size: 2em;
+  color: white;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  position: absolute;
+  z-index: 11;
+}
+
+@-webkit-keyframes bgAnime {
+  0% {
+    opacity: 0;
+  }
+  5% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 1;
+  }
+  55% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes bgAnime {
+  0% {
+    opacity: 0;
+  }
+  5% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 1;
+  }
+  55% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+```
+画像切り替えじぇーくえりー無し
+https://drive.google.com/drive/folders/1q8tK4ZTrHKeiRkUFmKRIgc--4toNiVJg
+
+
+
+ワイのコード
+
+<:doraemon:669761524134576140>
+
+採用
+<:doraemo2:669763077071175691>
+
+
+クソコラ制作ライブ
+
+クソコラ大会か？
+そういう授業やろ？
+わろた
+<@!164943921217142785> さすがにそれはやばないか？？
+田中先生はまずい
+田中先生のフリ素どこにあるん
+ぐっちゃん今田中先生の画像やってる
+このコラ画像ダメ？笑
+
+
+
+
+田中先生の素材どこにあった？
+やめなさい
+田中先生に８ビットさんぐらすかけたい
+あかんて
+DiscordBANされるから自分でつくれ
+
+yamenasai
+とりあえず問題行動が見られた時点でロールはく奪します。
+さすがにやらんて
+ていうふりなんでしょ？
+またbotになりそうｗ
+知ってるって笑
+とりあえずよくわからないけど８ビットサングラスの投下素材置いときます
+使っててくさ。ドラえもん目が近すぎるからなんかうまくいかんよな
+パワえもん
+
+BaSEにようこそ。ここでは山根様の言うことは絶対ですのでそれだけ覚えといてください
+了解。よろしくです！
+https://www.photopea.com/
+プログラミングライブとは
+
+ええやん
+でも画質が悪すぎる
+しゃーない
+https://twitter.com/yamada_theta/status/1219907602303176705?s=20
+現場のCOBOLってこんな感じなんかな
+さあｗ
+cobolなんて使わねえからｗｗ
+絶滅危惧種やし
+だからもう神に祈るしか無いほど人材少ないんかな
+cobol使うくらいならあたらしく組んだ方がいい希ガス
+Javaやな
+それだけ古いプログラムということでもあるし
+年収高そう（）
+今COBOLできる人少なくて仕事結構あるって聞いたことある（ただし新規開発はゼロ）
+要するに保守やな
+未来無いやん,,,
+COBOL使う意味ないやん
+PHPやるんやで(にっこり
+このまま古いシステム使い続ける会社って一体どうなるんやろなぁ
+システムとともに沈むんやろ
+プログラム版タイタニック
+COBOLの代わりに採用される言語ってなんやろ
+I'll not be back
+b
+
+限界を見た
+
+観光客かな？
+滋賀県かな？
+正解
+は？
+お？
+琵琶湖の水止めるぞ
+権限はこっちにあるんやぞ
+QED
+うるせえ
+照明終了
+誰かボスの素材持ってません？？
+
+…
+発想の限界を感じる
+
+これ色々使えるぞ!
+
+サングラスを掛けるだけならセーフだと思いました
+匿名化や
+そうそれや
+COBOLの公式のロゴって
+ないんかな
+
+時代を感じる
+あると思わなかった
+許可もらってます！
+ジョブズには許可もらってないやろｗ
+むちゃくちゃやw
+どういう状況なんや
+カ　オ　ス
+高熱の時に見る夢や
+
+```html
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <title>Document</title>
+</head>
+<body>
+<header>
+    <nav>
+        <ul>
+            <li><a href="#page1">トップ</a></li>
+            <li><a href="#page2">この店について</a></li>
+            <li><a href="#page3">アクセス</a></li>
+            <li><a href="#page4">問い合わせ</a></li>
+        </ul>
+    </nav>
+</header>
+<main class="container">
+    <h1 class="none">HEWお店紹介サイト</h1>
+    <article class="content" id="page1">
+        <div class="box">
+            <div class="bgImg src1"></div>
+            <div class="bgImg src2"></div>
+            <div class="bgImg src3"></div>
+            <div class="boxString">
+                <h2 class="default">
+                    pâtisserie<br><span class="size1">bonSOUVENIRS</span>
+                </h2>
+            </div>
+        </div>  
+    </article>
+    <article class="content" id="page2">
+        <h2>この店について</h2>
+        <p><img src="images/cake1.png" alt="ケーキの写真1" width="100%"></p>
+    </article>
+    <article class="content" id="page3">
+        <h2>アクセス</h2>
+    </article>
+    <article class="content" id="page4">
+        <h2>問い合わせ</h2>
+    </article>
+</main>
+</body>
+</html>
+```
+WEB課題要項
+
+WEB資料PDF
+
+これは.....?
+ホームページのあれやろ
+/pokekji
+/pokekuji
+/help
+/mine
+/take
+/talk
+/talk
+/pokekuji
+/pokekuji
+/tolk
+/talk
+/comp 2
+専科中になにやってるんですか😠
+/pokekuji
+/talk
+/talk
+/comp 1
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+djangoのhtml
+これをdjangoの
+pythonが読み込んで動かすらしい
+https://docs.djangoproject.com/ja/3.0/intro/tutorial01/
+なるへそ
+思ってたのと少し違ったわw￼
+まあこんなかんじなんやな
+<?php ?>
+みたく
+一応views.pyの関数に直書きすることもできるみたい
+へー
+制限とかない？
+```python
+from django.shortcuts import render
+from django.http import HttpResponse
+
+def index(request):
+    return HttpResponse("Hello, World.")
+```
+制限とかはわからんけど直書きはやりづらいのは間違いない
+↑このコードでブラウザにhello,worldが表示される
+サーバーか
+こまかいとこはよくわからん
+直書きはちょっと引けるなｗ
+まだチュートリアルやってるとちゅうやからｗｗ
+まじかｗ
+せやなｗ
+結局のところphp
+みたいな書き方
+になりそう
+そっちの方が書きやすいわ
+慣れてるからなw
+なんかpythonファイル側はrender関数とかreactであったようなのがあるからなんかphpとreactごっちゃになった感覚（現時点での乾燥）
+もうちょい進めていったら違う感想になるかもしれんけどww
+多言語とまざっちゃうのはしゃーない
+$忘れとか
+あと学習コスト高そうｗｗｗ
+PHPゼッタイに使いたくないマン
+/talk
+今頃午前免除やってるんだろうな〜
+どこいるんw
+大阪港に向かってる
+あね
+https://cdn.discordapp.com/attachments/589815669889957930/670135728721625088/video.pdf
+/talk
+/talk
+/comp 2
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/comp 1
+/talk
+/talk
+/comp 2
+/talk
+/talk
+/talk
+/talk
+/comp 3
+/talk
+/talk
+/comp 2
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/comp 3
+/talk
+/talk
+/talk
+/talk
+/talk
+/comp 1
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/comp 2
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/comp 2
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/comp 3
+/talk
+/talk
+/talk
+/talk
+/comp 2
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+映画サイトつくろうにも画像がなさすぎる
+そもそも映画の公式サイトがなくなってるやつばっか
+(´・ω・`)
+Sae Kamiita Kiyama
+広告とかもないん？？
+使えそうなのはあんまないね
+結構「〇日上映！」とか「近日上映」とか入ってて使いにくい
+その辺の表記が違うとサイトとしておかしくなってまう
+カイジにでもしとくか…
+登場キャラ2人くらいの映画ないの
+セトウツミ
+ほお…
+高校生2人が学校帰りにだべってるだけのやつ
+たいちゃんパワプロ優勝で賞金420万やって
+includeで読み込んだりしてるファイルはcss適用されないの？
+HEW?
+そう
+htmlファイルもだめやｗ
+しかしパスは通ってる模様
+cssの<link>でechoしないと無理やで
+？？
+```php echo '<link rel="stylesheet" href="./css/styles.css">';```
+`<?php ?>`の中に書いてないけど
+<head>内で↑をしたらいかんの？
+してる
+あ、そうなん
+```php
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0 ">
+        <title><?php echo $title; ?></title>
+        <link rel="styleseet"  type="text/css" href="css/style.css">
+        <script></script>
+    </head>
+    <body>
+        <head>
+            <h1><a href="index.php"><img src="images/head-logo.png" alt="ゴルフステーション"></a></h1>
+            <nav>
+                <h2 class="titile_menu">menu</h2>
+                <ul class="menubar">
+                    <li class="nav"><a class="bar" href="index.php">HOME</a></li>
+                    <li class="nav"><a class="bar" href="golfstation.php">ゴルフステーションとは</a></li>
+                    <li class="nav"><a class="bar" href="lesson.php">レッスン案内</a></li>
+                    <li class="nav"><a class="bar" href="junior.php">ジュニアレッスン</a></li>
+                    <li class="nav"><a class="bar" href="event.php">イベント・競技情報</a></li>
+                    <li class="nav"><a class="bar" href="access.php">営業案内・アクセス</a></li>
+                </ul>
+            </nav>
+        </head>
+```
+header.phpです。
+このheader.phpを読み込まないでかいたphpはなぜかcssが適用されてる
+提出用につくったhtmlファイルはcssが適用されていない
+まことに謎
+はえ～
+これHEWの？
+そうやで
+ファイル構成どんなかんじなん
+
+なんでindex.htmlなんや...
+news.phpはcssが適用されててほかのphp,htmlファイルは適用されてない
+それ提出用
+最初htmlとかゆーてたから作った
+中身phpで動く箇所があるならindex.phpじゃないとあかんで
+まだphp書いてないから大丈夫
+え、そうなん
+あれれ〜おかしいぞ〜
+sassがあるぞ〜笑
+sassでかいておりまする
+どのファイルが動かないん
+news.phpはcssが適用されててほかのphp,htmlファイルは適用されてない
+という感じです。
+謎やな
+生成されたソースコードみても異常がないんやったらわからんな
+あとはキャッシュ消すとか...
+キャッシュはもうすでにやりました
+ですよねー
+ソースコードみないとなんとも
+```php
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>ゴルフステーション | 新着情報</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+    </head>
+    <body>
+        <p>2019/01/14&nbsp;<a href="topathlete.php" target="_blank">過去の競技情報、イベントのページ</a>をアップしました！</p>
+        <p>2019/01/14&nbsp;<a href="index.php" target="_blank">サイトを更新しました。</a></p>
+        <p>2019/01/14&nbsp; <a href="event.php" target="_blank">3月31日からトップアスリート杯がはじまります！</a></p>            
+        <p>2017/12/01&nbsp;Twitter始めました!<a href="https://twitter.com/golfstationosk" target="_blank">@golfstationosk</a></p>
+        <p>2017/08/31&nbsp;サイトが新しくなりました！<a href="http://golfstation.biz/s" target="_blank">過去のサイトはこちらから</a></p>
+    </body>
+</html>
+```
+こちらが適用されてるnews.php
+おう
+それはきにするな
+依頼がない限り更新しないもんｗ
+まあな
+適用されてないやつは上のheader.php
+ほかのphpha
+なんの変哲もないな
+ほぼコピペやからなww
+わからんからフォルダごと送って
+どうやってフォルダごと送ったらいい？？
+HEWをそのままzipに
+ですよねｗ
+上限に引っ掛かりました
+ファイルサイズがでかすぎるそうです。
+googleドライブに挙げていい？
+おｋ
+アップロード完了しました
+goooglechromeのディベロッパーツールからみたらnews.php以外cssフォルダを認識されてない
+
+
+<@!646929488927784960> ごめんなさい
+原因わかりました
+お
+まじでお騒がせしてすみませんでした。
+なんやったんや
+✕→`rel="styleseet"`、
+〇→`rel="stylesheet"`
+まじでごめん
+やらかした
+こういうこともある
+大先般
+しゃーないｗ
+すまん
+iframeだけなんでいったんや
+news.phpはなぜかちゃんとsheetになってたｗ
+あね
+つらみ
+わりとガチで調べてた←
+まじですまん。。。
+ええんやで
+あざす
+fewってHTMLのみでいいの？cssmo？
+もうわからんからゲームしてる
+phpもいるんじゃなかった
+phpはいらんはず
+明日はhtmlとcss
+多分
+画面遷移図かけるくらいまでできてたらおk
+りょうかい
+てきてゅーにちゅくるわ
+IHの評定課題の成績に入る
+ふぁ？
+まぁいいや
+土日で色々疲れた
+昨日寝ながらやったら小学生が作ったようなサイトが完成してた
+あかんおもろすぎるw
+わいもとのやつとほとんど変わらんかったｗ
+真っ赤じゃないんやな
+キルミーベイベー笑
+それはやばいｗｗ
+body {background-color: red}
+やめいｗｗ
+家でたくないでござる
+それな
+は? 今駅やけど?????
+死亡
+全くやってない
+おいw
+俺もそんな漢字よ
+電車の中で完成させるわ🤪
+つおい
+indexができてたらいいんやんな？
+たぶん
+開発期間短すぎんよー
+ほんとにそれよ！ゲームやる時間ないじゃない！
+え？おれ、その先も作ってるんやけど‥
+それな
+時間無駄にしたわ笑
+ん?
+ほかのページはこんなことになってるｗｗｗ
+まだええやん
+左上、左から2番目よ笑
+あっ(察し)
+俺のはまあまあ酷い
+あれw
+おれ、WB12イジっただけやからなー笑
+wb12まったくやってないｗ
+レイアウトそのまんま笑
+wbってなーに？
+そんなの知らないよー？
+あ、察し
+うどん食べる人ー＾
+たべない
+お腹空いてきた
+。
+とりあえず疲れた
+ボスとわーくんは、何時頃に着く？
+乙です
+14:20
+まさか、オール？？？
+14:20
+わお笑
+同じｗ
+食べる時間ある?
+うどん食べないかい？？
+お？？？
+あなたIHの課題終わってないでしょ
+14：20まで一時間以上あるし大丈夫
+わしは節約するって決めたんじゃ...
+そうか～。
+わーくんも無理そう？
+わーくんも節約しないととと
+じゃあソロですな笑笑
+家から持ってきたじゃがりこで凌ぐ。
+がんばれ！！笑
+節約超えてると思うんですが…
+/comp 2
+/talk
+/talk
+/talk
+公式のところの画像拝借してつくりなおしてる
+/talk
+がんばって！
+パチは間に合いそう？？
+間に合うん?
+とりあえずでだすだけだしてあとから修正でいいんじゃないの？
+俺もそんな感じ
+それでええやろ
+開発期間短いし
+消してもまんまなんね
+ねこちゃん有能
+課題続けるわ（汗）
+がんば
+oう
+だれかあと三時間ぐらい授業までの時間伸ばしてくれんか
+キーボードバッグてるんだが
+タイムリープどうぞ
+チート能力やん
+無限ループになりそう
+遅刻すればいいんやで＾＾
+合法でしょ？？
+それはまずい、けど課題の進捗率５０％もいってないやべえよやべえよ
+なんとかなるさ！！
+課題戻ります
+てか日曜に免除あるのが悪い
+爆○予告したら休みになるで^^
+多分終わる
+それな「；：：￥。￥；＠；。
+【急募】時空の歪め方
+病院行って、インフルなろうか真面目に考えたわ
+<@477125948282634240> 
+音より早く動く
+爆発四散するわ
+光超えてもいいんやで＾＾
+光より速くしないと。。。
+もっと、もっと速く！！！！
+光より早くなっても行けるのは未来だけなんだよなぁ......
+卒業まで飛んでもいいんじゃない
+課題戻ります（三度目）
+コロナウイルスの菌
+学校でばら撒いたら
+学校閉鎖になるよ...
+ひええ
+それは名案やな
+そのためにみんなで関空行こうぜ笑
+
+チャーニーズ輸入してこなきゃ
+？
+安倍に輸入してもらおう！！！
+基本情報煽り
+突然の晒し
+わかる課題できてないのは安倍が悪いんや
+気づいたから
+楽しいから戻れんのやが（汗）
+ぶっちゃけ今日の課題提出無し説とかあるかな
+交渉してきてや
+それはそれでキレそう
+成績付けがあるしなあ
+正直、金曜日でいい
+<@477125948282634240> それは田中先生の記憶が上振れないと無理
+田中先生やったら行けるっしょ！
+けど、流石に手のひら返しにも限度があるきもする…
+ていうか俺京都鉄道博物館のソース改造して作ってんねんけど未だに画像そのまま残ってるんだが
+冬休みに開示しなかったのがわるいね＾＾
+それ
+冬休み前に仕様くらいは教えてほしかった
+そうやそうや
+全員60％以上の措置
+してもいいでしょ
+せめて５０
+これ好きｗｗｗｗ
+ワンちゃん京都鉄道博物館のやつそのまま出すか....
+それはやばいw
+バレなさそう
+ほかにもやってるやついそうｗｗ
+おれWB１２だしな
+レイアウトそのまま人はいますよ←
+やばそう
+博物館は、縦にレイアウトが長すぎる気がしたからやめた
+調整したらええ感じやで
+レスポンシブ対応させるんやで(ﾆｯｺﾘ)
+レスポンシブなんかなかったんや......
+もうレスポンシブとかどうでもいいわｗ
+大丈夫大丈夫、ページ一枚しかなくて遷移図作れない人もいるから
+え？それは戯言ですか？？まじですか？？
+遷移図いるの？
+いらんでしょ。
+あとで作るんじゃないの
+ないんですが
+今からじゃ「100間に合わん
+今日はいらんやんな？
+聞いてないんですねぇ....
+うん
+よかた
+今日つくるんやろ
+あせった
+なるほどね
+じゃあ今日の提出もあとでええやろ
+複数人が入力中とかはじめてみた笑
+確かに
+みーとー
+画像リンクで本家の方のサイトに飛ばしたら怒られる？
+え、俺やってるわ
+ネットないと無理じゃない
+オフラインだと飛べないな
+ええやろ(適当)
+あ、オフライン保存したらわんちゃん
+ぽけっとうぃふぃ契約して
+ｐｃのうらに隠すとか？？
+ふつうに課題フォルダに出すんじゃないの？
+あ、そういうことか
+まあ大丈夫やろ
+https://youtu.be/Ymbo__QKPCk
+HAL㊙️情報
+田中先生の課題なんとかなりがち
+あるあるだわ
+今日中なら大丈夫とかよくある
+18時までてきな
+朝とか言ってたけど
+は？
+え？
+もう昼なんですけど
+それ
+いやまだ朝
+13時過ぎてますけど
+メモったから残ってるわ
+害悪ワイ「朝の定義を押し付けないでもらえますか」
+午前問題の課題の時も自分で答え合わせさせたからこの課題も何とかなるやろ
+なので私は貝になりたい
+今日の怪文書
+怪と貝をかけてるんか
+天才か
+天才おるやん
+(そんなつもりじゃなかった)
+地頭の良さやな
+松浦そんな才能も秘めてるとかチートや
+さすがBIGBOSS
+私のIQは53万
+は？
+メンサ行け
+バッファオーバーフローしてそう
+自宅組と外出済みの違いやな笑
+フリーザ様ネタやのに...
+今から用意するわｗｗ
+おう
+でも割と本気でいま貝になりたいしなんならタニシでもいいまである
+タニシの顔文字あるとかディスコード有能か？
+emoji大抵のはあるからな
+しゅご。
+バトルドームあるかな...
+
+20個までか
+限界を探ってたのか..
+ブーストしなきゃ他のディスコード鯖の絵文字って使えないんかな？絵文字一覧のところには表示されてるんやけども
+ブーストしても無理だったとおもう
+むりなんか....
+ていうことは表示されてるだけか
+ホームページの課題は
+強E
+
+強E
+あかんヤツやw
+生徒「先生、スパゲッティで変数名が1から順番に数字で付けてるコードなんですけどいいですか」
+教師「ヨシ！」
+逝って、ヨシ!
+虫混入
+「先生、オススメの言語ってありますか？」
+「COBOL、ヨシ！」
+虫入りスパゲッティヨシ！
+石器時代かな?
+ローマ字変数
+まだ家なんだが…
+今さっき出たぞわいは
+近所マウント許せんわ
+ほんまに
+くやしかったら引っ越せ
+は? 琵琶湖の水止めるぞ
+むしろ山根が滋賀に引っ越したらどうだろうか
+いややしあんなど田舎
+🤔
+<:IMG_20191219_153855:658680343607377921>
+ウーバーイーツないとか無理っすわぁ
+(⌒,_ゝ⌒)
+きれそう
+ウーバーは甘え、スーパー田舎人なら自家栽培でマクドを作る
+UberEATSは都市伝説だと思ってた←
+わかる、一生対応エリアに入らなさそうなんやけど
+それ
+むしろ田舎でやるべきだと思うんですよ
+いっつもユーチューブで「Uber eats頼もっか」のCM流れるたびにイライラしとったわ
+都会とか歩けばすぐコンビニあるんやし
+それ
+そうそう、都会は供給過多や。田舎にも愛の手を
+コンビニ遠いからホンマにやって欲しい
+チャリで10分やし
+田舎は車ないと生きていけへんやろ。松浦免許とらんの？
+持ってますぞ
+車は人権
+AT
+ええやん、逆に都会は車邪魔まであるから信じられん
+やな
+維持費やばそう
+駐車場代だけで月20万ぐらい飛びそう
+ア  ホ  く  さ
+車とかいらん
+<@!548359525703483392>  実際駐車場代ってどれぐらいかかんの？
+電車で済むべ
+おれのマンションやったら月2万くらい
+やった気がする
+やってやれないことはないレベルやな
+まあでもそこから税金とかもろもろかかるけどね
+＊ナイフはどこだ。
+車とか買ってもコスパ悪い
+大阪雨って降ってる？
+降ってる
+ちょい降ってるかんじ？
+傘要るレベル？
+あね
+ならいいや
+降ってないで
+高槻ら辺降ってた
+加古川らへんはちょい降ってたで
+琵琶湖線毎日遅延してるな
+よく遅延する
+遅延してもらったら困るわ
+なんなん、よく人が飛び込むん？
+わしらにはJRしかないんや
+電車トラブルかな
+前線路の近く燃えてたし
+姉
+あーね
+御堂筋線も止まればいいのに
+妬みがすごい
+停電しろ
+梅田着いた〜
+早いわ〜笑笑
+でもわかる大阪環状線の線路ところてんにしてほしい
+今新大阪
+くそう、学校が近いからってなんだ！こっちは1時間15ふんぐらいかかんだぞ！
+俺1時間30分
+負けたわ
+買ったわ
+うどん食べるンゴ
+早くて1時間20分、遅くて1時間45分やわ
+くそー
+うどんに七味かけ過ぎてむせてほしい
+
+なう
+帰らんの？
+どこにいまっか
+帰るで
+11かいえれべーた
+いきます
+まて
+https://twitter.com/livedoornews/status/1221692448482545665?s=21
+やば
+滋賀でもできるんです!?
+結構前から都会のマクドは対応してたで笑
+都会のマクドは
+都会のマクドは
+都会のマクドは
+あれ滋賀対応してなかったん?笑
+は？
+日本に都会とか存在しないだろ
+落ちたんだが…
+おつです
+
+ひでえ
+強すぎるｗ
+
+煽りスキル高すぎひん？
+泣
+もう学校行けないわ
+ちゃんと勉強したんか
+んー、ビミョー
+もう本番しかないな
+そうやな。
+CS行く必要ないわ笑
+ちょっとなにいってるかわからない
+
+｡ﾟ(ﾟ´Д｀ﾟ)ﾟ｡
+
+
+<:doraemon:669761524134576140>
+
+
+
+前回の残り3問で合格の時点で諦めてたからなー。
+オワオワリやん
+午前免除取れてるメンバーにプラス100マウントポイント
+…
+
+もう教室に入れない…
+落ちたやつが何ゆーてるねん
+
+南海その画像出すねんｗ
+これすこやわ
+吉本画像のバリエーションなさすぎじゃね
+あおりすぎはひどいにょ
+うにょーん
+にょーんにょーん
+
+は？
+ベイブレードは癒しだから
+
+まあ4月に受かれば関係なくね
+いけるいける
+ログあうちょ
+ぷつぅん
+
+https://www.jitec.ipa.go.jp/1_04hanni_sukiru/mondai_kaitou_2019h31_2/2019r01a_fe_am_qs.pdf
+試験ヨシ！
+一回これやってから午前免除取らなかったのを後悔したらいいよ
+運悪かったわ😅
+午前は過去問道場やれば余裕【定期】
+「2人は上に行ってもらう」
+名言やわ
+わーくん強いわー
+うんちぶり
+わーくんに追いついていけ
+
+
+ぱち脳みそ崩壊してそう
+
+🤪
+持ってないですね〜
+斬月！！
+メンタル鍛えれるわ
+われらCS2Bの力を見せつけるのじゃ...!
+こいつ、、、次応用とらんかったら追いつくからな覚悟しておいてください
+🤪
+cs2c＾＾
+追いつけるもんなら追いついてみろ…！
+💩
+cs2c＾＾
+ぶりぶり
+ぶちぶち
+what's?
+ゆゆうた
+しらん
+なんだこのくさそうなDiscordは
+どうしたんだいそんなに大声出して...
+discord汚すな
+だめです（未来予知）
+<:748924:649501371422212107>
+あああああああああああああああああ！！！！
+ここまでテンプレ
+👬
+<:IMG_20191219_153855:658680343607377921>
+きみとなつのおわり
+しょうらいおわり
+じんせいおわり
+うんちぶり
+は？
+は？
+は？
+突然理解した
+は？
+脳とけそう
+
+ここがハル幼稚園ですか？
+矛盾
+保育園やが
+殻に籠るわ
+破るんやで........................
+🔞🔞🔞🔞🔞🔞🔞🔞🔞🔞⁉️‼️‼️‼️‼️‼️❗❗💢💢💢💢💢💢💢💢💢💢🚫🚫🚫🚫🚫🚫🚫🚫🚫🚳🚳🚳🚳🚳🚳🚳❓❓❓❓❓❗❗❗❗❗❗❗❗❗‼️‼️‼️‼️‼️‼️⁉️⁉️⁉️⁉️⁉️⁉️⁉️⁉️⁉️⁉️⁉️
+ちゃんと四月には孵化するんやで
+知識で頑張るわ、暗記苦手
+からをやぶる使ったらつららばりで死んだんやが
+ポケモンわからんわ
+知識で頑張るならなおさらCS受けないとだめやで
+lol
+ていうか知識あれば問題解けるやろ
+<@621717060757487643> 帰ったら事故採点しよや
+点数聞く
+DX
+事故でくさ
+(⌒,_ゝ⌒)＜240問、馬鹿にすんじゃねえよ
+(⌒,_______ゝ⌒)口は半角いうたやろ・・・
+3年分2週くらいしたけど無理だったんで暗記ダメです笑
+
+二週しかしてないの？
+すくなすぎやろ
+うん
+それは少ない
+えー
+答えを覚えるんじゃなくて単語の意味を覚えるんやで
+解説を読み込むのが一番いい
+二台で同時進行だから実質4周
+ありがたいお言葉〜
+そうじゃない感半端ない
+がんばれ
+まあ四月受かればええんや
+そや
+朝早なるだけやしな
+そそ
+しょうみ何周とかというより正答率8割超えるまでとかそんなんのほうがいい
+英検準一取ろうか迷ってるんよなー(逃げ)
+わかる
+頑張るわ。
+国家資格取れ
+ぷつぅん
+就活の時なんで基本情報持ってないんですかって言われたら死ぬから取らなあかん
+トーエックのほうがええやろ
+英検はしょうみj検みたいなもんやろ
+？？？「HAL卒なのに基本情報持ってないんですか？」
+じぇいけんはゴミ
+ま、まだいちねんせいだから...
+ムカつくわ
+なきたいわ。
+泣いてええんやで
+しょうまって誰か分かる？
+うん
+だれや
+そらんくていいとおもうで
+いっつも帽子かぶってて先生にはずせって怒られてる子
+顔はわかる
+56してなかったことにするわ
+あー
+髪染めてる？
+ない
+そめてたはず
+なにもなかったんや＾＾
+悲しいなぁ
+見にいこ
+トイレ行くから教えて
+発言権を失いました。
+
+優しさの塊
+ｊ検2級合格してました…
+ｊ検2級合格してました…
+ｊ検2級合格してました…
+1級は20点足らなかった笑
+何点?
+1級の情報セキュリティ１問ミス笑
+なにが？
+点数
+2は
+６７
+おー
+ギリギリね笑
+ぐっちゃん楽勝とか言ってたからもちろん90点代やろ
+かもね笑
+本人に聞かないと何ともわかんないけど
+あかん
+やばい
+がっこうやめる
+えw
+なにがあったんだ？？
+
+一級おちてもーた
+あと一点やん。
+うおおw
+ちゃんと真面目に勉強せなあかんわ
+2級75やったわ
+いいやん
+でもでも二級は92点あるので！
+いいやん
+君らとは違うんです！
+表計算めっちゃ高くて笑う
+は?
+得意分野やぞ
+はい....(๑´̥̥̥>ω<̥̥̥`๑)
+最後の問題どっちやったんやろ…
+表計算12点やった
+普通にショックやわ
+(´・ω・｀)
+こんなかんじやね
+ダメダメや。
+2級の表計算どこにはいるん
+アプリケーションソフトじゃね
+４ｗ
+俺も4やで
+
+
+え
+
+こんな感じらしいです
+カスやん
+表計算苦手分野やわ
+ん?
+てか表計算以外満点だわw
+さっき得意って...
+？
+表計算めっちゃ時間かけたのにショックやわ
+やっぱPythonやるわ
+また受けないといけないのダルすぎ
+さｄっっｆっｓふぁあｓふぁさふぁｓふぁｓｆさふぁっｆさｓｄっふぁｄさｆｄｓｆさｄｆさｄｆｓだｓｄふぁｆｓだｆｓだｆｄさｆｓｄｆｓだｆｄさｆｓっｄｆっｓｄっｆｓｄｓｄふぁｆｄｓｆｄっｓだｆｓふぁさｆｄふぁｄさｆだｓｆだｄｆさｓｆだｆｄｓｄｆさあｆｄｓｆだｓｆだｓふぁｄｓふぁｓｄｆｄ
+マジで
+一級やだ😖
+あと一点はつらい
+満点すげえわ...
+表計算の勉強やね
+1級強制やっけ
+ちがう
+いやじゃああああ
+知らないけどどうせなら欲しい
+ん？次は強制か？？
+しらない＾＾
+午前持ってない僕でも２級は受かったんで大丈夫でしょう笑
+ぎりぎりやけど…
+まあ最終的に受かればいいんやし
+基本情報
+がんばるわ。
+前向きにな
+ぼくも勉強頑張る…
+ありがとう
+とりあえず今はDBやわ
+あ、忘れてた
+あしたやぞｗ
+ペーパー作ればいいんじゃないかな？
+何とかなるでしょう。
+ペーパー作ったら負けだと思ってる
+それは強すぎ
+まじか笑
+強すぎ
+ハァハァ... 敗北者...?
+下のメッセージどうやって変えるの？？
+一ヶ月、未認定になったぐっちゃんの姿が！
+ステータスメッセージってところで変えれるよ
+うんこちんこ
+
+変えれた！！！
+<@!164943921217142785> 皮肉かな？
+なんのことやら
+もうちょっとで有料になるってこと？
+多分そうっぽいな
+ありゃりゃ
+止めよ
+[  やる気スイッチ 場所  ]   [検索]
+おれにも教えてくれ
+→　該当する情報は見つかりませんでした。
+オワオワリ
+DBのカンニングペーパー真っ白なんだが
+わんちゃんどっかいったかもしれん
+それはやばい
+9時に寝ようと思ってたのに無理じゃん
+それなぁ
+わかりみが深い
+わし5時に起きたからな
+はやすぎる
+じじいやもう
+Botの調整やりたいけど
+DBがあああああああああああ
+それな
+とりあえずXAMPP起動したから褒めて()
+ｮｼﾖｼ(*´・ω・)ノ
+やったぜ(¯ｖ¯)ﾆﾔ
+
+勉強スペース確保のため縦にした笑笑
+学習机ですか？
+そうなんですよ
+凹みが邪魔で
+後々買い換える予定
+だれかDBの時にもらったプリントの答え見せてくれ...
+教科書の答え？
+DBの追加授業の時にもらったプリント
+画像がほしいんやけど
+```
+問４
+SELECT pay_date AS 支払日 AVG(amount) AS 平均金額
+FROM salary
+WHERE employee_id IN(20,30)
+GROUP BY pay_date
+HAVING AVG(amount) >= 2000;
+```
+```
+問３
+SELECT SUM(price) AS 合計金額,count(*) AS 件数
+FROM products
+WHERE price <= 700;
+```
+```
+問２
+SELECT customer_id AS 顧客ID,count(*) AS 件数
+FROM sales
+GROUP BY customer_id;
+```
+```
+問１
+SELECT count(*) AS 件数
+FROM product
+WHERE category_id IN(1,3,5);
+```
+どうぞ
+ありがとう！！
+紙
+さすがわーくん
+DBテスト範囲どこですか？
+ｐ102まで
+ドリルのやつ？
+うん
+ボス情報
+ボス情報怪しいな
+とりあえずそこまでやるわ
+さんきゅ
+ORDER BY句までやればいいよ
+よくわからんけどおけけ
+あと忘れてたんやけどj検の結果どこで知ったの？
+そしてCGARTSはどうなったの？
+https://jken-gokaku.com/?mode=PBT
+ｊ検はこっから見れる
+検索番号って何w
+それはしらん
+持ってるでしょ笑
+受験票とかどっか行ったんやけどw
+乙です
+CGARTSの受験票ならあるんやけど
+(´・ω・`)
+ディスコードの画面が毎回ぼやけるんやけど、理由分かる人いる？？
+入力するたびぼやけるからいい加減うざい笑
+PCです
+初めて聞いたその現象
+画面共有したらぼやけすぎて見えん笑
+まじかｗｗ
+しらべても出てこんし積んだわ
+わからんな
+
+やば
+全体こんなかんじ
+流石にうざい
+一生ピント合わせてる
+
+PC再起動？
+積むとか潰れてる
+ぐらいしか思いつかん
+なおらん
+再インストール
+あね
+それくらいしかできることない
+それでもだめやったら積み
+画面共有できるならシたいわ
+i見ないか笑
+ピンぼけ見せられてもなあw
+どうしようもないｗ
+うざいのを共有したい笑笑
+丁重にお断りします。
+再インストールしたら治ったわ
+おお
+感激！！！！！
+めっちゃきれい！”！！！
+よかった笑
+多分インストーラダイナブックから流用下からやと思う
+3配信同時に見るのたのちいいいいいい
+おお笑
+プリントの問題誰か見せて
+上にぐっちゃん書いてるで
+これ答えや
+問題が見たいのだ
+パチ明日じゃないんじゃない？？
+寝ろ
+は？
+さすが山根さん
+誰か聖人が見せてくれないかな〜
+チートシートの縦横の長さ教えてもらえませんか？？
+SQLわかってきた
+文字列型とかあるん？
+気にせず入力しても反映されるんだが…
+
+いまから仮眠したらやばいよね…
+うぅ（泣）
+inしてるの俺だけか笑
+
+じぇーけんって何点合格なの
+65
+wwwwwwwwwwwwww
+しばくぞ
+
+おめ
+cgartsってどこで見るん
+しらね
+サイト見てよよくわからんねんな
+てか学校間に合うかな
+https://www.youtube.com/watch?v=n5CRNHzGmTY
+この人めっちゃあなたへのおすすめに出てくるわ
+決戦N弾いてた人やな
+めっちゃ懐かしすぎて泣きそう
+割と好き
+<@!548359525703483392> しねどすのスタンプこれに置き換えといて
+
+それそのまま使ってええんちゃうのｗｗ
+どこが駄目なん？？？
+いらんところにシングルクォーテーションがついてる
+自分で探して
+ありました
+ちがいました
+なんか納得いかんから頼むわ
+おけけｗ
+<@!477125948282634240>  <:e85192b949fb6249:672259918287470592>
+cookieってvscodeで開いたら文字化けしてるんやがこれハッシュ化されてんの？
+SQLlite形式で保存されてるって聞いたけど
+<@!477125948282634240> <:e85192b949fb6249:672259918287470592>
+単純にそのままは無理ってことか
+sqliteとmysqlの違いがわかんね。sqliteはブラウザに組み込まれてるんかねぇ
+AZASSU!
+<:748924:649501371422212107>
+<:e85192b949fb6249:672259918287470592>
+<:e85192b949fb6249:672259918287470592>
+2/13 ph11　課題提出
+index.php
+login.php
+user.csv
+～～～.php
+合ってるかはわからん
+https://twitter.com/SamNChiet/status/1222647282237169671?s=20
+ほぼウイルスやん
+
+
+panasonic くそおもいｗ
+$help
+$omikuji
+やったぜ
+松浦神さま！
+$omikuji
+$omikuji
+ha?
+<:e85192b949fb6249:672259918287470592>
+<@!548359525703483392> スラック招待URL頂いていいかい？？
+機種変したから(汗)
+メアド教えて
+http://rayout.biz/wb/sample1.html
+/comp 2
+/talk
+/talk
+/help
+/talk
+
+--help
+--hello
+--wea osaka
+--wea hikone
+--wea otsu
+--wea america
+--wea shiga
+--wea matsuura
+--wea hal
+--wea guinea
+--wea spain
+えぇ
+--wea libya
+くぁｗせｄｒｆｔｇｙふじこｌｐ
+--wea hogehoge
+--wea yamane
+--wea takumi
+今日の授業のやつ
+--wea tanaka
+--wea tanakashinya
+--wea mode
+--wea isen
+--wea abe shinzou
+--wea greenland
+--wea くぁｗせｄｆｒｔぐじこｌｐ
+yuunou
+<:748924:649501371422212107>
+有能なのに射たれるという
+--wea takanatsu gen
+--wea harada naoki
+/pokekuji
+/pokekuji
+は？
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekluji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/py ```py
+import os
+os.system('pkill -f python3')
+```
+/pokekuji
+/pokekuji
+/pokekuji
+/poke 807
+/809
+/poke 809
+/poke808
+/poke 808
+/poke 456
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/poke charizard
+/poke tanakasinya
+/poke pikschu
+/poke pikachu
+/poke bit
+/poke ditto
+/poke vileplume
+https://youtu.be/cgtEDJ5klAA
+/talk
+/pokekuji
+/talk
+/pokekuji
+/pokekuji
+/pokekuji
+
+
+/pokekuji
+/pokekuji
+追記ver
+/talk
+/talk
+(╯°□°）╯︵ ┻━┻
+/talk
+/yamanemeltdown
+/talk
+/talk
+/pokekuji
+/help
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/poke 162
+/poke 396
+/poke53w
+/poke 530
+/poke 777
+/pokekuji
+/poke 791
+/poke 750
+/poke goodra
+/poke 334
+<@!429992157290561546> 中高部活なにしてた？？
+$omikuji
+<@!548359525703483392> 卓球とじてんしゃきょうぎ
+陽キャやん
+陰と陽の具現化
+今ぱちのmaimai動画見てる
+しばくぞ
+(⌒,_ゝ⌒)
+(⌒,＿＿ゝ⌒)
+(     ⌒,＿＿＿＿＿＿＿====>⌒     )
+伸びすぎワロタ
+(⌒,_ゝ⌒)＜240円を馬鹿にすんじゃねえよ
+$omikuji
+
+くさ
+じっさいどの資格持ってたらどやれるんやろうな
+医師免許
+レベル高すぎんか？
+https://gigazine.net/news/20200131-google-opensk-open-source-security-key/
+rustで作られてる
+やっぱRustだわ
+Rustは神、いけめん、かっこいい！
+パイロットも最強
+全員視力が終わってる
+そらITパスポートやろ
+じゃあドヤれるわ
+不穏なスタンプやめろ
+よう考えたらこのスタンプどういう時に押せばええんや
+とりあえずなんか押しとけって時
+なるほど
+
+深層Webに落ちてそう
+死ねどすの汎用性高すぎだろ
+とりあえず殺意を表したい時に便利
+死ねどすインフレや
+どんだけ殺意抱いてるんやベースメンバー（呆れ）
+とりあえずヨシモトにしねどすヨシ！
+現場猫もスタンプ化希望
+たしかに
+<:tashkani:648053888364052510>
+
+マジレスすると絵文字にすると小さくなるから文字が少ないやつの方がいい
+境界線曖昧なとこ多いからトリミングめんどくさそう
+しゃーないな
+ぐちやまさんトリミングおなしゃす！
+ヨシ!は文字数少ないやろ
+フォトショのチカラや
+
+？？
+GIMPで切り抜きしようと思ったけどダウンロード遅すぎてびびる
+GIMPのデータ量やばいぞ
+なぜギンプでやろうとするのか....
+HDDとかにインストールしたら死ぬで
+GIMPならもってるぞわい
+ジンプそんなにあったっけ
+ふぉとしょわかんない
+それは甘え
+わかふ
+しねどすやめろ！
+Nitro入れたらgif動画でもいけるで(宣伝)
+nitroはやらん
+(チラッチラッ
+ニトロそんなにいいん？
+ていうか月額500ぐらい？
+ニトロは個人でブーストがサーバーだよね
+ステータスに死ねどす使えるようになるで
+Boostか
+ニトロ月額1000円って高くね
+
+てきとーに切り抜いた
+有能
+さすが
+<:migf:672832067691872259>
+/pokekuji
+https://twitter.com/sputnik_jp/status/1223767277465669633?s=21
+コロナの次は鳥インフルエンザらしい
+北はコロナ、南は鳥インフルか...
+セブンイレブン深夜バイト抽選チャレンジ
+バイトするん！？
+労働者の仲間入りするかも知れん…
+コンビニの夜勤って22〜06までだったと思うけど学校は大丈夫？
+金土しか入らんからいける
+なるほどね
+あとその店22〜1もある
+一時からはワンオペなのか
+まーコンビニは覚えること多いけど、一回覚えたらぼーっとしながら出来るから頑張るのじゃ
+haiローソンの民多すぎた…
+hal
+/talk
+/talk
+中国やばいンゴ
+からあげクンの入れ忘れ
+【悲報】基本情報技術者、剥奪される
+？
+あれ
+なんでもない
+こっちではちゃんとあるで
+なんでもないっす
+＞＜
+
+ついに我らの時代が...!?
+/talk
+webぐちゃぐちゃになってもうたw
+
+$omikuji
+/pokekuji
+/pokekuji
+みずポケモンの日
+/pokekuji
+
+成績のサーバっていつ解放されるの？？
+今日中って言ってたけどな
+
+
+
+
+
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji 706
+/pokekuji
+/poke 706
+/pokekuji
+/pokekuji
+/poke イーブイ
+常にポケくじしてんな.....
+/poke
+/pokekuji
+/pokekuji
+/pokekuji
+/poke mimikyu
+/poke 778
+/poke 213
+/poke Snorlax
+/poke 671
+/poke 143
+/poke 120
+/poke 406
+/pokekuji
+/poke mimikyu
+/poke 778
+
+/pokekuji
+--hello
+/pokekuji
+ポケモンバトル機能つけようかなｗ
+$omikuji
+$omikuji
+$omikuji
+/pokekuji
+https://youtu.be/BuVlKwiwbKk
+java自体が有料化されることはないらしいぞ
+https://youtu.be/nV7BV8EffQs
+https://qiita.com/yamaneko717
+アカウント作った
+これで何ができるん？？
+自分で記事かけたりいいねしたりとか
+あと他の人をフォローするくらいかな
+なるほど、ようくわからん笑
+しょうみなくてもいいかなｗｗ
+なるほどね笑
+でもまああるに越したこともない
+そんな感じ
+たし蟹
+
+結果見ました…
+どうやったん
+wbの評定出てるんだけどどゆことだこれ
+基準がわからんわ
+映画サイトが評定じゃないの？
+とりあえず落ちてないからヨシ
+出てない人も出てるらしい
+ヨネとか
+わいだしてない
+今やってるもんww
+後で加点されるんかね
+ぼくも出してないし…
+減点ないといいな
+それはさすがに
+ちな92やった
+95です
+????????
+96だった😉
+え???????
+しねどす笑ってまうわ
+マジで何が基準なんや...
+前期の評定基準とか？
++-10は誤差
+僕前期95やし
+そんなん勝てへんやん
+前期85...
+前期90です、、、
+ああああああああああ!!!!!
+やっぱ暫定でしょ
+俺より高いやつは死ねどす送りまくるわ
+暫定なんかね
+<:e85192b949fb6249:672259918287470592>
+/pokekuji
+94
+あの先生テキトーにつけてそう
+$omikuji
+／pokekuji
+/pokekuji
+かわいい
+☺️
+/pokekuji
+/php ```php
+echo 'HEW一切進んでねぇ...っ！';
+if (mt_rand(0, 2) === 0){
+   echo 'やるしかねぇな...';
+}else {
+   echo 'まあなんとかなるやろ...';
+}
+```
+/comp
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+/talk
+```html
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <link rel="stylesheet" href="tes.css">
+    <title>Document</title>
+</head>
+<body>
+<header>
+    <nav>
+        <ul>
+            <li><a href="#page1">ページ１</a></li>
+            <li><a href="#page2">ページ２</a></li>
+            <li><a href="#page3">ページ３</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <!-- 作りたいページ分 div か article を作成し、わかりやすいように id を設定する -->
+    <article id="page1"></article>
+    <article id="page2"></article>
+    <article id="page3"></article>
+    <!--これだと 3ページ-->
+</main>
+</body>
+</html>
+```
+```css
+/* これは初期化 */
+* {
+  padding: 0;
+  margin: 0;
+}
+/* 作った article か div の高さを1ページ分にするため heightを100vhにする */
+#page1, #page2, #page3 {
+  height: 100vh;
+  background-size: cover;
+}
+/* それぞれの article か div に background-image を設定する */
+#page1 {
+  background-image: url(./1.jpg);
+}
+
+#page2 {
+  background-image: url(./2.jpg);
+}
+
+#page3 {
+  background-image: url(./3.jpg);
+}
+/* これでページごとに背景を設定できる */
+```
+雪降ってきたわ🥶
+うおおおおお
+そっちは?
+家は降ってないけど大津駅付近は降ってるっぽい
+そか
+けど積もる感じじゃなさそうやな
+明日詰めて持ってきてや笑笑
+多分積もらんw
+気温2℃や...
+梅田5℃やったで
+誰か松岡修造呼んできて
+ばじげばぶい
+
+サブ垢です
+サブ垢、BaSEサーバー閲覧できないんですよ…
+あたえた
+ぞい
+azamasu
+あテスト
+ようやく終わった。。。
+今からやるわ😉
+まじかよ
+がんばれ
+おやすみ
+おやすみ！
+課題開始
+
+
+積もってた
+めっちゃ吹雪いてるw
+いかにも彦根って感じやね(?)
+ほんまにw
+そっちは?
+ただ寒いだけ😨
+一切積もってない
+まじか
+風と雪やばいわ
+やば
+南西と北東で気候が変わり過ぎる県、滋賀
+寒いから学校休みたい
+
+寒いよお
+いつもは靴埋まるくらい積もるけど、今年は少ないな
+やっぱ暖冬ですわ
+ほんまに
+降ったら電車遅くなるからこれでいいわ
+家出た瞬間雪降り出したわ☃️
+お
+SLとDB評定でてます
+CSもでてるっぽい？
+入力場所間違えたのか変なところに入力されてる
+前期に入ってるな笑
+やね
+IH以外出たか
+phとwbは暫定だけどね
+PHまだ暫定なん
+あー変わってるかもしれん
+まあ100なんですけどね(笑)
+おなじく🥴
+
+ぶ、ブーメラン…
+夜中起きて徹夜でWBやってたのに終わってないんだが…
+気付いたらアラームが鳴っていた
+おつです
+シンプルにヤバい
+せやな
+さっきバイト先行って今日休ませてもらった
+課題少ないから落としたらヤバいぞ
+やっとWB終わった.......
+次はIHやらねば
+ガンバレー
+/talk
+
+$omikuji
+/help
+$help
+$voting ああああ,いいいい,うううう,えええええ
+$voting ああああ,いいいい,うううう,えええええ
+$voting あいうえお
+<:748924:649501371422212107>
+$voting ああああ,いいいい,うううう,えええええ
+$voting ああああ,いいいい,うううう,えええええ
+$voting ああああ,いいいい,うううう,えええええ
+$voting あああああ いいいい ううううう ええええ
+$voting あああああ いいいい ううううう ええええ
+$voting あああああ いいいい ううううう ええええ
+$voting Windowsアップデートは？ 1 最高 ゴミ
+/mine
+num_dict = { 0 : '0️⃣', 1 : '1️⃣', 2 : '2️⃣', 3 : '3️⃣', 4 : '4️⃣', 5 : '5️⃣', 6 : '6️⃣', 7 : '7️⃣', 8 : '8️⃣', 9 : '9️⃣'}
+$voting Windowsアップデートは？ 1 最高 ゴミ
+$voting Windowsアップデートは？ 1 最高! ゴミ
+$voting Windowsアップデートは？ 1 最高 ゴミ
+$voting Windowsアップデートは？ 1 最高 ゴミ
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuju
+/pokekuji
+/POKEKUJI
+/pokekuji
+/poke 653
+/poke 111
+/poke 444
+/poke 404
+/pokekuji
+/pokekuji
+/poke 1000
+/poke800
+/poke 800
+何これカッコよ
+/pokekuji
+/poke goodra
+/pokekuji
+/pokekuji
+/pokekuji
+/poke 403
+/poke 37
+/poke puncham
+/poke pancham
+/poke axew
+/poke 890
+/poke 880
+/poke 850
+/poke 800
+/poke 840
+/poke 810
+/poke 801
+/poke 805
+/poke 809
+/poke 808
+/poke 807
+/poke 650
+課題表紙っていくらで売ってる？
+/talk
+忘れたけどかなり安かった気がする。300円以下
+/pokekuji
+おけ、ありがとう
+/pokekuji
+/pokekuji
+/pokekuji
+/pokekuji
 /pokekuji
 /pk
-きたこれ
-店によって納品時間まちまちやからそのへんは働いてみないとわからん
-あーね
+/pk
+/pk
+/pk
+/pk
+/pk
+/pk
+/pk
+/pk
+/pk
+/pk
+/talk
+/tk
+/talk
+/comp 3
+/talk
+/comp 2
+/talk
+https://twitter.com/ahato88/status/1183257793224036352?s=19
+ワイは髪短いからできんかったわ😨
+どなたかcanvasについてわかるかたいらっしゃらないでしょうか？
+canvasにstyleが適用されないでござる＆js
+スペルミスは大丈夫?
+```html
+                <section>
+                    <h3 class="">GOLF STATION TOP ATHLETE CUP</h3>
+                    <canvas class="canvas">
+                        Canvasに対応していません。
+                    </canvas>
+                </section>
+```
+```css
+.canvas
+    width: 600px
+    height: 400px
+    background-color: red
+```
+idいらないの？
+ごめんなんでもない
+コピペです
+とりあえずこの時点でうごかん
+クラス名変えてみたら?
+もうすでにやった
+まじ
+top_athleteからcanvasに変えてみた
+`class="top_athlete"`→`class="canvas"`
+canvasってなんやと思って調べてきたけどバカ難しそうでびっくり
+なんで手出してるのか知らないけど頑張るのじゃ
+クラスじゃなくcanvasタグにかけてみたりとかは?
+だめっすね。。。
+はえー
+firefoxはてきようされた。。。
+キャッシュ説
+それ思ったけどまさか山根がそんなミスせんやろ(´・ω・｀)
+キレそう
+ん？
+え?
+2，3回キャッシュ削除したのに
+今やったら動きやがったクソが
+乙や
+どうなってんだよおおおおお
+すまん、お騒がせした
+
+<:IMG_8669:648137843226443786>
+というかcanvasなんか使って何するん
+トーナメント表作る
+あね
+もとはpdf埋め込んでたのをcanvasで書いてみようかと
+なんか大変そう(小並感)
+canvasやったことないからやばいｗｗ
+俺もcanvasちょっといじったけど禿げそうになった記憶
+まじかよ
+jsができないと話にならんからな
+線引くくらいやったらまだいけそうかもな
+がんばるわｗｗ
+jsに関してはtsやってるからなんとかなりそう
+ts強い
+ここでts生きるとは思わんかったw
+j検の受験票見つけた
+受かってた
+おめ
+何点?
+あり
+80
+負けたわ...
+
+よっしゃｗｗ
+ぐっちゃんは96やけどな
+さすがやな
+わし75
+雑魚
+は？？？？？？
+
+受かればええんや
+それなｗｗ
+なお日曜日のは死ぬ模様
+計算問題だらけで＼(^o^)／ｵﾜﾀ
+まじかよ
+積んだ
+詰んだ
+合格率40~60%や
+ちな前回は49.2%
+前々回は64.3%やで
+まあしょうみ国試さえちゃんとやっとけばええやろ
+ほんまに
+2級合格率は70.6%
+基本情報の方が大事やろ
+それなああ
+もういいわしらねー
+しょうみ基本情報もってるぐっちゃんまじで受ける意味ない希ガス
+基本情報　＞　j検、CGARTS BASIC
+学校の方針もそれやん
+何のために受けてるんや。。。
+```
+スペシャリスト　＞＞|壁|＞＞　　応用情報　＞＞＞＞　基本情報　＞　j検、CGARTS BASIC
+```
+こんなもんやろ
+間違ってないと思う
+```
+スペシャリスト　＞＞|壁|＞＞　　応用情報　＞＞＞＞　基本情報　＞　j検、CGARTS BASIC ＞＞＞＞|なぞのばしょ|＞＞＞ ITパスポート
+```
+ITパスポートディスりやめてたげてえええ
+よしもとくんがかわいそうやぞｗｗｗｗｗ
+とってたんかｗ
+たしかとってたはず
+まあロールにはないし・・・
+<@!477125948282634240> ITパスポートとってたやんな？
+よしもとにITパスポートのロールくれ言われたけど却下した覚えあるｗｗｗ
+とってる
+やんな
+だそうですボス
+ｍｊｋ
+すまぬ
+あした東京湾に松浦沈んでると思う
+ひえええ
+いまから勝に連絡しとこうかな
+わざわざ東京まで行くのか
+ほな、また...
+いけ谷勝君に決めた！
+さらばボス！
+取り敢えず祈っとくわ
+＞　谷勝のだいばくはつ！
+＞　谷勝はたおれた！
+やったぜ
+なんかよわそうw
+＞ 松浦は勝利した！　42のけいけんちをえた！
+谷勝すばやさ低そう
+```
+【特性】老化
+  常時個体値すべて2割ダウン
+```
+おこられそう
+gomiやん
+おれがHALの名簿から消えたら察してくれ
+どこまで監視してるんや・・・
+`【夢特性】権力`あるから((((；ﾟДﾟ))))ｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ
+俺も学長大爆発させてるからみちずれされそう
+なにその神個体
+こわ((((；ﾟДﾟ))))ｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ
+https://emoji-gen.ninja/
+†谷勝†
+てきとうに絵文字作って追加してもらっていいよー
+
+
+仕事が早い
+やめｗ
+どうやって追加するん
+サーバー設定から絵文字ってところで
+多分権限はあるはず
+なかったわｗｗ
+付与しましたw
+さんくす
+アニメ絵文字は？
+https://qiita.com/zk_phi/items/8a24b8ad9d1eabd364aa
+ここでつくれるっぽい
+ちな動いてる絵文字はディスコードニトロいるから注意ね
+無理やんw
+
+高過ぎる
+みんなではらうんやで
+これ個人や
+まじか
+まじや
+nitroが個人、ブーストがnitroの人数でレベルが決まる
+ブーストがニトロの人数でレベル決まるの初耳だわ
+ええ商売しとる
+レベル３とかはなんか50人いるらしい
+見てきたけどブーストされた量っぽい
+ほんまや無理やん
+よくわからんな
+とりあえずブーストはnitroユーザーのみなのは間違いなさそう
+botでそういうの作るか
+だれが金出すんや
+えっ
+え？
+(|дﾟ)ﾁﾗｯ
+このサーバーに入ってるやつ全員からみかじめ料とるぞ
+それでもいいならやろか
+ひええ
+root権限つよいよお
+この鯖をseverboostしても絵文字使えるようにはならんのか
+うーん。。discordのシステムよくわからんｗ
+まあでもなくてもええやろｗ
+個人だけかあ
+最近課金コンテンツ多すぎて自分が何に課金してるか把握できなくなりそうでこわい
+ほんまに
+https://twitter.com/ds_nipponbashi2/status/1225650877001715713?s=12
+どこも月額何百円とかやけど数増えたらどえらい金額になりそう((((；ﾟДﾟ))))ｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ
+やばそう
+まじかよ
+おめっとさん🥳
+つよ
+すげえ
+安定のあいちゃん
+これが節約術
+尊敬ですわb
+j検やります🧠
+こういうときの<:__:675318565620154379>
+j検がんばれ
+あ、俺も受けるんやった
+がんばれー(他人事)
+がんばえー
+:color
+https://tenor.com/view/milk-and-mocha-hugs-bear-couple-love-cute-gif-12498539
+
+/pokekuji
+/pk
+/pk
+/pk
+/p 404
+/p 491
+/p 492
+
+うますぎ
+お絵描きの森
+むずすぎいぃ！
+https://pictsense.com/
+↑のサイトだとポケモンオンリーモードとかできるよ
+まじで
+お絵描きの森はIEじゃないとまともに動かん
+まあ部屋があったらの話だけどね
+
+やる？
+いっこあった
+やります？
+やるなら部屋たてるよ
+ならやるか
+https://pictsense.com/#!/1581087926314_168
+どうぞ
+
+意外とたまるんやな
+
+😉
+いつから位置情報のやつ使ってるん？
+いれたときから
+だと思う
+それは溜まる
+ウィークリー４万歩ぐらいだからそんなにあるいてない
+IEやったらいけたわ
+なんでどいつもこいつもクローム動かんのや...
+かわ
+どうする？やる？
+やるか
+おｋ
+https://pictsense.com/#!/1581089761235_233
+
+われながら下手くそすぎる
+たぶんしらんひと
+公開の部屋にしてる
+おけ
+野良おるから変な話するなたくみくん
+マウスがおもだよ
+ryoukaidesau
+了解です
+ポケモン縛り？？
+そう
+おけ
+しばりってかお題が出る
+あね
+わしのポケモンデータベースなさすぎてわからんｗ
+わかるひとすごすぎ笑
+わからんのだが笑
+はやすぎ
+むずいわ
+回答権がないわ笑
+ほんまにｗ
+知識がなさすぎる
+あれ？なんかインフレしてる気が...w
+たすけてくれ
+全くわからんわ
+画力あるかも笑
+今度やるときはカントーまでだわ
+優勝w
+わかんね
+ほんまに
+あれぱちだったの
+わかんないわ
+
+俺も思った笑
+松浦にかったからいいや笑
+松浦うますぎだわ…
+ほんまに
+みながらかいてるよそら
+カントーとホウエンにしてやる？
+せやな
+部屋作るね
+おけ
+それでもわからんかも笑
+ぱちもやろうぜ
+入るわ
+
+どれ抜く？
+BWとXYは抜いた
+なんでもええで
+ダイパま
+ダイパまででいいよ
+おｋ
+https://pictsense.com/#!/1581092532437_813
+PASS：HAL
+といれいく
+まっとくわ
+山根まだ配信してんかな
+してるよ
+ぱち戻ってくる？
+おえかきしよ笑
+いけるよ
+おもろいな
+お題他にも種類あるし
+ポケモン以外にもいっぱいあるから
+回答早すぎな笑
+ほんまにｗ
+一般人が知ってるのがいい
+また時間がある時にでも
+そかもな
+ポケモン名前が出て近
+それ
+自分DISCORDのライブで友達に手伝ってもらってたもん
+まじかw
+名前出てこなさすぎる
+ずるいぞ
+ずるじゃないもーん
+ちーたーｗ
+404 not found.
+でもワイの連勝やから＾＾
+つよすぎな
+ぐぬぬ…
+さすが
+あした８：００からバイトや
+終わったな
+きょうか
+がんばるんや
+うむ
+明日も暇や
+
+こんなのもあるよ
+
+あしたは試験やで？笑
+あね
+かわいい
+やべみすった
+ふぁｄｓｋｊｌｋｊｌｆだｓｋじゃｄｆｋｊｌふぁｄｓｋｊぁｄｓｆｋｊぁｆｓｄ
+なんだそのお題は...
+書けるようになりたいもんよ笑
+ノ
+おれも端くれやぞ
+飯落ち
+おつ
+何飯やw
+晩飯
+夜食はふとるぞ
+夜食
+あさやろ
+太らんのですよ笑
+へぇーーーーーー
+そうなんだーーーーー
+わけてw
+全部あげるわ
+それは要らんｗ
+俺の代わりに燃やしてくれ
+遺伝子改造すればわんちゃん
+(´･ω･`)
+夜食おいちぃ
+<@621717060757487643>
+こんにちは　J検終わりましたよ😉
+Moneytree更新されたらお金死んだ
+すまん、吉野
+w
+今月ガチ終わった
+なんもできねぇ
+今月始まったばっかりですよ
+募金待ってます。
+クラウドファンディングかな?
+ボス10万円ほどよろしく☆
+バイト代どこいったんや
+わいの手元にはあんま残らんのや
+ワシも無職やし🌴
+俺も10万ほしいわ
+働くんや
+(´･ω･`)
+ワイはバイト先(になる予定)から連絡来なくて一向に出れない
+それ通らんかったんじゃ…
+採用やったら電話するって言って木曜日に電話きてとれんくてかけ直しても店長おらんとかで話進まんまま連絡来ない
+あね
+リア凸するしかない
+店長やったらいる時間ほぼ固定やろから平日のひる〜夕方とかに連絡とったほうがいい
+店長夜勤やったら夜やな
+リかヰ
 がんばれ
-/pk
-/pk
-/pk
-/pk
-/pk
-/pk
-/pk
-/pk
-/pk
-/pk
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
+あと電話したときにまず店長いますか？聞くこと
+バイトのやつと話しても時間の無駄
+前もバイトの件やけど店長おる？って聞いたらおらんわーって感じ
+リア凸の方が早い気がしてきたな笑
+店長いついるか聞こ
+めんどいから今かけるわw
+やったれ笑
+店長おらんやってw
+いついるか聞かな
+なんか違う店舗にもいってるらしい
+それ店長か？
+オーナーじゃね？
+店長(笑)
+最悪他のコンビニに行くのもありやで
+それも視野
+なんか普通にそこの店ごみそうやし
+深夜バイト二人w
+普通や笑
+そうなんかw
+せやで
+少ないとこやったらワンオペやぞ
+ひえ.
+わりと誰かばっくれまとかでワンオペとかちょいちょいあると思うから笑
+入りたてでぼっちにされたら俺泣くで
+店長いないときにトラブったらオワオワリ
+それまじでやばそう
+セブイレがどうかは知らんけど多分コンビニのこと10教えてもらうことは絶対にないから笑
+店長ですら多分全て把握してないと思う。
+セブイレワザップ希望
+そんなものはない
+ATMからお金が出てこないとか言われることあるからな笑
+うわ〜知らんがな〜w
+そんときの対応とか知らんしみたいなこと笑
+コンビニのことを10としたときに教えてもらったことは1ぐらいやと思った方がいいべ
+電話きたわw
+おお
+採用やから火曜来いって
+時間帯いつでもいいって言うから12時って言ったら忙しいから無理って言われたwww
+コンビニなんてそんなもんや
+社会の理不尽を集めたみたいなとこやで
+まあ深夜やし時給1200あるからまあ及第点
+ばちこりもらっていけ
+1200...?
+？
+稼いでポケモンやろうと思ってたけど今中国の工場止まっててスイッチ少ないらしくて絶望
+22時以降やからそんなもんやろ
+スイッチは欲しいな
+色に拘らんかったら普通に買えるやろ笑
+多分笑
+転売ヤーが買い占め始めてるらしいから怪しい
+スプラやりたい
+まじか
+転売やーゴミやな
+コンビニ客ドンキの次にガイジ多そうで怖い
+おおいで
+立地にもよるけど
+深夜帯は客少ないけどガイジ多いから気をつけて
+大丈夫そう笑
+田舎の雑魚ヤンキーぐらいしかめんどくさいやついなさそう
+普通にオンラインストアでSwitch売ってるで
+まじか
+
+Google マップで見たけどセブイレなくてわろた
+更新されてない
+見晴らしいいな笑
+野生のセブンイレブンが飛び出してきた！
+稲枝もかんな感じやわ
+稲苗といい勝負してるんか
+見晴らし良いのは同じやな
+田んぼ多い感じ
+ええなぁ笑
+
+360°こんなんや
+野生のセブイレブン、俺の家の前においで^^
+稲枝やんw
+俺の地元稲苗だった
+
+w
+きれいやなあ
+今ここ家たってるけど
+田舎のGoogle マップ更新忘れがち
+やば、みんなど田舎やん
+確かに
+
+ぐっちゃんもゆーてやろ
+地元紹介して1番困る😰
+わかる
+わいのバイト先
+コラコラマウント取るな
+都会なんですわぁ
+は?
+🏙
+凸るか
+ええで笑
+ええんか...
+
+うちの元バイト先
+
+俺の学校都会やぞ
+それおれもやで
+まじ？
+やっぱ北区さいつよやわ
+ここやで
+もしかして同じ学校ですか！？？
+ここ学校の最寄駅なんだ😉
+しかも大阪駅から徒歩3分? 強すぎやろ...
+(｀･ω･´)
+10時に起きたんだけど、2度寝しましたヱ終わりました。バイトなうです。課題あります。色々オワタ
+えーぺっくすやってた時間課題やればよかったんじゃ(マジレス)
+その間もやってましたよ、その後もやりました。けど終わりませんでした(；ω；)
+眠気に勝てなかった
+合間にやってたのは果たしてやっているに入るのか(´・ω・｀)
+入ります(確信)
+それな
+マッチング中だけやろ笑
+ヱ…
+死んだ後もやったよ
+結論:自業自得
+木曜のペース考えたらどう考えても無理笑
+キャラだけ手を込むから大丈夫
+あとは並べるだけ
+まあ火曜日休みやしな
+バイトです
+※月曜提出
+なんのやつ？
+映画サイト
+あー
+あれ月曜なん
+金曜日に出して満足しちゃったわ
+どうしても木曜無理やったら月曜直で渡してくれたら受け取るよってだけ
+直？
+期限木曜なのは変わってない
+先生に直で渡さなあかん
+直で渡すとは
+USBに入れて渡すん？
+そう
+めんどw
+それかslackに
+めんどくないぞ！神対応すぎる
+木曜日で締め切ればよかったのに
+アーペックス楽しかったなー
+俺が直談判した
+紙対応してくれてるのにapexしてるやつ
+先生に土下座してこい
+ぱちはあずっちにやってもらってたやん笑笑
+してもいいぞ？
+何がなんでも終わらすけど
+まあ山根は優しいから
+あー苦労して欲しい
+わいこいつゲームしながら映画祭と作ってましたってチクるわ
+やめて…
+それだけはご勘弁を
+休憩終わるので、ノシ
+のし
+木曜日21時までやっても終わらんってどんだけでかいサイトなんや
+キャラ紹介の配置だけで１時間ぐらいやってた
+さえかのそんなにキャラ多かったっけ
+７，８人くらいやったはず
+キャラ画像と紹介文の配置にずっとこだわってはった
+そんなにこだわってるなら是非見てみたいわ
+バイト終わったら見せてもらお
+うへw
+<@!477125948282634240> awsのS3とかわかる？？
 /help
+/watch
+なんか他にもコマンド実装したいわ
+deep learningによる会話機能
+$omikuji
+いずれやってみたい
+めっちゃめんどそう
+ラズパイじゃ無理やな
+というか、ラズパイで動かなさそうw
+せやな
+家にあるCore2Duoでやるしか...
+学習部分とかもろもろの処理はそれなりのgpu積んだやつにやらせないとｗ
+/comp
+ラズパイでたたく感じやろｗｗｗ
+出番よRTX2070!
+24時間稼働させなあかんやつやんｗ
+googleのtensorflowにやらせたらいけるはず
+なんかgooglega
+GTX1050TI「くくく、やつはNvidiaの中でも最弱...!」
+まじで
+というか、APIがあれば話は早いけどな
+いやdiscord内の会話も学習していかなｗｗｗ
+せやな
+/talk
+<@647039527289880577> なんやお前w
+/talk
+どこ隠してんねんｗｗ
+/talk
+なんやw
+そんなことより投票機能が進まねえよ
+助けてクレメンス
+クラス化計画はどうなったんや
+ぐぐってもヒントでてこやん
+それがよくわからん
+あね
+```python
+class Voting:
+    def __init__(self):
+        elapsed_time = time * 60
+```
+引数ねえじゃん
+```python
+class Voting():
+    def __init__(self):
+        elapsed_time = time * 60
+```
+現在こんな感じです
+お
+ここからどうするのでしょうか。。。
+```py
+class Voting:
+  def __init__(self, set_time):
+    self.elapsed_time = set_time * 60
+```
+()いらないの？
+self入れんと、アクセスできんぞ
+()って？
+classに
+なくても動くはぞ
+そうなのか
+おけけ
+ソース全体みえないと何とも言えんな
+```python
+import discord
+from discord.ext import commands
+from discord.ext import tasks
+
+class VotingCommands(commands.Cog, name='投票'):
+    def __init__(self, bot):
+        self.bot = bot
+
+    @commands.command(name='voting')
+    async def voting(self, ctx, *args):
+        """投票機能だよ。"""
+
+        print(args)
+        answer = args[2:len(args)]
+        stamp = { 0 : '1⃣', 1 : '2⃣', 2 : '3⃣', 3 : '4⃣'} 
+
+        reply = '\r\n'
+        reply += '質問：' + args[0] + '\r\n'
+        reply += '時間：' + args[1] + '分' + '\r\n'
+        for i in range(0, len(answer)):
+            reply += stamp[i] + '：' + answer[i] + '\r\n'
+        reply += '\r\n'
+
+        message = await ctx.send(reply)
+
+        for i in range(0, len(answer)):
+            await message.add_reaction(stamp[i])
+
+        time = args[1]
+        @task.loop(second=1)
+        async def loop_cheack():
+    
+
+def setup(bot):
+    bot.add_cog(VotingCommands(bot))
+```
+↑voting.py
+```python
+class Voting():
+    def __init__(self, time):
+        elapsed_time = time * 60
+```
+↑main.py
+わしさ、思いついたんやけど
+はい
+スレッド化したらいけるんじゃないかと
+スレッド化とは
+そっちの方が管理が楽説
+スレッド化とは
+非同期にするかんじ
+async
+やったっけ？
+それはちょっと特殊
+違うのか
+threading.Thread()っていうやつ
+初見ですね(´・ω・`)
+Pythonの専科でやってたと聞くぞ
+しらんぞ
+たくみに
+ま？
+無駄なとこに非同期処理やっててワロタ
+？？
+よくわからないんだよ。。。(´；ω；｀)ﾌﾞﾜｯ
+すまねえ
+おう
+https://qiita.com/castaneai/items/9cc33817419896667f34
+タイマーを非同期処理するの？
+とにかく処理を並行にできるモジュールがあるんよ
+そう
+それを使えば1秒ごとに～みたいなことしなくてもいいかも
+まじか
+ま
+たぶんな
+main.pyのclassはいる？
+いらんな
+ｗ
+@task.loop(second=1)もいらんかも
+おけ
+$votingがきたらスレッドスタートさせたらええんかな？
+そんなかんじ
+なるほど
+スレッドプールのスレッドをつかいまわすってなんなんや
+メモリ節約のことかもね
+やっといた方がいいかもなそれ
+ただスレッド数の決め方わからん(´・ω・`)
+スレッド数決めると同時受付できるのがその数になるぞ
+ほかの鯖とか含めてなんかな？
+たぶん
+それはまずくないか？
+わてのスプラメンバーの鯖にもバイパーちゃん入れてるし
+あね
+herokuのこと考えたら設定した方がええんかなあ
+threading使う案あったけど、discord.py特殊やから使えんことが分かった
+すまんな
+まじかよｗｗ
+でも代わり見つけた
+discord.pyめんどいなｗｗｗ
+もっと簡単なのｗ
+おお！
+https://qiita.com/rareshana/items/76d9c9d0fa68ec242d13
+asyncio.ensure_future()を、vote受け取ったときにやれば
+結局asyncじゃね？？ｗ
+やな
+もどってきたなｗ
+おかえりｗｗｗ
+async「ただいま」
+とりあえずそれでやってみよ
+せやな
+$voting Windowsアップデートは？ 1 最高 ゴミ
+<@!646929488927784960> タイマーセットいけた！
+$omikuji
+くさ
+ないた
+でも今日はあと2時間で終わるから((((；ﾟДﾟ))))ｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ
+おお！
+ちゃんと帰ってきてる！
+あと結果の表示だね
+ここまで行けたら何とかなりそう
+スタンプの数カウントして表示させるだけや
+すげえ
+つい最近同じようなの見てたわｗ
+$omikuji
+$help
+$ping
+discord.pyのリファレンス英語で死んだ
+$calc 931 / (810 + 3)
+$calc (931 / (810 + 3))
+$calc931/(810+3)
+$calc 931/(810+3)
+絵文字カウントするのまじでわからんのやけど
+というかぐぐってもでてこない？
+$calc (931/(810+3))*100000
+まじで
+ボス、help me
+おれのググり方がわるいだけかもしれやんけどｗ
+https://qiita.com/jp8h/items/56783264ea8d51bbca73
+それ見たけどよくわからんかった
+これのrewrite版のコードで行ける
+reaction, user = await client.wait_for('reaction_add', timeout=settime, check=check)
+そのコードはいったい何をしているのでしょうか
+これで、リアクションしたユーザーとスタンプを返す
+'reaction_add'は、discord.pyのモード。ファイル操作の'r', 'w'と同じ感じ
+timeoutは制限時間
+なるほど
+checkは条件指定
+```py
+    def check(reaction, user):
+        emoji = str(reaction.emoji)
+        if user.bot == True:    # botは無視
+            pass
+        else:
+            return emoji == '1⃣' or emoji == '2⃣'
+```
+戻り値はbool型じゃないとダメっぽい
+↑viperちゃんの場合はこんな感じ
+reaction.emojiってなんなん？？
+ググったけどでてこやん
+リアクションで付いた絵文字
+str(reaction.emoji)で、付いた絵文字が取得できる的な
+なるほど
+discord.py便利すぎやろ
+おれにはさっぱりやわ。。。
+奥が深い🤔
+まじで
+discord.pyめっちゃ良心的やで・・・
+わけわからなさ過ぎて頭痛い
+ｍｊｋ
+mjd
+結構ニュアンスでわかるからdiscord.py好き
+なんでわかるんだよ(´・ω・`)
+なんかこう、欲しい関数全部そろってるみたいな
+コード見ても何してる関数かわからん
+動きゃええんやで。
+動く以前に書けない(´；ω；｀)ﾌﾞﾜｯ
+(´・ω・`)
+さっきのcheckのやつも引数はどこからとってくるん？
+あね
+それ、discord.pyが勝手に入れてくれるんやで
+謎過ぎる
+そういう部分結構多いからしゃーない
+ほんまにｗ
+最初まじで困惑するｗ
+もうやだ。。。(´；ω；｀)ﾌﾞﾜｯ
+掟やと思ってやるんやで
+ひええ
+ちなみになにがはいってるの、その引数
+reactionはリアクションに関してのオブジェクト
+userはリアクションしたユーザーのオブジェクト
+リアクションに関してのオブジェクトってなんですか？(´・ω・`)
+discord.pyの仕様書みるんやで＾＾
+リファレンス？
+そそ
+あれどこに書いてあるかわからない。。
+書いてないな
+？？
+書いてないの？
+reaction.emojiとでしか使わない感じっぽい
+意味わからん。。
+オブジェクトといったな、あれは嘘だ。
+ええ。。。
+変数っぽい
+その変数には何が入ってるの？
+reaction.emojiの中に、絵文字の文字列、userにリアクションしたユーザーの文字列
+そっちじゃなくてreaction,userの方です。
+あ、
+ごめん
+なんでもない
+ほい
+これユーザーをカウントしたらいける？
+?
+投票結果のそれぞれの投票数
+あね
+そうやな
+emojiごとのユーザーの数のカウントしてそれを表示みたいな
+それで行けると思うで
+おけ
+さすがやで
+ありがとう
+さすがわれらがボスやわ
+konbinimaster-yaaneに質問
+※マスターではない
+業務中に買い物したら殺されますか？
+セブンイレブンはしらんけどローソンは大丈夫
+ふつうに飲み物とか買うぞ
+ほーん
+スマホ出してdポイントアプリでためてスマホIDで決済
+夜中に出した商品即買いできるのつよいな
+せやな
+/pk
+
+<@646929488927784960> ボス、’reaction, user = await client.wait_for('reaction_add', timeout=settime, check=check)’多分、clientがないので無理っす…
+<@!548359525703483392> help me
+はい
+dennwadekimmasuka?
+おう
+onegaisimasu
+うい
+かけておいで
+<@621717060757487643> 今どんな感じなん？
+<@!548359525703483392>
+上のやつ client を bot に変えたら大丈夫だと思うよ
+たぶん
+だめやったわ
+まじー
+安定のnameerror
+discord.extでやってるんだよね？
+?
+discord.pyのこと？
+のフレームワーク
+使ってないならクライアントあるはずだけど
+わからん
+あ
+多分使ってる
+インポートしてるわ
+やったらクライアントの代わりがbotって説明書(?)に書いてあったんだけどな
+わからんわ
+discordわからんわもう
+ｗ
+
+これ嘘か？
+わからん
+やっぱ松浦様じゃないとだめだわ
+ふつうにリアクションのデータを取得したいだけなんだけどなあ
+ctx.reactionにしてみるとか
+もうすでに試したｗ
+😫
+ぐぐってもみんなclient使ってるんだよなあ
+でもフレームワーク使うと楽だしなぁ
+フレームワークの使い方がわからないのでオワオワリ
+諦めて配信するわ。。。
+てか普通にclient使えばいいのでは
+clientをctxにしたらいいはず
+/pk
+あーselfがいるのか
+せやな
+ちょっと考えたらわかりそうだし悔しい
+Pythonのクラスはちょっと特殊やしな
+rewrite版のソースコード例全然なくて萎える
+今気づいたけどここコマンドのチャンネルじゃね
+メイキングのチャンネルじゃなかった
+ほんまや
+$omikuji
+/pk
+うわ！なんだこれ
+/pk
+/pk
+/ pk
+/pk
+/pk
+めっちゃヌルヌル動くやん
+ロード画面入れてみた
+/pk
+ワイの一押しマイナーキタ
+/pk 272
+/p 272
+/p goodra
+今日っていつもどおりやんな？
+なんか教室少ないねんけど
+え、授業始まってるけど
+？
+DB？
+今日153
+え？？
+ごめんうそ
+ガセやめろ
+コロナで今日学校ないで
+まじか、じゃあ帰るわ
+ごめんうそ
+/pk
+/help
+/mine
+/mine
+
+すげ
+暇人かよw
+/pk
+
+/pk
+https://twitter.com/itou8/status/1226537118970761217?s=12
+https://twitter.com/irr1004/status/1226369609516797957?s=12
+```
+   result = disord.Embed(title='アンケート結果', description = args[0])
+NameError: name 'disord' is not defined
+```
+これってdiscord.py読み込めてないの？
+/pk
+/pokekuji
+$help
+/pk
+本日の滋賀県
+/slot
+/pk
+/pk
+/slot
+/slot
+/slot
+/slot
+一生そろわんやんこれ詐欺だ！
+理論上そろうはずやw
+わしも揃ったことない
+/pk
+https://pictsense.com/#!/1581345970598_183
+もうちょいしたらいくわ
+俺の名前aaな
+はええ
+$voting Windowsアップデートは？ 1 最高 ゴミ
+ようやくできました
+おお
+お待たせしました。
+$voting Windowsアップデートは？ 10 最高 ゴミ
+いまからmasterブランチの方へブランチしていきます。
+あ、これまだ×６０してないから
+maji
+たぶんそれやと100秒のはず
+あね
+作ってるとき1分も待つのだ類からw
+できてるできてる
+ちゃんとカウントされてるな
+されてるべ
+やったぜ
+わかんないぽよ
+$voting ボスに対しての評価は？ 10 最高 どちらかといえば良い どちらかといえば悪い ゴミ
+10分後の48分くらいに締め切られるはず
+みんな場チコリ投票してくれ
+そら1やろ
+それを再検証するんや
+バイパーちゃんかえってこなくね？？
+ほんまや
+```python
+        voting_time = int(args[1]) * 60
+```
+これで分単位やんな？
+そのはず
+なんでや
+/slot
+それくらいしか触ってない
+timeout=60で1分のはず
+$voting ボスに対しての評価は？ 10 最高 どちらかといえば良い どちらかといえば悪い ゴミ
+ミスった10分のままや
+$voting ボスに対しての評価は？ 1 最高 どちらかといえば良い
+あれ？
+きたｗ
+なんでや
+なんかタイムアウトしたりするんかな？
+質問4つにしてみて
+$voting ぐっちゃんに対しての評価は？ 1 最高 どちらかといえば良い どちらかといえば悪い ゴミ
+
+参加人数やばすぎ
+ちゃんと帰ってきてる
+ほんまにｗ
+しかも回答当ててくるしｗ
+1??
+なんでやろな
+？？？
+$voting ぐっちゃんに対しての評価は？ 1 最高 どちらかといえば良い どちらかといえば悪い ゴミ
+とりあえずherokuの方だけ
+人数一人多いなｗ
+これ過去のやつひろってない？？
+よくわからんなあ
+ソースコードみるわ
+おけ
+10分になるとダメなん？
+ぽい
+よくわからん
+エラーログみおれんの？
+エラーない
+なぞ
+それな
+タイムアウトに制約なさそうやけどな
+なんか入れる数字間違ってるんかな
+$voting ぐっちゃんに対しての評価は？ 5 最高 どちらかといえば良い どちらかといえば悪い ゴミ
+discord.command使うとエラーログ出てこんからな
+まじか
+ひとおおすぎるからぬけるわ
+サブ垢くさいのおる
+まじ
+3人になったｗ
+
+ふざけんな
+くさ
+なんじゃこりゃ
+お
+5分やのに10分とな
+１１票拾ってるのは仕様なのこれ
+$voting ぐっちゃんに対しての評価は？ 1 最高 どちらかといえば良い どちらかといえば悪い ゴミ
+これデバッグ中か触っちゃったわすまん
+大丈夫やでｗ
+あれ
+きった？
+なんもしてないで
+一分やで
+挙動が謎
+リアクションが消えたりついたりしてる…
+あんていしてない
+あ、わかった
+おお
+なるほ
+わーお
+ひええ
+ここも直さんとなｗ
+<@!594470530250309640> はゴミちゃうで...😉
+これはリアクションついた時の処理のときに集計までしちゃってるだけでしょ
+それ
+<@!646929488927784960> わかってるよ😉
+で、制限時間て言ってたけど、絵文字押されなくなってからの制限時間なんよ
+あーね
+まじか
+やな
+だから一応動いてる
+$voting ボスに対しての評価は？ 10 最高 どちらかといえば良い どちらかといえば悪い ゴミ
+スタンプ送ったら、制限時間がリセットされる
+挙動が面白いね
+なんでそうなってるんだろう
+例の関数か
+wait_forやな
+なんたらfor
+/slot
+そうそれｗ
+wait_for先輩？！
+これも、1分間触らんかったら終了するし
+㊙️ ←これすき
+ヒミツ
+直すのぜ！
+直すといってもどうしたらいいのでしょうか？？
+wait_forの戻り値にuserあるからそれで一人一票しか投票できないように配列とか使って制御しんとな
+連打しまくれるのはまずい
+あしたDiscordの画面共有でみんなで話しながらやったら楽しそう
+（なお作業は進まない模様）
+HEWか
+めんどくさそうｗ
+配列使って一人一票←？！？！
+くさ
+情報操作や！
+もうわけわからんよ…
+date関数使うのも手って思ったけどtaskloop使わないと無理だからめんどいわ
+
+みんなうまいよ…
+うますぎｗ
+マリィとブリムオンうま
+明日やるわw
+/slot
+/slot
+/slot
+やっぱそろわんわ…
+スロット回らんくなったんやけどｗ
+ね
+そっちは？
+回らないよ＾
+まじかｗ
+/slot
+２人同時でやったらおちるんかもなｗ
+かもね
+ひんじゃくすぎんよー
+あ、あとポケくじの速度上げました
+/slot
+/pk
+あれw
+/pk
+リクエストタイムアウト
+/pk
+/pk
+あれw
+こいつタイプ炎？
+タイプヌルは強い
+てかロゼリアもタイプおかしくね？
+水炎はやばい
+たしかに色はみずほのおっぽいけどｗ
+直します
+さっきのスロットでぐちゃぐちゃになったんじゃね
+ラズパイに負担かかったかもw
+DDoS攻撃や
+/pk 406
+めっちゃ炎付くやん
+再起動しなあかんわこれ
+ボロボロすぎて笑う
+/pk
+だれだこれ？！
+/pk
+あれれ～おっかしいぞ～？🙄
+熱烈なみずほのお押し
+いまAPIみたけどそらみずとほのおしかでないわｗ
+まじ？
+/pk
+お
+直した
+/p goodra
+ちょっと早くなったやろ？
+/pk
+dictにしたん？違いはわからんけど
+そう
+あがったやろ😡
+絶対面倒だったでしょ
+違いはわからんけど
+ダルかった
+おつかれさま
+違いはわからんけど
+<:e85192b949fb6249:672259918287470592>
+/slot
+やったぜ
+うおおおおお
+$help
+$ping
+$voting てすと 5 いち に さん よん
+それはまだやでｗ
+ストレージ
+あらすまん
+今pc触りだしたばっかやでｗｗ
+とりあえずばいぱーちゃんのキャラ修正しただけw
+ストレージの機能だけ？
+/pk
+静的サイトならそこに置くだけでホームページとして使えるとか
+$calc 15 + 52
+https://aws.amazon.com/jp/s3/
+$calc 15+52
+演算子の間に半角スペース入れたらあかん見たい
+公式ドキュメント読むのが一番早いで
+$help
+おけ、さんきゅ
+結局hewの期限いつまでかわかる人ノ
+金曜日説はどうなったん
+それの真相を知りたい
+金曜日までや
+わ
+メモってた
+まじか
+おわらんぞ
+2/14って書いてあった
+おわた
+今日中に終わらすんやで^^
+きつｗ
+(俺も終わってないけど)
+canvasのチュートリアル消えててきついのにｗ
+乙や
+@everyone みなさんHEWの進捗どうですか
+ぜろ
+わし2割ほど...
+canvas捨てようか考えてるw
+あきらめんなよ！(CV:松岡修造)
+$help
+$spl_stage
+--wea hikone
+--help
+--hello
+--wea zeze
+暑すぎわろた
+市町村までしか対応してない
+英字だったら外国
+--wea 彦根
+漢字も無理
+--wea otsu
+あね
+zeze都市ってあるんやなｗ
+あー結果が英字だったら外国
+語弊があったわ
+なるほど
+$spl_stage
+全表示まではできた
+apiあると便利やね
+$help
+$help
+ありゃ？
+なんかきえたｗｗ
+herokuってどうやってログみたらいいの・
+？
+$help
+$spl_stage
+どうなってるんや
+heroku鯖の方だけ動かん
+同じマスターブランチのはずやのに
+$spl_stage
+$help
+$help
+/help
+GitHubのリンクでるのありがたい
+/talk
+/slot
+/pk
+/pk
+/pk
+おお
+/pk 278
+/p 278
+/p 279
+/p goodra
+すばやさが速度って書いてあるのちょっと面白い
+直訳あるある
+/pk
+!?
+/p pikachuu
+/p pikachu
+仕事が早い
+スペルミスでした
+あとすばやさにした
+$help
+$voting あなたのHEW課題進捗率ha 60 0% 20% 50% 100%
+!join
+!play https://www.youtube.com/watch?v=AxvmiSURgD8
+!play 女の子になりたい
+!play https://youtu.be/oVEOGz4q94E
+!play https://www.youtube.com/watch?v=ucbx9we6EHk
+!play https://youtu.be/oVEOGz4q94E
+だれやゆゆうた入れたヤツ
+💩 ←これやめなさい
+うわああ
+サウンドミュートしたわ…親いるし
+山根の置き土産や
+<:doraemon:669761524134576140>
+!play https://youtu.be/00o1a7gTl9I
+ふるえる
+!https://www.youtube.com/watch?v=75GL-BYZFfY
+!play https://www.youtube.com/watch?v=75GL-BYZFfY
+!play すーぱーぬこわーるど
+こっちのほうがすき
+!play https://www.youtube.com/watch?v=KRSzKCFsTVA
+まふまふすきやな
+最近ハマってる
+はーまふまふの声帯ほしかった
+聞いてると人間やめたくなってくる
+!play https://www.youtube.com/watch?v=ajjN7eAnyZE
+明日か明後日どっちかお弁当なしなんだけどどっちがいいかな
+!play https://youtu.be/2dJfxy8DIto
+<@!164943921217142785> 両方
+両方はやばい
+断食や
+いや、外で食べれるから
+いいや断食や
+どっちのほうがいいだろうっていう
+いやや！
+断食以外の選択肢はない
+無理せんでええで＾＾
+無理して食べる必要ないぞ
+!play https://youtu.be/gauEUNi0X_U
+!summon
+!play https://www.youtube.com/watch?v=ajjN7eAnyZE
+discordのliveって音入るたっけ？
+入ったっけ？
+!skip
+デスクトップ画面の共有いがいは入る
+なるほど
+
+これの画面が入らない
+申請はそのウィンドウの音だけはいる
+はず
+!play https://www.youtube.com/watch?v=AxvmiSURgD8
+!skip
+itunesをキャプチャすれば曲聞けるってことやな
+天才やん
+おお
+今流してるけどどうや
+まったく聞こえなかった
+ちいさい
+ながれてるの
+あ、流れてる！
+流れてる
+音上げた
+小さいけどｗ
+どうやって音上げるんや
+itunesの方はマックスやぞ
+pcの音声ミキサーあげてみたけど
+どう？
+変わらんな
+pythonで 60÷60したら1.0になるんやけどどうやったら１になるんや…
+変わってない
+まじか
+int()で
+intにしてるはずなんだけどなー
+int(60/60)じゃいかんのか
+両方type()で調べるしかない
+皆さんの方でおんりょうあげることできないん？
+残念ながらMAXや
+限界まで上げてるんやけどね
+オワオワリ
+obsかましてもあかんかな・
+？
+obsに変えてみた
+まって誰も入って無くね？？
+あ、おった
+なんも聞こえんぞ
+だめかー
+厳しそうやな
+やっぱマイクで直どりするんやで
+音質がた下がりやぞ
+mp3やったらjMusicbotつかったらいけそう
+jMusicbotとは
+Rythmの自家鯖用みたいなの
+おお
+>play https://www.youtube.com/watch?v=AxvmiSURgD8
+ありゃりゃ
+1誰か連打したなｗ
+リアクション押されなくなってから60分だからねー
+それ
+やし時間がずれる
+>stop
+jmusicめんどくさいなｗ
+いまPython版とJava版ちょっといじってる
+Python版の音の安定性抜群で驚いたわｗ
+え
+pythonのほうがいいの・
+？
+今試したらそうやった
+んじゃpythonにするわ
+rythm以上の安定性やぞ
+!play https://www.youtube.com/watch?v=AxvmiSURgD8
+ダウンロード結構時間かかりそう
+!play https://www.youtube.com/watch?v=AxvmiSURgD8
+!play https://youtu.be/nEoGEPW-_zE
+!shutdown
+!play https://www.youtube.com/watch?v=AxvmiSURgD8
+!skip
+!shutdown
+お
+!play https://www.youtube.com/watch?v=TA5OFS_xX0c
+!stop
+!summon
+DefaultVolume = 0.5
+にしたほうがいいよ
+したぞい
+勝手に再生リスト生成するのなんとかならんのかな
+コマンド干渉するから変えた方がいいかも
+autoplaylist.txt消せばええで
+CommandPrefix = >
+消したのに再生されてるのなんなんや
+UseAutoPlaylis = no
+AutoSummon = no
+たぶんいけた？
+なんなんやこいつ
+あれ
+うざすぎる
+毎回勝手につべからダウンロードしてくるんやけど
+autoplaylist.txt消した？
+けしてる
+これ多分曲をどっかのフォルダにいれるんやろ？
+わいapplemusicやからほとんどプロテクトかかってるで
+まじで
+まじや
+やったら無理かもな
+多分あかん
+あともう設定めんどくさいw
+速攻でBANしてワロタ
+もう用済みや
+!join
+!play https://youtu.be/zoEE-XaA5X8
+もうrythmでいいよ
+!play https://youtu.be/VCC6-4-ODUM
+$help
+/pk
+/slot
+$help
+/pk
+/pk
+/poke
+/p 279
+/pk
+$help
+/pk
+
+かわいいけど違う
+これは違うわ
+なんか女性向けみをかんじる
+前髪短い
+/pk
+/slot
+/slot
+/slot
+$help
+$help
+$spl_stage
+んどぉおしてだよおおおおおおお
+$spl\stage
+$spl_stage
+んなんでだよおおおおおお
+$spl_stage
+$spl_stage
+$spl_stagee
+$spl_stage
+$spl_stage
+$spl_stage
+$help
+$help
+Herokuあかんのかw
+なんでかわからん
+モジュール読み込めてないとかある？
+api叩くのにjsonとlocaleのモジュールwo
+を
+インポートしてるねんけど
+コードみるわ
+あざす
+モジュール説あるかもな
+モジュールが問題やったらHerokuのログに出てる
+ログの見方がわからんのじゃ
+ログ見れた
+`error: ModuleNotFoundError: No module named 'requests'`
+こいつやな￥
+$help
+$help
+$spl_stage
+$spl_stage
+$help
+なんかlocaleでエラー吐いてる
+```
+ discord.ext.commands.errors.ExtensionFailed: Extension 'mods.func.splatoon' raised an error: Error: unsupported locale setting
+```
+非対応だと
+まじかよ
+```python
+locale.setlocale(locale.LC_CTYPE, "Japanese_Japan.932")
+```
+ここのコードがだめらしいねんけどおれのPCでエラー吐いたときに対処でこのコード追加してるねんなあ(´・ω・`)
+あーでもその前に
+？
+No named module 'requests'
+が気になる
+それはもう済ました
+あーそうなん
+requirements.txtに追加下で
+もうでてないん
+したで
+大丈夫なはず
+$spl_stage
+修正してマスターブランチにつっこんでからはそのエラー出てない
+その代わりにlocaleでエラー出てる感じ
+```py
+locale.setlocale(locale.LC_TIME, 'ja_JP.UTF-8') 
+```
+これにしたら?
+おけ
+やってみる
+これマスターブランチで動かしてみないとわからんのだるいな
+ほんまに
+ja_JP表記よく見るからこれじゃね
+てかぐっちゃん前のbotでどう設定したん
+locale設定してない
+9時間マイナスでやってた
+あね
+ゴリ押し
+$help
+あれ
+ログの方は?
+同じやな
+localeでエラー吐いとる
+同じ場所か
+discord.ext.commands.errors.ExtensionFailed: Extension 'mods.func.splatoon' raised an error: Error: unsupported locale setting
+と吐いております
+locale.setlocale(locale.LC_TIME, 'Japanese_Japan.UTF-8')は?
+というか、この項目削除したらどうなん
+今削除してみた
+herokuって鯖海外？
+せやな
+ハワイや
+あめさば
+はわいやっけ
+あー
+しらん
+なるほど
+$help
+きた
+お
+困ったもんやな
+$spl_stage
+おお
+時間あってる?
+さすがに開発環境鯖と国は合わせられん
+あってる
+あってる
+$spl_stage
+コード見たけど差分とかやってなさそうやし
+いけるかもな
+多分これで大丈夫やろww
+ええじゃん
+よかた
+やったね
+https://youtu.be/gH_UcOskvFU
+<:migf:672832067691872259>
+同リアクションすればええんや
+申し訳ないが滋賀県を下げるのはNG
+$help
+そういえばみたらいどうなったの
+LINEできた
+discordなしで大丈夫？
+よーわからん
+課題内容全然知らん感じやったし
+それ白砂
+は
+えぇ.
+..
+一応内容送っといた
+けど既読つかないw
+まあボスに任せるわｗ
+ボスも鯖招待はできるはずやから
+おけ
+$voting 😥💻✍️⏳⚖️ 60 🤪🎮⌛ 😪🛌⏰ 😤💻👍 😒💻🌄
+/slot
+phpの課題って二つあるんやな😇
+せやで
+sessonの方は次回やったはず
+いま起きた〜、うげ。課題します
+…ノートどっかいった。
+課題内容わかんない。
+@everyone 今日提出の課題概要わかる人教えてください。
+さすがboss
+https://www.youtube.com/watch?v=CokWbIFz7sM&feature=share
+https://www.youtube.com/watch?v=pL0ouzeZKsI&feature=share
+
+これisなに？
+$pk
+/pk
+//pk
+/pk
+/slot
+/slot
+/slot
+/slot
+/pk
+/pk
+/pk
+/pk
+/pk 396
+/pk765
+/pk 567
+$spl_stage
+/pk
+https://qiita.com/shinichi-takii/items/00aed26f96cf6bb3fe62
+/pk
+/pk
+/pk 666
+/pk666
+/pk 666
+/pk666
+/pk 666
+/pk 62
+/help
+/poke 275
+/poke 666
+/pk
+/pk
+<script>while(1) alert('MATSUURA')</script>
+/help
+/js```
+console.log('あああああああああああああああああああああああああああ');
+```
+|a|
+||a||
 /pk
 /pk
 /pk
 /pk
 /pk
 /pk
+/gucchan
+/Gucchan
+/ぐっちゃん
+/グッチャン
+ぐっちゃんオタクやん
+/pk
+/iphone
+/help
+/now
+/watch
+/pk
+in稲枝(´・ω・｀)
+サイトの素材確定
+気付いたら最寄り過ぎてたから稲枝までノリで行ってきたわ
+https://twitter.com/plus_one_masaki/status/1227566179574669313?s=19
+PMがクソすぎるのはわかった
+胸糞ですわ😡
+都市伝説かと
+やべえな
+死にたくないよお...
+$voting あなたのHEW課題進捗率ha 60 0% 20% 50% 100%
 /pk
 /pk
+/pk
+phpきれそう
+松浦と逆でissetじゃあかんかった。emptyじゃないとうまくいかないやつでキレそう
+どのパターンやった?
+/pk
+hewのプレゼンのフォーマット
+<@!621717060757487643>
+/pk
+課題表紙no.6&7提出
+```
+IH11 No.6
+タイトル:画面イメージ図
+```
+```
+IH11 No.7
+タイトル：HEWプロトタイプ完成
+
+課題フォルダ2番に提出
+前回のデータを上書きする
+```
+出席停止の場合は提出期限過ぎても復帰後提出できるのである程度元気になったらとりかかってちょ
+７ができたらプレゼンの上のフォーマットを使ってプレゼンボードの作成
+```
+プレゼンボード
+提出期限：しらん
+フォーマットにある緑のヘッダー、フッターの色の変更・文字の変更は✖
+その中の部分を作る。フォーマット通りに操作説明や見どころを書く必要はなく自由に埋めること
+なんかあればきいてくれ
+```
+/pk
+/mine
+
+すげ
+もっと増やしたほうがいい？
+うん
+おけ
+まってて
+確率上げた
+/mine
+一行の爆弾率1/15 → 1/8にした
+/mine
+> ```
+> プレゼンボード
+> 提出期限：しらん
+> フォーマットにある緑のヘッダー、フッターの色の変更・文字の変更は✖
+> その中の部分を作る。フォーマット通りに操作説明や見どころを書く必要はなく自由に埋めること
+> なんかあればきいてくれ
+> ```
+> ```
+> プレゼンボード
+> 提出期限：しらん
+> フォーマットにある緑のヘッダー、フッターの色の変更・文字の変更は✖
+> その中の部分を作る。フォーマット通りに操作説明や見どころを書く必要はなく自由に埋めること
+> なんかあればきいてくれ
+> ```
+一応提出期限は来週の金曜日
+
+/mine
+答え合わせ機能つけた
+/mine
+あと確率上げた
+/help
+/mine
+$omikuji
+語尾変わってるやんｗ
+$ping
+ちょっと前にやったｗ
+$pingはまだか
+語尾「だよ」が正解
+おみくじの方はミスってるだけやと思う
+$help
+あ、そうなんｗ
+基本的に口数少なそうなイメージのキャラ設定でww
+あね
+$spl_stage
+高校時代に作ったくそVBA
+もうほぼ忘れたわ
+excelってこんなんできるんやね
+マリオブラザーズ作る人もいるくらいやしな
+ひえっ
+ちなみにメールアドレスとか映ってるけど大丈夫なんですか？
+えｗ
+作成者のところにフルネームとメールアドレスがある
+どこや
+/pk
+https://web.archive.org/web/20181106122755/https://qiita.com/administrator1974/items/387aab2a42bf57e3b215
+https://qiita.com/kituneponyo/items/efa81963d667994fc504
+> 一応提出期限は来週の金曜日
+ごめんめっちゃ嘘ついたわ、来週の金曜日休みやん
+/pk
+ただ飯バンザイ
+/pk
+/p 279
+
+
+それGIF?
+うん
+
+
+
+<@!548359525703483392> 
+<@164943921217142785> 
+教えてくれてありがとう
+熱やっと引いてきたからもうそろそろ大丈夫やと思う
+よかったよかった熱引いたんやね
+病院でインフル専用の点滴も入れてもらったから前年度と比べてだいぶ治りが早い
+去年も一昨年もインフルエンザってこと覚えられてたわ💦
+ばちこり直していけ
+/mine
+/mine
+マインスイーパーみたいだなこれ笑笑
+明日、明後日には完璧に治ってるかなぁ〜って予想します
+/help
+<@621717060757487643> マインスイーパです。
+おぉ、当たってた笑笑
+
 /slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
-/slot
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/p28
+/p 28
+/p 1
+/p 1
+/p 1
+/cp
+/pc
+https://wiki.xn--rckteqa2e.com/wiki/%E6%80%A7%E6%A0%BC%E5%80%A4
+？？？？？？？？
+ポケモンってこんなに複雑やったっけ...
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/p 678
+/pc 678
+/p 678
+/pc 678
+/p 678
+/p 678
+/pc 678
+/catch
+/pc
+/pc
+/pc
+/pc
+/pc
+/p 32
+/p 32
+/p 29
+/p 29
+/p 678
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/help
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/catch
+/help
+/catch
+/pc
+/pc
+/pc
+/pc
+/mine
+/pc
+/pc
+/pc
+/pokecatch
+/p 678
+/pc
+/pokecatches
+/pc
+/pc
+/p mew
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/p 678
+/p 678
+/pc
+/pc
+/pc
+/pc
+/p ditto
+/p 132
+/p 132
+/pc
+/p 132
+/pc
+/p 132
+/p 132
+/pc
+/p 132
+/p 132
+/pc
+/p mew
+/pc
+/pc
+pc
+/pc
+/p 678
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+$spl_stage
+/pc
+/p 662
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/p 478
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/p 678
+/p 678
+/p 678
+/p 678
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/calc
+/pc
+/calc
+/pc
+/p 6
+/p 670
+/pc
+/ping
+/ping
+/ping
+/ping
+/ping
+/ping
+/ping

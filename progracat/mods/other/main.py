@@ -16,6 +16,11 @@ class OtherFunctions(commands.Cog, name='その他コマンド'):
     async def ver(self, ctx):
         """ バージョン確認するぞ！ """
         await ctx.send(ctx.author.mention + ' バージョンは'+ __version__ +'だぞ！')
+    
+    @commands.command()
+    async def ping(self, ctx):
+        """ 応答時間確認するぞ！ """
+        await ctx.send(ctx.author.mention + ' 応答時間は'+ str(round(self.bot.latency, 4) * 1000) +'msだぞ！')
 
     """
     メッセージを受信したときのイベント
@@ -28,7 +33,7 @@ class OtherFunctions(commands.Cog, name='その他コマンド'):
         if message.content.find('完全に理解した') != -1:
             await message.add_reaction('🤔')
 
-        elif message.content.find('炎上') != -1:
+        elif message.content.find('炎上') != -1 or message.content.find('爆破') != -1:
             await message.add_reaction('🔥')
     
         elif message.content.find('ハゲ') != -1:
@@ -57,12 +62,18 @@ class OtherFunctions(commands.Cog, name='その他コマンド'):
     
         elif message.content.find('尊い') != -1:
             await message.add_reaction('☺️')
+        
+        elif message.content.find('ヨシ！') != -1:
+            await message.add_reaction('👈')
     
         elif message.content.find('おめ！') != -1 or message.content.find('おめでとう') != -1:
             await message.add_reaction('🥳')
 
         elif message.content == 'ぬるぽ':
             await message.channel.send(message.author.mention +'■━⊂( ･∀･) 彡 ｶﾞｯ☆`Д´)ﾉ')
+        
+        elif message.content == 'むりぽ' or message.content == '無理ぽ' or message.content == 'むりぽよ'  or message.content == '無理ぽよ':
+            await message.channel.send(message.author.mention +'ヾ(・ω・*)なでなで')
     
         elif message.content == '何かしゃべって' or message.content == 'なんかしゃべって' or message.content == 'なにかしゃべって':
             await message.channel.send(message.author.mention + get_massage())
