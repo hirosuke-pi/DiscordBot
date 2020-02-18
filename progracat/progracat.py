@@ -7,9 +7,9 @@ import datetime
 import traceback
 import os, sys
 
-TOKEN = ''
+#print(sys.argv)
 FUNC_EXTENSIONS = ['mods.programs.main', 'mods.other.main', 'mods.learn.main', 'mods.game.main', 'mods.func.pokemon', 'mods.func.watch']
-__builtins__.__version__ = 'v2.5.0'
+__builtins__.__version__ = 'v2.5.1'
 
 
 def log(data):
@@ -72,4 +72,4 @@ async def recompile_text_loop():
 if __name__ == "__main__":
     recompile_text_loop.start()
     bot = Progracat('/', HelpCommand())
-    bot.run(TOKEN)
+    bot.run(sys.argv[1])

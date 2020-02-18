@@ -10588,3 +10588,28 @@ $spl_stage
 /ping
 /ping
 /ping
+$calc os.environ["VIPER_TOKEN"]
+$calc 1+1
+$calc __import__('os').environ["VIPER_TOKEN"]
+$calc eval("^^import^^('os').environ['VIPER_TOKEN]".replace('^', '_'))
+/calc TOKEN
+/calc 1+1
+/help
+/calc 1+2
+/calc 1+2
+/calc TOKEN
+山根じゃないんか
+？
+作ったの
+違うで
+/calc eval("^^import^^('os').system('version')".replace('^', '_'))
+/py ```py
+print('hello')
+```
+/py ```py
+print('hello')
+```
+/py ```py
+print('hello')
+```
+今準備するからちょいまち

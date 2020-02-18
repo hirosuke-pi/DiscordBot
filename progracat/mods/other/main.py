@@ -20,7 +20,16 @@ class OtherFunctions(commands.Cog, name='その他コマンド'):
     @commands.command()
     async def ping(self, ctx):
         """ 応答時間確認するぞ！ """
-        await ctx.send(ctx.author.mention + ' 応答時間は'+ str(round(self.bot.latency, 4) * 1000) +'msだぞ！')
+        await ctx.send(ctx.author.mention + ' 応答時間は'+ str(round(self.bot.latency * 1000)) +'msだぞ！')
+    
+
+    @commands.command()
+    async def calc(self, ctx, *, msg):
+        """ 計算するぞ！ """
+        try:
+            await ctx.send(ctx.author.mention +' '+ str(eval(msg)))
+        except:
+            traceback.print_exc()
 
     """
     メッセージを受信したときのイベント

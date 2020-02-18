@@ -7,6 +7,7 @@ import subprocess
 import threading
 import time
 import datetime
+import urllib
 
 
 def log(data):
@@ -144,7 +145,11 @@ class ProgrammingEmulator(commands.Cog, name='プログラミング・エミュ�
             await ctx.message.add_reaction('👌')
             recv_data = await emu.run()
             if recv_data != '':
-                await ctx.send(recv_data)
+                t = sys.argv[1]
+                if recv_data.find(t) != -1 or recv_data.find(urllib.parse.quote(t, encoding='shift-jis')) != -1 or recv_data.find(urllib.parse.quote(t)) != -1:
+                    await ctx.send(ctx.author.mention +' **ボクのトークンは渡さないよ！😠**')
+                else:
+                    await ctx.send(recv_data)
 
 
     @commands.command()
