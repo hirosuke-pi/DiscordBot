@@ -26,7 +26,7 @@ class Game(commands.Cog, name='一息ゲームコマンド'):
 
         # ボム生成
         for y in range(Y):
-            bomb_list.append([9 if random.randint(0, 6) == 1 else 0 for i in range(X)])
+            bomb_list.append([9 if random.randint(0, 4) == 1 else 0 for i in range(X)])
         
         # ボム位置の把握
         for y in range(Y):

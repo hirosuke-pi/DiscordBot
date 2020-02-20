@@ -10,6 +10,8 @@ import random
 import pokebase as pb
 import traceback
 import math
+import asyncio
+import jaconv
 
 
 class ProgressBar:
@@ -91,6 +93,7 @@ class PokemonValues:
             'speed'           : 5
         }
 
+        
         self.abi_jp = {
             'hp'              : 'たいりょく',
             'attack'          : 'こうげき',
@@ -99,6 +102,15 @@ class PokemonValues:
             'special-defense' : 'とくぼう',
             'speed'           : 'すばやさ'
         }
+        
+        self.abi_jp_list = [
+            'hp',
+            'attack',
+            'defense',
+            'special-attack',
+            'special-defense',
+            'speed'
+        ]
 
         self.id = 0
         self.name = ''
@@ -240,21 +252,22 @@ class Pokemon(commands.Cog, name='ポケモンコマンド'):
 
     def __init__(self, bot):
         self.bot = bot
-    
+        self.path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'score.txt')
+        self.load_points()
 
     async def send_progress(self, msg, main_msg, pr):
         await msg.edit(content=main_msg+' ' + pr.next())
 
 
     def embed_poke_catch(self, embed, pv):
-        for k, v in pv.abi_jp.items():
+        for k in pv.abi_jp_list:
             ab_val = pv.indi_dict[k]
-            embed.add_field(name=v, value='```' + str(pv.abilities[k]).ljust(3, ' ') + ' ['+ ('=' * ab_val) + ('.' * (31 - ab_val)) +']' +'``` '+ pv.indi_judge_dict[k]+'', inline=False)
+            embed.add_field(name=pv.abi_jp[k], value='```' + str(pv.abilities[k]).ljust(3, ' ') + ' ['+ ('=' * ab_val) + ('.' * (31 - ab_val)) +']' +'``` '+ pv.indi_judge_dict[k]+'', inline=False)
     
 
     def embed_poke_pic(self, embed, pv):
-        for k, v in pv.abi_jp.items():
-            embed.add_field(name=v, value='```' + str(pv.seed_dict[k]) +'```', inline=True)
+        for k in pv.abi_jp_list:
+            embed.add_field(name=pv.abi_jp[k], value='```' + str(pv.seed_dict[k]) +'```', inline=True)
     
 
     def get_risk(self):
@@ -262,28 +275,9 @@ class Pokemon(commands.Cog, name='ポケモンコマンド'):
         risk_list.append(False)
         random.shuffle(risk_list)
         return random.choice(risk_list)
+    
 
-
-    @commands.command(aliases=['p', 'pokemon'])
-    async def poke(self, ctx, msg):
-        """ ポケモン図鑑を調べるぞ！サン・ムーンまで対応してるぞ！ """
-        load_msg = ctx.author.mention +' 検索中だぞ！ちょっと待ってて...: '
-        embed = discord.Embed(title='ポケモン図鑑', color=random.randint(0, 0xffffff))
-        await self.pokemon_search(ctx, msg, load_msg, False, embed)
-
-
-    @commands.command(aliases=['pc', 'catch'])
-    async def pokecatch(self, ctx):
-        """ ポケモンを捕まえるぞ！ """
-        load_msg = ctx.author.mention +'はモンスターボールを投げた！ 結果は...: '
-        print('cmd')
-        try:
-            await self.pokemon_search(ctx, random.randint(1, 807), load_msg, True)
-        except:
-            traceback.print_exc()
-
-
-    async def pokemon_search(self, ctx, poke_ser, load_msg, flag, embed=''):
+    async def get_poke_data(self, ctx, poke_ser, load_msg):
         pr = ProgressBar(8)
         pv = PokemonValues()
         print('pokemon_id: '+ str(poke_ser))
@@ -363,49 +357,201 @@ class Pokemon(commands.Cog, name='ポケモンコマンド'):
             pv.calc()
             await self.send_progress(tmp, load_msg, pr)
 
-            print('indi_sum: ' + str(pv.indi_dict))
-            #print('seed_dict: '+ str(pv.seed_dict))
+        except ValueError:
+            await ctx.send(ctx.author.mention +' **ポケモンは見つからなかったぞ！**')
+            pv = None
+        except:
+            await ctx.send(ctx.author.mention +' エラーだぞ...: '  + str(traceback.print_exc()))
+            pv = None
 
-            if embed == '':
-                embed = discord.Embed(title='ポケモンをつかまえた！', description=ctx.author.mention + 'は、'+ pv.name +'をつかまえた！', color=random.randint(0, 0xffffff))
-            embed.add_field(name='図鑑番号', value=str(pv.id), inline=True)
-            embed.add_field(name='名前', value=pv.name + ' ('+ pv.name_en +')', inline=True)
-            embed.add_field(name='分類', value=pv.genus, inline=True)
-            embed.add_field(name='タイプ', value=pv.type, inline=True)
-            if flag: 
-                embed.add_field(name='せいべつ', value=str(pv.gender), inline=True)
-                embed.add_field(name='レベル', value='```' + str(pv.level) + '```', inline=True)
-            embed.set_image(url='https://raw.githubusercontent.com/fanzeyi/pokemon.json/master/images/'+ pv.img_id +'.png')
-            if flag:
-                self.embed_poke_catch(embed, pv)
-            else:
-                self.embed_poke_pic(embed, pv)
+        await tmp.delete()
+        await load_pic_msg.delete()
+
+        return pv
+
+
+    def set_pic_embed(self, embed, pv):
+        embed.add_field(name='図鑑番号', value=str(pv.id), inline=True)
+        embed.add_field(name='名前', value=pv.name + ' ('+ pv.name_en +')', inline=True)
+        embed.add_field(name='分類', value=pv.genus, inline=True)
+        embed.add_field(name='タイプ', value=pv.type, inline=True)
+        embed.set_image(url='https://raw.githubusercontent.com/fanzeyi/pokemon.json/master/images/'+ pv.img_id +'.png')
+        self.embed_poke_pic(embed, pv)
+        embed.add_field(name='種族値合計', value='```' + str(pv.seed_sum) + '```', inline=True)
+        embed.add_field(name='とくせい', value=pv.ability_name, inline=True)
+        embed.add_field(name='おもさ', value=str(pv.weight) +'kg', inline=True)
+        embed.add_field(name='たかさ', value=str(pv.height)+'m', inline=True)
+        embed.add_field(name='説明', value=pv.flavor, inline=False)
+    
+
+    def set_quiz_embed(self, embed, pv, lv):
+        embed.add_field(name='解答コマンド', value='```?ポケモン名（ひらがな）```', inline=False)
+        if lv <= 5:
+            embed.add_field(name='説明', value=pv.flavor, inline=False)
+        if lv <= 4:
+            self.embed_poke_pic(embed, pv)
             embed.add_field(name='種族値合計', value='```' + str(pv.seed_sum) + '```', inline=True)
-            if flag: 
-                embed.add_field(name='個体値', value=pv.indi_sum_judge, inline=True)
-                embed.add_field(name='せいかく', value=pv.personality, inline=True)
+        if lv <= 3:
             embed.add_field(name='とくせい', value=pv.ability_name, inline=True)
             embed.add_field(name='おもさ', value=str(pv.weight) +'kg', inline=True)
             embed.add_field(name='たかさ', value=str(pv.height)+'m', inline=True)
-            embed.add_field(name='説明', value=pv.flavor, inline=False)
+        if lv <= 2:
+            embed.add_field(name='分類', value=pv.genus, inline=True)
+            embed.add_field(name='タイプ', value=pv.type, inline=True)
+        if lv <= 1:
+            embed.set_image(url='https://raw.githubusercontent.com/fanzeyi/pokemon.json/master/images/'+ pv.img_id +'.png')
+    
 
-            await tmp.delete()
-            await load_pic_msg.delete()
+    def set_catching_embed(self, embed, pv): 
+        embed.add_field(name='図鑑番号', value=str(pv.id), inline=True)
+        embed.add_field(name='名前', value=pv.name + ' ('+ pv.name_en +')', inline=True)
+        embed.add_field(name='分類', value=pv.genus, inline=True)
+        embed.add_field(name='タイプ', value=pv.type, inline=True) 
+        embed.add_field(name='せいべつ', value=str(pv.gender), inline=True)
+        embed.add_field(name='レベル', value='```' + str(pv.level) + '```', inline=True)
+        embed.set_image(url='https://raw.githubusercontent.com/fanzeyi/pokemon.json/master/images/'+ pv.img_id +'.png')
+        self.embed_poke_catch(embed, pv)
+        embed.add_field(name='個体値', value=pv.indi_sum_judge, inline=True)
+        embed.add_field(name='せいかく', value=pv.personality, inline=True)
+        embed.add_field(name='とくせい', value=pv.ability_name, inline=True)
+        embed.add_field(name='おもさ', value=str(pv.weight) +'kg', inline=True)
+        embed.add_field(name='たかさ', value=str(pv.height)+'m', inline=True)
+        embed.add_field(name='説明', value=pv.flavor, inline=False)
+    
+    def get_mentions(self):
+        """ 全員分のメンションを取得 """
+        mention_dict = {}
+        for member in self.bot.get_all_members():
+            mention_dict[member.name] = member.mention
+        return mention_dict
 
-            if self.get_risk() or not(flag):
-                await ctx.send(embed=embed)
-            else:
-                await ctx.send(ctx.author.mention + ' 野生の**'+ pv.name +'**は逃げ出した！')
+    def load_points(self):
+        self.score = dict()
+        self.socre_tmp = dict()
+        if os.path.exists(self.path):
+            with open(self.path, 'r') as f:
+                self.score_tmp = json.load(f)
+            for k, v in self.score_tmp.items():
+                if v != 0:
+                    self.score[k] = v
+        else:
+            for m in self.get_mentions().values():
+                self.score[m] = 0
+    
 
-        except ValueError as e:
-            await load_pic_msg.delete()
-            await tmp.edit(content=ctx.author.mention + ' '+ poke_ser +'は見つからなかったぞ...')
-        except Exception as e:
-            await load_pic_msg.delete()
-            traceback.print_exc()
-            await tmp.edit(content=ctx.author.mention + ' エラーだぞ！: '+ str(e.args))
-
+    def unload_points(self):
+        with open(self.path, 'w') as f:
+            json.dump(self.score, f)
         
+
+    @commands.command(aliases=['p', 'pokemon'])
+    async def poke(self, ctx, msg):
+        """ ポケモン図鑑を調べるぞ！サン・ムーンまで対応してるぞ！ """
+        load_msg = ctx.author.mention +' 検索中だぞ！ちょっと待ってて...: '
+        try:
+            pv = await self.get_poke_data(ctx, msg, load_msg)
+            if pv != None:
+                embed = discord.Embed(title='ポケモン図鑑', color=random.randint(0, 0xffffff))
+                self.set_pic_embed(embed, pv)
+                await ctx.send(embed=embed)
+        except:
+            ctx.send(ctx.author.mention +' エラーだぞ...: '+ traceback.print_exc())
+
+
+    @commands.command(aliases=['ps'])
+    async def pokescore(self, ctx):
+        """ ポケモンクイズのスコアを表示するぞ！ """  
+        cnt = 1
+        embed = discord.Embed(title='ポケモンクイズスコア表', color=random.randint(0, 0xffffff))
+        for k, v in sorted(self.score.items(), key=lambda x: -x[1]):
+            embed.add_field(name=str(cnt), value=str(k) +' ```'+ str(v) + 'p```', inline=True)
+            cnt += 1
+        await ctx.send(embed=embed)
+
+
+    @commands.command(aliases=['pc', 'catch'])
+    async def pokecatch(self, ctx):
+        """ ポケモンを捕まえるぞ！ """
+        load_msg = ctx.author.mention +'はモンスターボールを投げた！ 結果は...: '
+        try:
+            pv = await self.get_poke_data(ctx, random.randint(1, 807), load_msg)
+            if pv != None:
+                embed = discord.Embed(title='ポケモンをつかまえた！', description=ctx.author.mention + 'は、'+ pv.name +'をつかまえた！', color=random.randint(0, 0xffffff))
+                self.set_catching_embed(embed, pv)
+                if self.get_risk():
+                    await ctx.send(embed=embed)
+                else:
+                    await ctx.send(ctx.author.mention + ' 野生の**'+ pv.name +'**は逃げ出した！')
+        except:
+            ctx.send(ctx.author.mention +' エラーだぞ...: '+ traceback.print_exc())
+    
+
+    @commands.command(aliases=['pq'])
+    async def pokequiz(self, ctx):
+        """ ポケモンクイズを出すぞ！ """
+        load_msg = ctx.author.mention +' クイズ作成中！ちょっと待ってて...: '
+        try:
+            pv = await self.get_poke_data(ctx, random.randint(1, 807), load_msg)
+            hira_name = jaconv.kata2hira(pv.name)
+            if pv != None:  
+                self.quiz_flag = True
+                asyncio.ensure_future(self.show_pokeauiz_hint(ctx, pv))
+                while not self.bot.is_closed():
+                    try:
+                        reply = await self.bot.wait_for("message", timeout=180)
+                    except asyncio.TimeoutError:
+                        embed = discord.Embed(title='ポケモンクイズ答え', description='時間切れ！', color=random.randint(0, 0xffffff))
+                        self.set_pic_embed(embed, pv)
+                        await ctx.send(embed=embed)
+                        self.quiz_flag = False
+                        break
+                    else:
+                        sp_reply = reply.content.split('?')
+                        if len(sp_reply) == 2:
+                            if sp_reply[1] == hira_name:
+                                if reply.author.mention in self.score:
+                                    self.score[reply.author.mention] += (10 * self.lv)
+                                else:
+                                    self.score[reply.author.mention] = (10 * self.lv)
+                                embed = discord.Embed(title='ポケモンクイズ答え', description=str(reply.author.mention) +'の正解！', color=random.randint(0, 0xffffff))
+                                embed.add_field(name='ポイント', value='スコア: **'+ str(self.score[reply.author.mention]) + 'p** ('+str(10 * self.lv)+'+)', inline=True)
+                                self.set_pic_embed(embed, pv)
+                                await ctx.send(embed=embed)
+                                self.quiz_flag = False
+                                self.unload_points()
+                                break
+                            else:
+                                await ctx.send(str(reply.author.mention) + ' **'+ sp_reply[1] + '**ではないぞ！')
+        except:
+            ctx.send(ctx.author.mention +' エラーだぞ...: '+ traceback.print_exc())
+    
+
+    async def show_pokeauiz_hint(self, ctx, pv):
+        # 答え合わせ
+        def check(reaction, user):
+            emoji = str(reaction.emoji)
+            if user.bot == True:    # botは無視
+                pass
+            else:
+                return emoji == '😰'
+
+        self.lv = 5
+        while self.quiz_flag:
+            embed = discord.Embed(title='ポケモンクイズ！', description=ctx.author.mention + 'は、解けるかな？ レベル:'+ str(self.lv), color=random.randint(0, 0xffffff))
+            self.set_quiz_embed(embed, pv, self.lv)
+            quiz_msg = await ctx.send(embed=embed)
+            if self.lv > 1:
+                await quiz_msg.add_reaction('😰')
+            else:
+                break
+            self.lv -= 1
+            while not self.bot.is_closed():
+                try:
+                    reaction, user = await self.bot.wait_for('reaction_add', timeout=180, check=check)
+                except asyncio.TimeoutError:
+                    self.quiz_flag = False
+                await quiz_msg.delete()
+                break
 
 def setup(bot):
     bot.add_cog(Pokemon(bot))

