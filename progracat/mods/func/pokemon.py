@@ -254,6 +254,9 @@ class Pokemon(commands.Cog, name='ポケモンコマンド'):
         self.bot = bot
         self.path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'score.txt')
         self.load_points()
+        self.poke_quiz_id = dict()
+        self.quiz_flag = False
+
 
     async def send_progress(self, msg, main_msg, pr):
         await msg.edit(content=main_msg+' ' + pr.next())
@@ -467,6 +470,28 @@ class Pokemon(commands.Cog, name='ポケモンコマンド'):
             embed.add_field(name=str(cnt), value=str(k) +' ```'+ str(v) + 'p```', inline=True)
             cnt += 1
         await ctx.send(embed=embed)
+    
+
+    @commands.command(aliases=['pqs'])
+    async def pokequizset(self, ctx, poke_id):
+        """ ポケモンクイズをセットするぞ！ """
+
+        msg_tmp = await ctx.send(ctx.author.mention + ' **'+ poke_id +'**を確認中！ちょっとまってて...')
+        try:
+            pb.pokemon(poke_id)
+        except:
+            await msg_tmp.edit(content=ctx.author.mention + ' **'+ poke_id +'**は見つからなかったぞ...')
+        else:
+            await msg_tmp.delete()
+            if len(self.poke_quiz_id) > 50:
+                self.poke_quiz_id.popitem()
+
+            quiz_id = str(random.randint(100000, 999999))
+            self.poke_quiz_id[quiz_id] = [poke_id, str(ctx.author.mention)]
+            embed = discord.Embed(title='ポケモンクイズID', description= ctx.author.mention +' 次のコマンドを打つとクイズが出題できるよ！', color=random.randint(0, 0xffffff))
+            embed.add_field(name='コマンド', value='```/pq '+ quiz_id + '```', inline=False)
+            await ctx.send(embed=embed)
+
 
 
     @commands.command(aliases=['pc', 'catch'])
@@ -476,7 +501,7 @@ class Pokemon(commands.Cog, name='ポケモンコマンド'):
         try:
             pv = await self.get_poke_data(ctx, random.randint(1, 807), load_msg)
             if pv != None:
-                embed = discord.Embed(title='ポケモンをつかまえた！', description=ctx.author.mention + 'は、'+ pv.name +'をつかまえた！', color=random.randint(0, 0xffffff))
+                embed = discord.Embed(title='ポケモンをつかまえた！', description=ctx.author.mention + 'は、**'+ pv.name +'**をつかまえた！', color=random.randint(0, 0xffffff))
                 self.set_catching_embed(embed, pv)
                 if self.get_risk():
                     await ctx.send(embed=embed)
@@ -487,14 +512,32 @@ class Pokemon(commands.Cog, name='ポケモンコマンド'):
     
 
     @commands.command(aliases=['pq'])
-    async def pokequiz(self, ctx):
+    async def pokequiz(self, ctx, *msg):
         """ ポケモンクイズを出すぞ！ """
-        load_msg = ctx.author.mention +' クイズ作成中！ちょっと待ってて...: '
+        id_made_mention = ''
+        if self.quiz_flag:
+             await ctx.send(ctx.author.mention +' まだクイズ中だぞ！')
+             return
+
+        if len(msg) == 1:
+            if msg[0] in self.poke_quiz_id:
+                poke_id = self.poke_quiz_id[msg[0]][0]
+                id_made_mention = self.poke_quiz_id[msg[0]][1]
+                del self.poke_quiz_id[msg[0]]
+                load_msg = ctx.author.mention +' クイズを読み込み中！ちょっと待ってて...: '
+            else:
+                await ctx.send(ctx.author.mention +' ID:**'+ msg[0] +'**は見つからなかったぞ...')
+                return
+        
+        else:
+            load_msg = ctx.author.mention +' クイズ作成中！ちょっと待ってて...: '
+            poke_id = random.randint(1, 807)
+
+        self.quiz_flag = True
         try:
-            pv = await self.get_poke_data(ctx, random.randint(1, 807), load_msg)
+            pv = await self.get_poke_data(ctx, poke_id, load_msg)
             hira_name = jaconv.kata2hira(pv.name)
             if pv != None:  
-                self.quiz_flag = True
                 asyncio.ensure_future(self.show_pokeauiz_hint(ctx, pv))
                 while not self.bot.is_closed():
                     try:
@@ -508,17 +551,23 @@ class Pokemon(commands.Cog, name='ポケモンコマンド'):
                     else:
                         sp_reply = reply.content.split('?')
                         if len(sp_reply) == 2:
+                            # 答え確認
                             if sp_reply[1] == hira_name:
-                                if reply.author.mention in self.score:
-                                    self.score[reply.author.mention] += (10 * self.lv)
-                                else:
-                                    self.score[reply.author.mention] = (10 * self.lv)
+                                point = 0
+                                # スコア加算
+                                if id_made_mention != reply.author.mention:
+                                    point = 10 * self.lv
+                                    if reply.author.mention in self.score:
+                                        self.score[reply.author.mention] += point
+                                    else:
+                                        self.score[reply.author.mention] = point
                                 embed = discord.Embed(title='ポケモンクイズ答え', description=str(reply.author.mention) +'の正解！', color=random.randint(0, 0xffffff))
-                                embed.add_field(name='ポイント', value='スコア: **'+ str(self.score[reply.author.mention]) + 'p** ('+str(10 * self.lv)+'+)', inline=True)
+                                embed.add_field(name='ポイント', value='スコア: **'+ str(self.score[reply.author.mention]) + 'p** ('+str(point)+'+)', inline=True)
                                 self.set_pic_embed(embed, pv)
+                                # データ送信
                                 await ctx.send(embed=embed)
                                 self.quiz_flag = False
-                                self.unload_points()
+                                self.unload_points() # スコアをファイル書き込み
                                 break
                             else:
                                 await ctx.send(str(reply.author.mention) + ' **'+ sp_reply[1] + '**ではないぞ！')
@@ -547,7 +596,7 @@ class Pokemon(commands.Cog, name='ポケモンコマンド'):
             self.lv -= 1
             while not self.bot.is_closed():
                 try:
-                    reaction, user = await self.bot.wait_for('reaction_add', timeout=180, check=check)
+                    reaction, user = await self.bot.wait_for('reaction_add', timeout=300, check=check)
                 except asyncio.TimeoutError:
                     self.quiz_flag = False
                 await quiz_msg.delete()

@@ -7,7 +7,7 @@ import traceback
 import os, sys
 
 FUNC_EXTENSIONS = ['mods.programs.main', 'mods.other.main', 'mods.game.main', 'mods.func.pokemon', 'mods.func.watch']
-__version__ = 'v2.6.0'
+__version__ = 'v2.6.1'
 
 
 def log(data):
