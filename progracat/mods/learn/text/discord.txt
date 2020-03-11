@@ -11297,3 +11297,14 @@ asd
 /pq
 ?ごーすと
 ごーすと
+/pq
+?みのむっち
+/pq
+/y https://www.youtube.com/watch?v=ucbx9we6EHk
+/y https://www.youtube.com/watch?v=ucbx9we6EHk
+/y https://www.youtube.com/watch?v=ucbx9we6EHk
+/y https://www.youtube.com/watch?v=ucbx9we6EHk
+/y https://www.youtube.com/watch?v=ucbx9we6EHk
+/y https://www.youtube.com/watch?v=ucbx9we6EHk
+/y https://youtu.be/ucbx9we6EHk
+/ping

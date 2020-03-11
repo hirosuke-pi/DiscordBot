@@ -2,12 +2,13 @@ import discord
 from discord.ext import commands
 from discord.ext import tasks
 
+from mods.learn.learn import *
 import datetime
 import traceback
 import os, sys
 
-FUNC_EXTENSIONS = ['mods.programs.main', 'mods.other.main', 'mods.game.main', 'mods.func.pokemon', 'mods.func.watch']
-__version__ = 'v2.6.1'
+FUNC_EXTENSIONS = ['mods.programs.main', 'mods.other.main', 'mods.learn.main', 'mods.game.main', 'mods.func.pokemon', 'mods.func.watch']
+__version__ = 'v2.6.3'
 
 
 def log(data):
@@ -56,6 +57,19 @@ class HelpCommand(commands.DefaultHelpCommand):
                 "https://github.com/betacode-projects/DiscordBot/tree/master/progracat ```")
 
 
+
+# Discordのメッセージデータを言語データに反映
+@tasks.loop(seconds=60*60*24)
+async def recompile_text_loop():
+    try:
+        compile_text()
+        log("[*] Languages data recompiled.")
+    except:
+        log("[-] Compile Error:")
+        traceback.print_exc()
+
+
 if __name__ == "__main__":
+    recompile_text_loop.start()
     bot = Progracat('/', HelpCommand())
     bot.run(sys.argv[1])

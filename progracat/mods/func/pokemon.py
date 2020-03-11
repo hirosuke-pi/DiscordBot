@@ -538,7 +538,7 @@ class Pokemon(commands.Cog, name='ポケモンコマンド'):
             pv = await self.get_poke_data(ctx, poke_id, load_msg)
             hira_name = jaconv.kata2hira(pv.name)
             if pv != None:  
-                asyncio.ensure_future(self.show_pokeauiz_hint(ctx, pv))
+                task = asyncio.ensure_future(self.show_pokeauiz_hint(ctx, pv))
                 while not self.bot.is_closed():
                     try:
                         reply = await self.bot.wait_for("message", timeout=180)
@@ -566,11 +566,13 @@ class Pokemon(commands.Cog, name='ポケモンコマンド'):
                                 self.set_pic_embed(embed, pv)
                                 # データ送信
                                 await ctx.send(embed=embed)
-                                self.quiz_flag = False
+
                                 self.unload_points() # スコアをファイル書き込み
                                 break
                             else:
                                 await ctx.send(str(reply.author.mention) + ' **'+ sp_reply[1] + '**ではないぞ！')
+                task.cancel()
+                self.quiz_flag = False
         except:
             ctx.send(ctx.author.mention +' エラーだぞ...: '+ traceback.print_exc())
     
@@ -588,18 +590,18 @@ class Pokemon(commands.Cog, name='ポケモンコマンド'):
         while self.quiz_flag:
             embed = discord.Embed(title='ポケモンクイズ！', description=ctx.author.mention + 'は、解けるかな？ レベル:'+ str(self.lv), color=random.randint(0, 0xffffff))
             self.set_quiz_embed(embed, pv, self.lv)
-            quiz_msg = await ctx.send(embed=embed)
+            self.quiz_msg = await ctx.send(embed=embed)
             if self.lv > 1:
-                await quiz_msg.add_reaction('😰')
+                await self.quiz_msg.add_reaction('😰')
             else:
                 break
             self.lv -= 1
             while not self.bot.is_closed():
                 try:
-                    reaction, user = await self.bot.wait_for('reaction_add', timeout=300, check=check)
+                    await self.bot.wait_for('reaction_add', timeout=300, check=check)
                 except asyncio.TimeoutError:
                     self.quiz_flag = False
-                await quiz_msg.delete()
+                await self.quiz_msg.delete()
                 break
 
 def setup(bot):

@@ -5,22 +5,38 @@ from mods.learn.learn import *
 import datetime
 import traceback
 import os, sys
+import socket
 
 
 class OtherFunctions(commands.Cog, name='その他コマンド'):
 
     def __init__(self, bot):
         self.bot = bot
-    
-    @commands.command()
-    async def ver(self, ctx):
-        """ バージョン確認するぞ！ """
-        await ctx.send(ctx.author.mention + ' バージョンは'+ __version__ +'だぞ！')
+
     
     @commands.command()
     async def ping(self, ctx):
         """ 応答時間確認するぞ！ """
         await ctx.send(ctx.author.mention + ' 応答時間は'+ str(round(self.bot.latency * 1000)) +'msだぞ！')
+    
+
+    @commands.command(aliases=['y'])
+    async def youtube(self, ctx, msg):
+        """ クッキー回避版Youtubeリンクに変換するぞ！ """
+        video_id = ''
+        if msg.find('youtube.com') != -1 or msg.find('youtu.be') != -1:
+            video_id_sp = msg.split('=')
+            if len(video_id_sp) == 2:
+                video_id = video_id_sp[1]
+            else:
+                video_id_sp = msg.split('/')
+                if len(video_id_sp) == 4:
+                    video_id = video_id_sp[3]
+
+        if video_id == '':
+            await ctx.send(ctx.author.mention + ' リンク変換できなかったぞ...')
+        else:
+            await ctx.send(ctx.author.mention + ' https://www.youtube-nocookie.com/embed/'+ video_id)
 
     """
     メッセージを受信したときのイベント
