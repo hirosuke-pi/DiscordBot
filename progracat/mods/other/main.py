@@ -75,11 +75,14 @@ class OtherFunctions(commands.Cog, name='その他コマンド'):
 
         elif message.content.find('プログラキャット') != -1 or message.content.find('progracat') != -1:
             await message.channel.send(message.author.mention + '(=^. .^=)ﾐｬｰ')
+
+        elif message.content.find('プログラドッグ') != -1 or message.content.find('progradog') != -1:
+            await message.channel.send(message.author.mention + '(^. .^)ワンワン!')
     
         elif message.content.find('尊い') != -1:
             await message.add_reaction('☺️')
         
-        elif message.content.find('ヨシ！') != -1:
+        elif message.content.find('ヨシ') != -1:
             await message.add_reaction('👈')
     
         elif message.content.find('おめ！') != -1 or message.content.find('おめでとう') != -1:

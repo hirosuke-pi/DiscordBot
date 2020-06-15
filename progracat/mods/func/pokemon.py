@@ -362,9 +362,11 @@ class Pokemon(commands.Cog, name='ポケモンコマンド'):
 
         except ValueError:
             await ctx.send(ctx.author.mention +' **ポケモンは見つからなかったぞ！**')
+            self.quiz_flag = False
             pv = None
         except:
             await ctx.send(ctx.author.mention +' エラーだぞ...: '  + str(traceback.print_exc()))
+            self.quiz_flag = False
             pv = None
 
         await tmp.delete()
