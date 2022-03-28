@@ -1,7 +1,6 @@
 package mod
 
 import (
-	"fmt"
 	"log"
 	"os"
 )
@@ -24,17 +23,17 @@ type LogEx struct {
 }
 
 func (l LogEx) Success(s ...any) {
-	l.succ.Println("[+]", fmt.Sprint(s...))
+	l.succ.Println(append([]any{"[+]"}, s...)...)
 }
 
 func (l LogEx) Warning(s ...any) {
-	l.warn.Println("[!]", fmt.Sprint(s...))
+	l.warn.Println(append([]any{"[!]"}, s...)...)
 }
 
 func (l LogEx) Error(s ...any) {
-	l.err.Println("[-]", fmt.Sprint(s...))
+	l.err.Println(append([]any{"[-]"}, s...)...)
 }
 
 func (l LogEx) Info(s ...any) {
-	l.info.Println("[*]", fmt.Sprint(s...))
+	l.info.Println(append([]any{"[*]"}, s...)...)
 }
