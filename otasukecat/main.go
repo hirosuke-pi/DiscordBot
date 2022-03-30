@@ -2,114 +2,129 @@ package main
 
 import (
 	"flag"
-	"log"
 	"os"
 	"os/signal"
 	"syscall"
 
-	. "otasukecat/mod"
+	"otasukecat/lib"
+	"otasukecat/mod"
 
 	"github.com/bwmarrin/discordgo"
 	"github.com/joho/godotenv"
 )
 
-var Log LogEx
-var Commands = []*discordgo.ApplicationCommand{
-	{
-		Name:        "test",
-		Description: "Test Command",
-	},
-	{
-		Name:        "cmd",
-		Description: "Command",
-	},
-}
+// コマンド内容
+var (
+	Commands = []*discordgo.ApplicationCommand{
+		{
+			Name:        "ping",
+			Description: "接続状況をみるよ！",
+		},
+		{
+			Name:        "cmd",
+			Description: "Command",
+		},
+	}
 
+	CommandHandlers = map[string]func(s *discordgo.Session, i *discordgo.InteractionCreate){
+		"ping": mod.Ping,
+	}
+)
+
+// 固定値
 var (
 	GuildID        = flag.String("guild", "", "Test guild ID. If not passed - bot registers commands globally")
 	RemoveCommands = flag.Bool("rmcmd", true, "Remove all commands after shutdowning or not")
 )
 
+var (
+	BotToken string
+	BotName  string
+)
+
+var (
+	Log        = lib.LogInit("")
+	BotSession *discordgo.Session
+)
+
+/*
+	グローバル変数初期化
+*/
 func init() {
-	Log = LogInit("")
+	loadEnv()
+	BotToken = "Bot " + os.Getenv("BOT_TOKEN")
+	BotName = "<@" + os.Getenv("CLIENT_ID") + ">"
+
+	Log.Info("Bot token:", BotToken)
+	Log.Info("Client ID:", BotName)
 }
 
-func main() {
-	loadEnv()
-
-	token := "Bot " + os.Getenv("BOT_TOKEN")
-	botName := "<@" + os.Getenv("CLIENT_ID") + ">"
-	commandHandlers := map[string]func(s *discordgo.Session, i *discordgo.InteractionCreate){
-		"test": func(s *discordgo.Session, i *discordgo.InteractionCreate) {
-			s.InteractionRespond(i.Interaction, &discordgo.InteractionResponse{
-				Type: discordgo.InteractionResponseChannelMessageWithSource,
-				Data: &discordgo.InteractionResponseData{
-					Content: "test",
-				},
-			})
-		},
-		"cmd": func(s *discordgo.Session, i *discordgo.InteractionCreate) {
-			s.InteractionRespond(i.Interaction, &discordgo.InteractionResponse{
-				Type: discordgo.InteractionResponseChannelMessageWithSource,
-				Data: &discordgo.InteractionResponseData{
-					Content: "cmd",
-				},
-			})
-		},
-	}
-
-	Log.Info("Bot token:", token)
-	Log.Info("Client ID:", botName)
-
-	// Discrod接続
-	discord, err := discordgo.New(token)
+/*
+	Discordに接続
+*/
+func init() {
+	// Discrod認証
+	session, err := discordgo.New(BotToken)
 	if err != nil {
 		Log.Error("ログインに失敗しました:", err)
 		return
 	}
 
 	// イベントハンドラ追加
-	discord.AddHandler(func(s *discordgo.Session, r *discordgo.Ready) {
+	session.AddHandler(func(s *discordgo.Session, r *discordgo.Ready) {
 		Log.Success("ログインしました:", s.State.User.Username+"#"+s.State.User.Discriminator)
 	})
-	discord.AddHandler(func(s *discordgo.Session, i *discordgo.InteractionCreate) {
-		if h, ok := commandHandlers[i.ApplicationCommandData().Name]; ok {
+	session.AddHandler(func(s *discordgo.Session, i *discordgo.InteractionCreate) {
+		if h, ok := CommandHandlers[i.ApplicationCommandData().Name]; ok {
 			h(s, i)
 		}
 	})
 
-	err = discord.Open()
+	// セッション確立
+	err = session.Open()
 	if err != nil {
 		Log.Error("コネクション確立に失敗しました:", err)
 	}
 
-	defer discord.Close()
+	BotSession = session
+}
+
+/*
+	コマンド追加、削除処理
+*/
+func main() {
+	defer BotSession.Close()
 
 	// コマンド追加処理
 	registeredCommands := make([]*discordgo.ApplicationCommand, len(Commands))
 	for i, v := range Commands {
-		cmd, err := discord.ApplicationCommandCreate(discord.State.User.ID, *GuildID, v)
+		cmd, err := BotSession.ApplicationCommandCreate(BotSession.State.User.ID, *GuildID, v)
 		if err != nil {
-			Log.Error("Cannot create '%v' command: %v", v.Name, err)
+			Log.Error("コマンド '"+v.Name+"' の作成に失敗しました:", err)
 		}
 		registeredCommands[i] = cmd
 	}
 
+	// 処理のストップ
 	stopBot := make(chan os.Signal, 1)
 	signal.Notify(stopBot, syscall.SIGINT, syscall.SIGTERM, os.Interrupt, os.Kill)
 	<-stopBot
 
+	// 登録されているコマンド削除
 	if *RemoveCommands {
 		Log.Info("コマンド削除中...")
 		for _, v := range registeredCommands {
-			err := discord.ApplicationCommandDelete(discord.State.User.ID, *GuildID, v.ID)
+			err := BotSession.ApplicationCommandDelete(BotSession.State.User.ID, *GuildID, v.ID)
 			if err != nil {
-				log.Panicf("Cannot delete '%v' command: %v", v.Name, err)
+				Log.Error("コマンド '"+v.Name+"' の削除に失敗しました:", err)
 			}
 		}
 	}
 }
 
+/*
+	.envファイル読み込み
+*/
 func loadEnv() {
 	err := godotenv.Load(".env")
 
