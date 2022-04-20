@@ -15,6 +15,7 @@ import (
 
 // コマンド内容
 var (
+	// コマンドとその説明
 	Commands = []*discordgo.ApplicationCommand{
 		{
 			Name:        "ping",
@@ -26,6 +27,7 @@ var (
 		},
 	}
 
+	// 実行されるコマンド
 	CommandHandlers = map[string]func(s *discordgo.Session, i *discordgo.InteractionCreate){
 		"ping": mod.Ping,
 	}
@@ -67,7 +69,7 @@ func init() {
 	session, err := discordgo.New(BotToken)
 	if err != nil {
 		Log.Error("ログインに失敗しました:", err)
-		return
+		panic(1)
 	}
 
 	// イベントハンドラ追加
@@ -84,6 +86,7 @@ func init() {
 	err = session.Open()
 	if err != nil {
 		Log.Error("コネクション確立に失敗しました:", err)
+		panic(0)
 	}
 
 	BotSession = session
@@ -105,7 +108,7 @@ func main() {
 		registeredCommands[i] = cmd
 	}
 
-	// 処理のストップ
+	// サーバーと同期
 	stopBot := make(chan os.Signal, 1)
 	signal.Notify(stopBot, syscall.SIGINT, syscall.SIGTERM, os.Interrupt, os.Kill)
 	<-stopBot
@@ -130,7 +133,7 @@ func loadEnv() {
 
 	if err != nil {
 		Log.Error(".env読み込みエラー: ", err)
-		return
+		panic(1)
 	}
 	Log.Success(".envを読み込みました。")
 }
